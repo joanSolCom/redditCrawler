@@ -1,0 +1,331 @@
+{
+    "kind": "t3",
+    "data": {
+        "approved_at_utc": null,
+        "subreddit": "IAmA",
+        "selftext": "Technologists everywhere have been rushing to build apps, services, and systems for contact tracing: identifying and notifying all those who come in contact with a covid-19 carrier. Some are lightweight and temporary, while others are pervasive and invasive: China's system, for example, sucks up data including citizens' identity, location, and even online payment history so that local police can watch for those who break quarantine rules.\n \nOpinions differ on whether these apps are just a technocratic daydream or—if done correctly—[a potentially useful supplement](https://www.technologyreview.com/2020/04/28/1000714/five-things-to-make-contact-tracing-work-covid-pandemic-apple-google/) to manual tracing. But the reality is that these services are already rolling out, and many more are likely to come in the next few months.\n \nDespite the avalanche of services, however, we know very little about them or how they could affect society. How many people will download and use them, and how widely used do they have to be in order to succeed? What data will they collect, and who is it shared with? How will that information be used in the future? Are there policies in place to prevent abuse?\n \nAt MIT Technology Review, we started asking these questions and found that there were not always clear answers.\n \nSo to help monitor this fast-evolving situation, we've gathered the information into a single place for the first time with our [Covid Tracing Tracker](https://www.technologyreview.com/2020/05/07/1000961/launching-mittr-covid-tracing-tracker/)—a database to capture details of every significant automated contact tracing effort around the world.\n \nWe've been working with a range of experts to understand what we need to look at, pulling sources including government documents, announcements, and media reports, as well as talking directly to those who are making these apps to understand the technologies and policies involved.\n \nAsk us anything about your country's automated contact tracing app, contact tracing more broadly, data privacy, or [how you can participate](https://www.technologyreview.com/2020/05/07/1001354/how-to-submit-a-change-to-the-covid-tracing-tracker-project/) in this project.\n \nWe're  Bobbie Johnson, an editor and lead on the project, Tate Ryan-Mosley, Tech Review's research manager, and Patrick Howell O'Neill, its cybersecurity and privacy reporter. Ask us anything!\n\nProof: https://twitter.com/techreview/status/1261417679484620800",
+        "author_fullname": "t2_25alwh0c",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "A flood of coronavirus apps are tracking all of us. We're the MIT Technology Review team helping you keep track of them. Ask us anything!",
+        "link_flair_richtext": [
+            {
+                "e": "text",
+                "t": "Technology"
+            }
+        ],
+        "subreddit_name_prefixed": "r/IAmA",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "tech",
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_gmqsez",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.93,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 7909,
+        "total_awards_received": 2,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Technology",
+        "can_mod_post": false,
+        "score": 7909,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "self",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "self",
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1589931143.0,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "self.IAmA",
+        "allow_live_comments": true,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Technologists everywhere have been rushing to build apps, services, and systems for contact tracing: identifying and notifying all those who come in contact with a covid-19 carrier. Some are lightweight and temporary, while others are pervasive and invasive: China&amp;#39;s system, for example, sucks up data including citizens&amp;#39; identity, location, and even online payment history so that local police can watch for those who break quarantine rules.&lt;/p&gt;\n\n&lt;p&gt;Opinions differ on whether these apps are just a technocratic daydream or—if done correctly—&lt;a href=\"https://www.technologyreview.com/2020/04/28/1000714/five-things-to-make-contact-tracing-work-covid-pandemic-apple-google/\"&gt;a potentially useful supplement&lt;/a&gt; to manual tracing. But the reality is that these services are already rolling out, and many more are likely to come in the next few months.&lt;/p&gt;\n\n&lt;p&gt;Despite the avalanche of services, however, we know very little about them or how they could affect society. How many people will download and use them, and how widely used do they have to be in order to succeed? What data will they collect, and who is it shared with? How will that information be used in the future? Are there policies in place to prevent abuse?&lt;/p&gt;\n\n&lt;p&gt;At MIT Technology Review, we started asking these questions and found that there were not always clear answers.&lt;/p&gt;\n\n&lt;p&gt;So to help monitor this fast-evolving situation, we&amp;#39;ve gathered the information into a single place for the first time with our &lt;a href=\"https://www.technologyreview.com/2020/05/07/1000961/launching-mittr-covid-tracing-tracker/\"&gt;Covid Tracing Tracker&lt;/a&gt;—a database to capture details of every significant automated contact tracing effort around the world.&lt;/p&gt;\n\n&lt;p&gt;We&amp;#39;ve been working with a range of experts to understand what we need to look at, pulling sources including government documents, announcements, and media reports, as well as talking directly to those who are making these apps to understand the technologies and policies involved.&lt;/p&gt;\n\n&lt;p&gt;Ask us anything about your country&amp;#39;s automated contact tracing app, contact tracing more broadly, data privacy, or &lt;a href=\"https://www.technologyreview.com/2020/05/07/1001354/how-to-submit-a-change-to-the-covid-tracing-tracker-project/\"&gt;how you can participate&lt;/a&gt; in this project.&lt;/p&gt;\n\n&lt;p&gt;We&amp;#39;re  Bobbie Johnson, an editor and lead on the project, Tate Ryan-Mosley, Tech Review&amp;#39;s research manager, and Patrick Howell O&amp;#39;Neill, its cybersecurity and privacy reporter. Ask us anything!&lt;/p&gt;\n\n&lt;p&gt;Proof: &lt;a href=\"https://twitter.com/techreview/status/1261417679484620800\"&gt;https://twitter.com/techreview/status/1261417679484620800&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": true,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/Mw31L7g-zoAbGv6mO8szJich6KemZ8JKA5Cp9XbvfCk.jpg?auto=webp&amp;s=1a864c3249a6d270c21683e6becc284a9aad71e7",
+                        "width": 1200,
+                        "height": 600
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/Mw31L7g-zoAbGv6mO8szJich6KemZ8JKA5Cp9XbvfCk.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=415f0d0635ccc0564cb9de40cbb5a420e65ff09b",
+                            "width": 108,
+                            "height": 54
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/Mw31L7g-zoAbGv6mO8szJich6KemZ8JKA5Cp9XbvfCk.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=71c99c9cdf7f098b18bc9e823ebdd5711cc6ad87",
+                            "width": 216,
+                            "height": 108
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/Mw31L7g-zoAbGv6mO8szJich6KemZ8JKA5Cp9XbvfCk.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ec3e503649c40d094d8080a42a13b8f2461fd2d0",
+                            "width": 320,
+                            "height": 160
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/Mw31L7g-zoAbGv6mO8szJich6KemZ8JKA5Cp9XbvfCk.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=d3bf4f26fe8baf63766ff185c0f7426f2e6fe909",
+                            "width": 640,
+                            "height": 320
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/Mw31L7g-zoAbGv6mO8szJich6KemZ8JKA5Cp9XbvfCk.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=8afa4c75c409220aaecfc9b3e25088ac6a393752",
+                            "width": 960,
+                            "height": 480
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/Mw31L7g-zoAbGv6mO8szJich6KemZ8JKA5Cp9XbvfCk.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=acb5a8951883bca2ea7c1b8d32d33b1fd49f864f",
+                            "width": 1080,
+                            "height": 540
+                        }
+                    ],
+                    "variants": {},
+                    "id": "2sYZERZK3nkuuVtEea17U6S9Qeln12obLlyXI8fIrqM"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 500,
+                "id": "award_2ae56630-cfe0-424e-b810-4945b9145358",
+                "penny_donate": null,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 100,
+                "icon_url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_512.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_512.png",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_512.png",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_512.png",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_512.png",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_512.png",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Thank you stranger. Gives %{coin_symbol}100 Coins to both the author and the community.",
+                "end_date": null,
+                "subreddit_coin_reward": 100,
+                "count": 1,
+                "static_icon_height": 2048,
+                "name": "Helpful (Pro)",
+                "resized_static_icons": [
+                    {
+                        "url": "https://external-preview.redd.it?width=16&amp;height=16&amp;auto=webp&amp;s=d88c9a453f8ac38850b7a8241cfe5804b7b4905d",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://external-preview.redd.it?width=32&amp;height=32&amp;auto=webp&amp;s=96a25019eb75878bdec4f6c012540f3baffbb1b2",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://external-preview.redd.it?width=48&amp;height=48&amp;auto=webp&amp;s=1a51d27d75afde3fbde8bba84f9338f511211461",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://external-preview.redd.it?width=64&amp;height=64&amp;auto=webp&amp;s=96af5ec460b05669ed60224cb0619bb8884abe27",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://external-preview.redd.it?width=128&amp;height=128&amp;auto=webp&amp;s=2d3e648ed2302e6258673051ca5291f57beb29d4",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": "APNG",
+                "icon_height": 2048,
+                "penny_price": null,
+                "award_type": "global",
+                "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/Animated_Helpful_512.png"
+            },
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 300,
+                "id": "award_cc299d65-77de-4828-89de-708b088349a0",
+                "penny_donate": null,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/x52x5be57fd41_GOAT.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x52x5be57fd41_GOAT.png?width=16&amp;height=16&amp;auto=webp&amp;s=65edcad28bb61e02c98f6e5abae94570f15577af",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x52x5be57fd41_GOAT.png?width=32&amp;height=32&amp;auto=webp&amp;s=ade31fce9fae3cd026513278fd6d8f43a2470473",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x52x5be57fd41_GOAT.png?width=48&amp;height=48&amp;auto=webp&amp;s=4a6669f710a159e308d70a09ad5d91bf26576801",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x52x5be57fd41_GOAT.png?width=64&amp;height=64&amp;auto=webp&amp;s=6411ff24501a3c9ab1ba1fcc56e111e2897ed4f6",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x52x5be57fd41_GOAT.png?width=128&amp;height=128&amp;auto=webp&amp;s=161171b7b4aadddcf4bd0b258229c95cbf461625",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Historical anomaly - greatest in eternity.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 2048,
+                "name": "GOAT",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x52x5be57fd41_GOAT.png?width=16&amp;height=16&amp;auto=webp&amp;s=65edcad28bb61e02c98f6e5abae94570f15577af",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x52x5be57fd41_GOAT.png?width=32&amp;height=32&amp;auto=webp&amp;s=ade31fce9fae3cd026513278fd6d8f43a2470473",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x52x5be57fd41_GOAT.png?width=48&amp;height=48&amp;auto=webp&amp;s=4a6669f710a159e308d70a09ad5d91bf26576801",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x52x5be57fd41_GOAT.png?width=64&amp;height=64&amp;auto=webp&amp;s=6411ff24501a3c9ab1ba1fcc56e111e2897ed4f6",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x52x5be57fd41_GOAT.png?width=128&amp;height=128&amp;auto=webp&amp;s=161171b7b4aadddcf4bd0b258229c95cbf461625",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 2048,
+                "penny_price": null,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/x52x5be57fd41_GOAT.png"
+            }
+        ],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "c4536ffc-8150-11e4-ac2d-22000bc00059",
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qzb6",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#ffffff",
+        "id": "gmqsez",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "techreview",
+        "discussion_type": null,
+        "num_comments": 444,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/IAmA/comments/gmqsez/a_flood_of_coronavirus_apps_are_tracking_all_of/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/IAmA/comments/gmqsez/a_flood_of_coronavirus_apps_are_tracking_all_of/",
+        "subreddit_subscribers": 20603948,
+        "created_utc": 1589902343.0,
+        "num_crossposts": 4,
+        "media": null,
+        "is_video": false
+    }
+}

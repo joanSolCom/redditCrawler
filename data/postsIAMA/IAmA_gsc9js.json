@@ -1,0 +1,162 @@
+{
+    "kind": "t3",
+    "data": {
+        "approved_at_utc": null,
+        "subreddit": "IAmA",
+        "selftext": "Hi Reddit! I’m Viktor Lidholt, a software engineer, designer, and entrepreneur. In my past, I’ve created award-winning game building tools used by tens of thousands of developers. I worked at the Flutter team at Google, held guest lectures in game development at MIT, UC Berkeley, Carnegie Mellon, and at conferences worldwide.\n\nI quit my engineering gig at Google to start my new venture, [Newsvoice: Unbiased News](https://newsvoice.com), with the aim to fix the news and to democratize the media. Newsvoice uses a mix of artificial intelligence, text analysis, and crowdsourcing to provide unbiased summaries of the news together with sources from many different perspectives. Today, we have 60.000 active readers and are growing every day. We’re a free app, with the revenue coming from donations from our community.\n\nCheckout the app here: [https://newsvoice.com/app](https://newsvoice.com/app/reddit)\n\n[Proof](https://newsvoice.com/ama)\n\n[Post on LinkedIn](https://www.linkedin.com/posts/viktorlidholt_about-to-do-an-ask-me-anything-on-reddit-activity-6671844853824946178-qrda/)\n\n[Portfolio](http://viktorious.com/)",
+        "author_fullname": "t2_ewi8h",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "I quit my job at Google’s headquarters in Silicon Valley to build an app to fix the news. Ask me anything!",
+        "link_flair_richtext": [
+            {
+                "e": "text",
+                "t": "Technology"
+            }
+        ],
+        "subreddit_name_prefixed": "r/IAmA",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "tech",
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_gsc9js",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.78,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 105,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Technology",
+        "can_mod_post": false,
+        "score": 105,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "self",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "self",
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1590720920.0,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "self.IAmA",
+        "allow_live_comments": true,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi Reddit! I’m Viktor Lidholt, a software engineer, designer, and entrepreneur. In my past, I’ve created award-winning game building tools used by tens of thousands of developers. I worked at the Flutter team at Google, held guest lectures in game development at MIT, UC Berkeley, Carnegie Mellon, and at conferences worldwide.&lt;/p&gt;\n\n&lt;p&gt;I quit my engineering gig at Google to start my new venture, &lt;a href=\"https://newsvoice.com\"&gt;Newsvoice: Unbiased News&lt;/a&gt;, with the aim to fix the news and to democratize the media. Newsvoice uses a mix of artificial intelligence, text analysis, and crowdsourcing to provide unbiased summaries of the news together with sources from many different perspectives. Today, we have 60.000 active readers and are growing every day. We’re a free app, with the revenue coming from donations from our community.&lt;/p&gt;\n\n&lt;p&gt;Checkout the app here: &lt;a href=\"https://newsvoice.com/app/reddit\"&gt;https://newsvoice.com/app&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://newsvoice.com/ama\"&gt;Proof&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.linkedin.com/posts/viktorlidholt_about-to-do-an-ask-me-anything-on-reddit-activity-6671844853824946178-qrda/\"&gt;Post on LinkedIn&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://viktorious.com/\"&gt;Portfolio&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": true,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/fqkrFxgxT1ENUTKLHhT7lNXfETdC8_bcXVEh7-hf4XU.jpg?auto=webp&amp;s=72aa48d59513c112bcc13d617f1ebce17c33ba9b",
+                        "width": 1640,
+                        "height": 720
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/fqkrFxgxT1ENUTKLHhT7lNXfETdC8_bcXVEh7-hf4XU.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=8a0f4e15859e85481765ec2a864badf2f3436826",
+                            "width": 108,
+                            "height": 47
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/fqkrFxgxT1ENUTKLHhT7lNXfETdC8_bcXVEh7-hf4XU.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=427e5d6bc86f007d4f59e8f713f2650da7eb8cc5",
+                            "width": 216,
+                            "height": 94
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/fqkrFxgxT1ENUTKLHhT7lNXfETdC8_bcXVEh7-hf4XU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ef09e2f0c8db2fb87cd79bc916ec1da28218963a",
+                            "width": 320,
+                            "height": 140
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/fqkrFxgxT1ENUTKLHhT7lNXfETdC8_bcXVEh7-hf4XU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=df8a72b55940891b71a302d541757d418376515d",
+                            "width": 640,
+                            "height": 280
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/fqkrFxgxT1ENUTKLHhT7lNXfETdC8_bcXVEh7-hf4XU.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=e92571e24e4e0f7b06334122bb8411d04cbcac07",
+                            "width": 960,
+                            "height": 421
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/fqkrFxgxT1ENUTKLHhT7lNXfETdC8_bcXVEh7-hf4XU.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=2579a10d58067e3d5ef2a18bcc9fbed0bbad9fcd",
+                            "width": 1080,
+                            "height": 474
+                        }
+                    ],
+                    "variants": {},
+                    "id": "NsA2KXie8vCiRLBsmvzwgE1J7VRPZeaMA74MBpDAKMc"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "c4536ffc-8150-11e4-ac2d-22000bc00059",
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qzb6",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#ffffff",
+        "id": "gsc9js",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "vik76",
+        "discussion_type": null,
+        "num_comments": 204,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/IAmA/comments/gsc9js/i_quit_my_job_at_googles_headquarters_in_silicon/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/IAmA/comments/gsc9js/i_quit_my_job_at_googles_headquarters_in_silicon/",
+        "subreddit_subscribers": 20603948,
+        "created_utc": 1590692120.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    }
+}

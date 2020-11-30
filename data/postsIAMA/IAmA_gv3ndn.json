@@ -1,0 +1,162 @@
+{
+    "kind": "t3",
+    "data": {
+        "approved_at_utc": null,
+        "subreddit": "IAmA",
+        "selftext": "So, I am a 16yo boy who has vision only from my right eye. I also have a glass eye for my left eye since it has microphthalmia (I think that's what it's called). So, feel free to ask anything!\n\n\nproof: http://imgur.com/a/TZRVL1v",
+        "author_fullname": "t2_2vmiubm7",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "I only see from one eye, AMA!",
+        "link_flair_richtext": [
+            {
+                "e": "text",
+                "t": "Health"
+            }
+        ],
+        "subreddit_name_prefixed": "r/IAmA",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "health",
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_gv3ndn",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.64,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 33,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Health",
+        "can_mod_post": false,
+        "score": 33,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "self",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "self",
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1591116368.0,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "self.IAmA",
+        "allow_live_comments": true,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;So, I am a 16yo boy who has vision only from my right eye. I also have a glass eye for my left eye since it has microphthalmia (I think that&amp;#39;s what it&amp;#39;s called). So, feel free to ask anything!&lt;/p&gt;\n\n&lt;p&gt;proof: &lt;a href=\"http://imgur.com/a/TZRVL1v\"&gt;http://imgur.com/a/TZRVL1v&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/4sgA4Y5jDTKJUb3XEjmggHYdIxdQsJ-I3zLIpvEJWq0.jpg?auto=webp&amp;s=8795c8067510750d45d88340f6d0076cad3305d1",
+                        "width": 1080,
+                        "height": 2340
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/4sgA4Y5jDTKJUb3XEjmggHYdIxdQsJ-I3zLIpvEJWq0.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=2ff318b0e91c790aee00e35009ef62f51f4eade8",
+                            "width": 108,
+                            "height": 216
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/4sgA4Y5jDTKJUb3XEjmggHYdIxdQsJ-I3zLIpvEJWq0.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=90a17689f25af1dbf2ac5269123b88c44269e228",
+                            "width": 216,
+                            "height": 432
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/4sgA4Y5jDTKJUb3XEjmggHYdIxdQsJ-I3zLIpvEJWq0.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=57100f2538288be631beda0d32d287b922585c77",
+                            "width": 320,
+                            "height": 640
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/4sgA4Y5jDTKJUb3XEjmggHYdIxdQsJ-I3zLIpvEJWq0.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5de0d707caeab44db2f42ac6e7644ad66e49a71f",
+                            "width": 640,
+                            "height": 1280
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/4sgA4Y5jDTKJUb3XEjmggHYdIxdQsJ-I3zLIpvEJWq0.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=9d97dd933ada8510f71bfcbbb576a242b3fe8b26",
+                            "width": 960,
+                            "height": 1920
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/4sgA4Y5jDTKJUb3XEjmggHYdIxdQsJ-I3zLIpvEJWq0.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=dc2cadce5cabe5f23e9e8e9ccb8f5de35df6755e",
+                            "width": 1080,
+                            "height": 2160
+                        }
+                    ],
+                    "variants": {},
+                    "id": "F-_98qHDc74PuoFRw20M6QO700iStlY-P4kRJnLKhjI"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "38c485f8-7b2d-11e4-bd9b-12313d052165",
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qzb6",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#ffffff",
+        "id": "gv3ndn",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "Lampisx",
+        "discussion_type": null,
+        "num_comments": 73,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/IAmA/comments/gv3ndn/i_only_see_from_one_eye_ama/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/IAmA/comments/gv3ndn/i_only_see_from_one_eye_ama/",
+        "subreddit_subscribers": 20603946,
+        "created_utc": 1591087568.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    }
+}

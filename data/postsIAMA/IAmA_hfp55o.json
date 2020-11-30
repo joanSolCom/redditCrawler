@@ -1,0 +1,152 @@
+{
+    "kind": "t3",
+    "data": {
+        "approved_at_utc": null,
+        "subreddit": "IAmA",
+        "selftext": "We are on the TomTom Maps APIs team based in the Netherlands, the U.S. and Poland: Developer Advocates Jose Rojas and Olivia Vahsen, and Expert Software Engineers Mateusz Szczepanczyk and Adam Ratcliffe.\n\nWe are working on developing APIs for location technology apps that need Search, Routing, Maps, Traffic, Geofencing and multi-platform SDKs. \n\nBeing able to build a highly accurate map is essential for the precise localization inherent to mobility applications such as delivery and ridesharing, fleet management, the logistics of asset tracking, IOT, and more, the world’s need for location technology is massive.\n\nOur developer portal enables engineers of all levels to access to not only our Maps APIs, but also documentation, tutorials, examples, and our team’s knowledge -- so that you can easily get started with your next location-based application and expand the future of mapping!\n \n\nThis is your chance to ask us any questions you may have around our APIs, documentation, examples and developing in Android, iOS or JS SDKs. And if you want to learn more LIVE please follow us on Twitch https://www.twitch.tv/tomtomdevs where Jose and Olivia discuss and do live coding and Tutorials every other Tuesday at 12PM PST.\n\nProof: https://twitter.com/TomTomDevs/status/1270812988803624964/photo/1",
+        "author_fullname": "t2_2dwivh3n",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "We are on the TomTom Maps APIs team. We are working on developing APIs for location technology apps that need Search, Routing, Maps, Traffic, Geofencing and multi-platform SDKs. Ask us anything!",
+        "link_flair_richtext": [
+            {
+                "e": "text",
+                "t": "Technology"
+            }
+        ],
+        "subreddit_name_prefixed": "r/IAmA",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "tech",
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_hfp55o",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.82,
+        "author_flair_background_color": "",
+        "subreddit_type": "public",
+        "ups": 22,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Technology",
+        "can_mod_post": false,
+        "score": 22,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "self",
+        "edited": 1593103379.0,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [
+            {
+                "a": ":verified:",
+                "e": "emoji",
+                "u": "https://emoji.redditmedia.com/c084y0ue7wv31_t5_2qzb6/verified"
+            },
+            {
+                "e": "text",
+                "t": " Scheduled AMA"
+            }
+        ],
+        "gildings": {},
+        "post_hint": "self",
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1593131346.0,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "richtext",
+        "domain": "self.IAmA",
+        "allow_live_comments": false,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;We are on the TomTom Maps APIs team based in the Netherlands, the U.S. and Poland: Developer Advocates Jose Rojas and Olivia Vahsen, and Expert Software Engineers Mateusz Szczepanczyk and Adam Ratcliffe.&lt;/p&gt;\n\n&lt;p&gt;We are working on developing APIs for location technology apps that need Search, Routing, Maps, Traffic, Geofencing and multi-platform SDKs. &lt;/p&gt;\n\n&lt;p&gt;Being able to build a highly accurate map is essential for the precise localization inherent to mobility applications such as delivery and ridesharing, fleet management, the logistics of asset tracking, IOT, and more, the world’s need for location technology is massive.&lt;/p&gt;\n\n&lt;p&gt;Our developer portal enables engineers of all levels to access to not only our Maps APIs, but also documentation, tutorials, examples, and our team’s knowledge -- so that you can easily get started with your next location-based application and expand the future of mapping!&lt;/p&gt;\n\n&lt;p&gt;This is your chance to ask us any questions you may have around our APIs, documentation, examples and developing in Android, iOS or JS SDKs. And if you want to learn more LIVE please follow us on Twitch &lt;a href=\"https://www.twitch.tv/tomtomdevs\"&gt;https://www.twitch.tv/tomtomdevs&lt;/a&gt; where Jose and Olivia discuss and do live coding and Tutorials every other Tuesday at 12PM PST.&lt;/p&gt;\n\n&lt;p&gt;Proof: &lt;a href=\"https://twitter.com/TomTomDevs/status/1270812988803624964/photo/1\"&gt;https://twitter.com/TomTomDevs/status/1270812988803624964/photo/1&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/hQAxEdSjBJt_De_2vlc1blUXAxEoBJGKdnFG-f5-9TU.jpg?auto=webp&amp;s=1a804ec25bfd304fe1442d940a1b3bbe41133de5",
+                        "width": 300,
+                        "height": 300
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/hQAxEdSjBJt_De_2vlc1blUXAxEoBJGKdnFG-f5-9TU.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=c69386a8f0b99543f55cfac64c4d9f5a026aed0c",
+                            "width": 108,
+                            "height": 108
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/hQAxEdSjBJt_De_2vlc1blUXAxEoBJGKdnFG-f5-9TU.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=b0816cb3058fcf0593c07692c0fa7f61a6fae9a0",
+                            "width": 216,
+                            "height": 216
+                        }
+                    ],
+                    "variants": {},
+                    "id": "NLm8ICLo03u68VLe4qUQKrx_uh_hRI88EFfN-Z0TWuY"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "c4536ffc-8150-11e4-ac2d-22000bc00059",
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": ":verified: Scheduled AMA",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qzb6",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#ffffff",
+        "id": "hfp55o",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "TomTom_developers",
+        "discussion_type": null,
+        "num_comments": 22,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/IAmA/comments/hfp55o/we_are_on_the_tomtom_maps_apis_team_we_are/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/IAmA/comments/hfp55o/we_are_on_the_tomtom_maps_apis_team_we_are/",
+        "subreddit_subscribers": 20603946,
+        "created_utc": 1593102546.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    }
+}

@@ -1,0 +1,1189 @@
+[
+    {
+        "approved_at_utc": null,
+        "subreddit": "IAmA",
+        "selftext": "Hello Reddit!\n\nWe are Kaspersky’s Global Research &amp; Analysis Team (GReAT), a group of 40+ threat hunters spread throughout 18 countries around the world. We track malicious hacker activity around the globe with an emphasis on advanced targeted attacks.\n\nIn case you are not familiar with us, we are the ones, who [told the world](https://securelist.com/the-cozyduke-apt/69731/) about the Cozy Bear hacking group long before they broke into DNC servers, the ones who uncovered the most sophisticated to date hacking group called [Equation](https://securelist.com/blog/research/68750/equation-the-death-star-of-malware-galaxy/) and the most dangerous gang of cyber robbers – [Carbanak](https://securelist.com/the-great-bank-robbery-the-carbanak-apt/68732/). We were the first who figured out that the notorious NotPetya ransomware, which caused real chaos all around the world, [was actually not ransomware but a wiper](https://securelist.com/expetrpetyanotpetya-is-a-wiper-not-ransomware/78902/) -  a real cyber weapon. We are the ones who drew the line between one of the oldest attacks ever against Pentagon and the activity of modern day hacking groups.  \n\nEvery day we see malicious hackers doing crazy things like [hiding their activity in satellite communications](https://securelist.com/satellite-turla-apt-command-and-control-in-the-sky/72081/), [infecting hotel networks](https://securelist.com/the-darkhotel-apt/66779/) to spy on very important guests, or even targeting [telecom operators networks](https://securelist.com/comparing-the-regin-module-50251-and-the-qwerty-keylogger/68525/) - to spy on whoever they want! We have seen them breaking into the supply chain of a [popular hardware producer](https://securelist.com/operation-shadowhammer-a-high-profile-supply-chain-attack/90380/) in order to be able to infect only a few specific users. We also witnessed how one hacking group [tried to pretend to be another hacking group](https://securelist.com/olympic-destroyer-is-still-alive/86169/) in order to place false flags and potentially cause an international scandal.\n\nOne day we even found them [poking around in our own network](https://securelist.com/the-mystery-of-duqu-2-0-a-sophisticated-cyberespionage-actor-returns/70504/)! And so on...\n\nAll of these are only a few stories we have to tell. Many more of them you can find here, at https://securelist.com .Today we are happy to answer your questions about how we do all our anti cyber espionage threat hunting magic every day. \n\n[Here is a photo of some of us just for you!](https://imgur.com/a/w8iJzQi)\n\nHere with us are:     \n  \nCostin Raiu - Global Director [@craiu](https://twitter.com/craiu)  \nVitaly Kamluk - [@vkamluk](https://twitter.com/vkamluk)  \nBrian Bartholomew - [@Mao_Ware](https://twitter.com/Mao_Ware)  \nNoushin Shabab - [@NoushinShbb](https://twitter.com/NoushinShbb)  \nMaria Namestnikova - [@SovsemNePodarok](https://twitter.com/SovsemNePodarok)  \nDmitry Bestuzhev - [@dimitribest](https://twitter.com/dimitribest)  \nDan Demeter - [@_xdanx](https://twitter.com/_xdanx)  \nAseel Kayal - [@CurlyCyber](https://twitter.com/CurlyCyber)  \nKurt Baumgartner - [@k_sec](https://twitter.com/k_sec)  \nIgor Kuznetsov - [@2igosha](https://twitter.com/2igosha)  \nIvan Kwiatowski - [@JusticeRage](https://twitter.com/JusticeRage)  \nAriel Jungheit - [@arieljt](https://twitter.com/arieljt)\n\n\nWant to know how we work, how we hunt down all those sophisticated actors and learn some tips and tricks?  \nThinking of a career in cybersecurity and have questions?  \n  \nAsk away!  \n \nA lot of people asked us about cybersecurity trainings and we'd like to point out we do have a fresh new Yara training available here: https://xtraining.kaspersky.com/\n\n\nEdit 2: In 1 hour we'll take a break, but meanwhile are happy to take all your questions , both controversial or not :)\n\nEdit 3: We'll wrap up for today, but we're coming back tomorrow to answer remaining questions! Cyaa!\nEdit 4: We are back to answer remaining questions!\nEdit 5:   \n\nDear friends, thanks a lot for all your love, good questions, good jokes and the good time!   \n\nTo all Reddit users who are asking questions about our data processing policies, politics, alleged connections with governments and questions related to trust. We fully understand your concerns and are willing to eliminate them. So if you are really seeking for answers to your questions, and are here not just to troll, then here you go: \n \n* We are open for cooperation and are more transparent than anyone else in the industry. You can read more about our transparency initiative here: https://www.kaspersky.com/about/transparency?ignoreredirects=true. It was created specifically to explain our technology and processes to those who are concerned. \n \n* Although we are an international company that is obliged to obey local laws in countries where we operate, not all laws concern our activity. Particularly we are often asked about SORM. This law is about tracking criminals through telecom networks. We are not a telecom operator, or a video-calling service or a chat app. This law doesn't concern us at all: https://media.kasperskydaily.com/wp-content/uploads/sites/92/2015/02/02060120/REPORT-OF-PROF-DR-KAJ-HOBER.pdf \n \n* Last but not least: we are often asked how safe is the data of our users. Apart from what has been already said about our will to be as transparent as possible, we could only add two things: \n    1. We give our users control to limit the data they send to us via the interface of our products. If you are a user of our B2B products, we have solutions that allow you not to upstream any data at all. \n    2. This year we are completing relocation of data processing for our users from Europe, US, and several other countries to Switzerland.  \n\nIt's time we wrap up our AMA and hope to see you all soon!\nPeace!",
+        "author_fullname": "t2_y85dg",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "We are Kaspersky's Global Research &amp; Analysis Team (GReAT) and we're back! Let's talk cyber and have fun!",
+        "link_flair_richtext": [
+            {
+                "e": "text",
+                "t": "Technology"
+            }
+        ],
+        "subreddit_name_prefixed": "r/IAmA",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "tech",
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_jstt6g",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.82,
+        "author_flair_background_color": "",
+        "subreddit_type": "public",
+        "ups": 2986,
+        "total_awards_received": 9,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Technology",
+        "can_mod_post": false,
+        "score": 2986,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "self",
+        "edited": 1605282218.0,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [
+            {
+                "a": ":verified:",
+                "e": "emoji",
+                "u": "https://emoji.redditmedia.com/c084y0ue7wv31_t5_2qzb6/verified"
+            },
+            {
+                "e": "text",
+                "t": " Scheduled AMA"
+            }
+        ],
+        "gildings": {},
+        "post_hint": "self",
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1605213124.0,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "richtext",
+        "domain": "self.IAmA",
+        "allow_live_comments": true,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hello Reddit!&lt;/p&gt;\n\n&lt;p&gt;We are Kaspersky’s Global Research &amp;amp; Analysis Team (GReAT), a group of 40+ threat hunters spread throughout 18 countries around the world. We track malicious hacker activity around the globe with an emphasis on advanced targeted attacks.&lt;/p&gt;\n\n&lt;p&gt;In case you are not familiar with us, we are the ones, who &lt;a href=\"https://securelist.com/the-cozyduke-apt/69731/\"&gt;told the world&lt;/a&gt; about the Cozy Bear hacking group long before they broke into DNC servers, the ones who uncovered the most sophisticated to date hacking group called &lt;a href=\"https://securelist.com/blog/research/68750/equation-the-death-star-of-malware-galaxy/\"&gt;Equation&lt;/a&gt; and the most dangerous gang of cyber robbers – &lt;a href=\"https://securelist.com/the-great-bank-robbery-the-carbanak-apt/68732/\"&gt;Carbanak&lt;/a&gt;. We were the first who figured out that the notorious NotPetya ransomware, which caused real chaos all around the world, &lt;a href=\"https://securelist.com/expetrpetyanotpetya-is-a-wiper-not-ransomware/78902/\"&gt;was actually not ransomware but a wiper&lt;/a&gt; -  a real cyber weapon. We are the ones who drew the line between one of the oldest attacks ever against Pentagon and the activity of modern day hacking groups.  &lt;/p&gt;\n\n&lt;p&gt;Every day we see malicious hackers doing crazy things like &lt;a href=\"https://securelist.com/satellite-turla-apt-command-and-control-in-the-sky/72081/\"&gt;hiding their activity in satellite communications&lt;/a&gt;, &lt;a href=\"https://securelist.com/the-darkhotel-apt/66779/\"&gt;infecting hotel networks&lt;/a&gt; to spy on very important guests, or even targeting &lt;a href=\"https://securelist.com/comparing-the-regin-module-50251-and-the-qwerty-keylogger/68525/\"&gt;telecom operators networks&lt;/a&gt; - to spy on whoever they want! We have seen them breaking into the supply chain of a &lt;a href=\"https://securelist.com/operation-shadowhammer-a-high-profile-supply-chain-attack/90380/\"&gt;popular hardware producer&lt;/a&gt; in order to be able to infect only a few specific users. We also witnessed how one hacking group &lt;a href=\"https://securelist.com/olympic-destroyer-is-still-alive/86169/\"&gt;tried to pretend to be another hacking group&lt;/a&gt; in order to place false flags and potentially cause an international scandal.&lt;/p&gt;\n\n&lt;p&gt;One day we even found them &lt;a href=\"https://securelist.com/the-mystery-of-duqu-2-0-a-sophisticated-cyberespionage-actor-returns/70504/\"&gt;poking around in our own network&lt;/a&gt;! And so on...&lt;/p&gt;\n\n&lt;p&gt;All of these are only a few stories we have to tell. Many more of them you can find here, at &lt;a href=\"https://securelist.com\"&gt;https://securelist.com&lt;/a&gt; .Today we are happy to answer your questions about how we do all our anti cyber espionage threat hunting magic every day. &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://imgur.com/a/w8iJzQi\"&gt;Here is a photo of some of us just for you!&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Here with us are:     &lt;/p&gt;\n\n&lt;p&gt;Costin Raiu - Global Director &lt;a href=\"https://twitter.com/craiu\"&gt;@craiu&lt;/a&gt;&lt;br/&gt;\nVitaly Kamluk - &lt;a href=\"https://twitter.com/vkamluk\"&gt;@vkamluk&lt;/a&gt;&lt;br/&gt;\nBrian Bartholomew - &lt;a href=\"https://twitter.com/Mao_Ware\"&gt;@Mao_Ware&lt;/a&gt;&lt;br/&gt;\nNoushin Shabab - &lt;a href=\"https://twitter.com/NoushinShbb\"&gt;@NoushinShbb&lt;/a&gt;&lt;br/&gt;\nMaria Namestnikova - &lt;a href=\"https://twitter.com/SovsemNePodarok\"&gt;@SovsemNePodarok&lt;/a&gt;&lt;br/&gt;\nDmitry Bestuzhev - &lt;a href=\"https://twitter.com/dimitribest\"&gt;@dimitribest&lt;/a&gt;&lt;br/&gt;\nDan Demeter - &lt;a href=\"https://twitter.com/_xdanx\"&gt;@_xdanx&lt;/a&gt;&lt;br/&gt;\nAseel Kayal - &lt;a href=\"https://twitter.com/CurlyCyber\"&gt;@CurlyCyber&lt;/a&gt;&lt;br/&gt;\nKurt Baumgartner - &lt;a href=\"https://twitter.com/k_sec\"&gt;@k_sec&lt;/a&gt;&lt;br/&gt;\nIgor Kuznetsov - &lt;a href=\"https://twitter.com/2igosha\"&gt;@2igosha&lt;/a&gt;&lt;br/&gt;\nIvan Kwiatowski - &lt;a href=\"https://twitter.com/JusticeRage\"&gt;@JusticeRage&lt;/a&gt;&lt;br/&gt;\nAriel Jungheit - &lt;a href=\"https://twitter.com/arieljt\"&gt;@arieljt&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Want to know how we work, how we hunt down all those sophisticated actors and learn some tips and tricks?&lt;br/&gt;\nThinking of a career in cybersecurity and have questions?  &lt;/p&gt;\n\n&lt;p&gt;Ask away!  &lt;/p&gt;\n\n&lt;p&gt;A lot of people asked us about cybersecurity trainings and we&amp;#39;d like to point out we do have a fresh new Yara training available here: &lt;a href=\"https://xtraining.kaspersky.com/\"&gt;https://xtraining.kaspersky.com/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Edit 2: In 1 hour we&amp;#39;ll take a break, but meanwhile are happy to take all your questions , both controversial or not :)&lt;/p&gt;\n\n&lt;p&gt;Edit 3: We&amp;#39;ll wrap up for today, but we&amp;#39;re coming back tomorrow to answer remaining questions! Cyaa!\nEdit 4: We are back to answer remaining questions!\nEdit 5:   &lt;/p&gt;\n\n&lt;p&gt;Dear friends, thanks a lot for all your love, good questions, good jokes and the good time!   &lt;/p&gt;\n\n&lt;p&gt;To all Reddit users who are asking questions about our data processing policies, politics, alleged connections with governments and questions related to trust. We fully understand your concerns and are willing to eliminate them. So if you are really seeking for answers to your questions, and are here not just to troll, then here you go: &lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;p&gt;We are open for cooperation and are more transparent than anyone else in the industry. You can read more about our transparency initiative here: &lt;a href=\"https://www.kaspersky.com/about/transparency?ignoreredirects=true\"&gt;https://www.kaspersky.com/about/transparency?ignoreredirects=true&lt;/a&gt;. It was created specifically to explain our technology and processes to those who are concerned. &lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Although we are an international company that is obliged to obey local laws in countries where we operate, not all laws concern our activity. Particularly we are often asked about SORM. This law is about tracking criminals through telecom networks. We are not a telecom operator, or a video-calling service or a chat app. This law doesn&amp;#39;t concern us at all: &lt;a href=\"https://media.kasperskydaily.com/wp-content/uploads/sites/92/2015/02/02060120/REPORT-OF-PROF-DR-KAJ-HOBER.pdf\"&gt;https://media.kasperskydaily.com/wp-content/uploads/sites/92/2015/02/02060120/REPORT-OF-PROF-DR-KAJ-HOBER.pdf&lt;/a&gt; &lt;/p&gt;&lt;/li&gt;\n&lt;li&gt;&lt;p&gt;Last but not least: we are often asked how safe is the data of our users. Apart from what has been already said about our will to be as transparent as possible, we could only add two things: &lt;/p&gt;\n\n&lt;ol&gt;\n&lt;li&gt;We give our users control to limit the data they send to us via the interface of our products. If you are a user of our B2B products, we have solutions that allow you not to upstream any data at all. &lt;/li&gt;\n&lt;li&gt;This year we are completing relocation of data processing for our users from Europe, US, and several other countries to Switzerland.&lt;br/&gt;&lt;/li&gt;\n&lt;/ol&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;It&amp;#39;s time we wrap up our AMA and hope to see you all soon!\nPeace!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/JynGb5Iv2xn4rKrL8HG4eJ_4n5UkdVgGcn9sHYtWCok.jpg?auto=webp&amp;s=200a7d484efd6225cb689a36977d73d410d8063e",
+                        "width": 4796,
+                        "height": 2160
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/JynGb5Iv2xn4rKrL8HG4eJ_4n5UkdVgGcn9sHYtWCok.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=192add5abff868ab4a606d4db616c15df54e27d8",
+                            "width": 108,
+                            "height": 48
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/JynGb5Iv2xn4rKrL8HG4eJ_4n5UkdVgGcn9sHYtWCok.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=d0138acfc5a2e9f270cd03390c56d906c04369fe",
+                            "width": 216,
+                            "height": 97
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/JynGb5Iv2xn4rKrL8HG4eJ_4n5UkdVgGcn9sHYtWCok.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=37d59ab92837e8aeb81b30147edcba605f13a76e",
+                            "width": 320,
+                            "height": 144
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/JynGb5Iv2xn4rKrL8HG4eJ_4n5UkdVgGcn9sHYtWCok.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=679bb91121558a064e33b16306871e739ca0a6b8",
+                            "width": 640,
+                            "height": 288
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/JynGb5Iv2xn4rKrL8HG4eJ_4n5UkdVgGcn9sHYtWCok.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=1dc01811ed264e3c7300bffdf9bb7c25cae0dd31",
+                            "width": 960,
+                            "height": 432
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/JynGb5Iv2xn4rKrL8HG4eJ_4n5UkdVgGcn9sHYtWCok.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=4a6f7ebcb2dfa3c101d60bece0bb4c098af18ee4",
+                            "width": 1080,
+                            "height": 486
+                        }
+                    ],
+                    "variants": {},
+                    "id": "jYZSknmEk2YJ_gJiiLrziFdiYVilxSO9P9oASjZ46K8"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": "t5_2qzb6",
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 600,
+                "id": "award_09bc8528-ed1a-4bbf-b6af-12b13978f9f9",
+                "penny_donate": null,
+                "award_sub_type": "COMMUNITY",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_2qzb6/zv55bvj4dw731_PopcornTastesGood.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/zv55bvj4dw731_PopcornTastesGood.png?width=16&amp;height=16&amp;auto=webp&amp;s=bb1e4cd6db5f278be3da84f3285e42c06f6046ac",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/zv55bvj4dw731_PopcornTastesGood.png?width=32&amp;height=32&amp;auto=webp&amp;s=73d3ad2ab209dfbf272329431305022c0b328fc5",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/zv55bvj4dw731_PopcornTastesGood.png?width=48&amp;height=48&amp;auto=webp&amp;s=2c64d55563e7c37a7631c5ec27d607ba6404e46f",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/zv55bvj4dw731_PopcornTastesGood.png?width=64&amp;height=64&amp;auto=webp&amp;s=9898eb68f0ca8d11f41a5803108f2bf64dfc29e1",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/zv55bvj4dw731_PopcornTastesGood.png?width=128&amp;height=128&amp;auto=webp&amp;s=27e186208b23f5e8b478a952bfbe3c7e367a0db4",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 512,
+                "static_icon_width": 512,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Shows the Popcorn Tastes Good Award and grants %{coin_symbol}120 Coins to the community. Exclusive to this community.",
+                "end_date": null,
+                "subreddit_coin_reward": 120,
+                "count": 1,
+                "static_icon_height": 512,
+                "name": "Popcorn Tastes Good",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/zv55bvj4dw731_PopcornTastesGood.png?width=16&amp;height=16&amp;auto=webp&amp;s=bb1e4cd6db5f278be3da84f3285e42c06f6046ac",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/zv55bvj4dw731_PopcornTastesGood.png?width=32&amp;height=32&amp;auto=webp&amp;s=73d3ad2ab209dfbf272329431305022c0b328fc5",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/zv55bvj4dw731_PopcornTastesGood.png?width=48&amp;height=48&amp;auto=webp&amp;s=2c64d55563e7c37a7631c5ec27d607ba6404e46f",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/zv55bvj4dw731_PopcornTastesGood.png?width=64&amp;height=64&amp;auto=webp&amp;s=9898eb68f0ca8d11f41a5803108f2bf64dfc29e1",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/zv55bvj4dw731_PopcornTastesGood.png?width=128&amp;height=128&amp;auto=webp&amp;s=27e186208b23f5e8b478a952bfbe3c7e367a0db4",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 512,
+                "penny_price": null,
+                "award_type": "community",
+                "static_icon_url": "https://i.redd.it/award_images/t5_2qzb6/zv55bvj4dw731_PopcornTastesGood.png"
+            },
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 300,
+                "id": "award_28e8196b-d4e9-45bc-b612-cd4c7d3ed4b3",
+                "penny_donate": null,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=16&amp;height=16&amp;auto=webp&amp;s=c1400eb6ea235d0c96c3aa6e271c71d7f339cbd4",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=32&amp;height=32&amp;auto=webp&amp;s=77ad345b2f9b062140e028764394594326771a17",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=48&amp;height=48&amp;auto=webp&amp;s=5b5211166e4b260311ad9f3ea31d3b815110769c",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=64&amp;height=64&amp;auto=webp&amp;s=bf3a2c642ad50547087d770c65c29777970d3af3",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=128&amp;height=128&amp;auto=webp&amp;s=eae06d6a70c62c78dc66cb14f2a84651cb822cc4",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "When an upvote just isn't enough, smash the Rocket Like.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 2048,
+                "name": "Rocket Like",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=16&amp;height=16&amp;auto=webp&amp;s=c1400eb6ea235d0c96c3aa6e271c71d7f339cbd4",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=32&amp;height=32&amp;auto=webp&amp;s=77ad345b2f9b062140e028764394594326771a17",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=48&amp;height=48&amp;auto=webp&amp;s=5b5211166e4b260311ad9f3ea31d3b815110769c",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=64&amp;height=64&amp;auto=webp&amp;s=bf3a2c642ad50547087d770c65c29777970d3af3",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png?width=128&amp;height=128&amp;auto=webp&amp;s=eae06d6a70c62c78dc66cb14f2a84651cb822cc4",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 2048,
+                "penny_price": null,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/94pn64yuas941_RocketLike.png"
+            },
+            {
+                "giver_coin_reward": 0,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 200,
+                "id": "award_e813313c-1002-49bf-ac37-e966710f605f",
+                "penny_donate": 0,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://www.redditstatic.com/gold/awards/icon/Giggle_512.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Giggle_16.png",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Giggle_32.png",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Giggle_48.png",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Giggle_64.png",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/Giggle_128.png",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 512,
+                "static_icon_width": 512,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Innocent laughter",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 512,
+                "name": "Giggle",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/cp7onb0sf9e51_Giggle.png?width=16&amp;height=16&amp;auto=webp&amp;s=e08bad05dde2e5842a91f7bba4a1f17528f79191",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/cp7onb0sf9e51_Giggle.png?width=32&amp;height=32&amp;auto=webp&amp;s=fe539db7dcc79aa2f99f16851276f06c46077884",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/cp7onb0sf9e51_Giggle.png?width=48&amp;height=48&amp;auto=webp&amp;s=2700dd1ac1ecb1703978cdc769b802493387e3e0",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/cp7onb0sf9e51_Giggle.png?width=64&amp;height=64&amp;auto=webp&amp;s=597cf13251176dd43689d6cc8e086691d6f6079c",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/cp7onb0sf9e51_Giggle.png?width=128&amp;height=128&amp;auto=webp&amp;s=534d2159f34b2698cd6c4255525d73ed6c25ba88",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": "APNG",
+                "icon_height": 512,
+                "penny_price": 0,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/cp7onb0sf9e51_Giggle.png"
+            },
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 150,
+                "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+                "penny_donate": null,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Thank you stranger. Shows the award.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 2,
+                "static_icon_height": 2048,
+                "name": "Helpful",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 2048,
+                "penny_price": null,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png"
+            },
+            {
+                "giver_coin_reward": 0,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 100,
+                "id": "award_74fe5152-7906-4991-9016-bc2d8e261200",
+                "penny_donate": 0,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=16&amp;height=16&amp;auto=webp&amp;s=094da86916604f4fc9f7f63c827e31c976f00928",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=32&amp;height=32&amp;auto=webp&amp;s=52886a42b9871ec69a4465609472a864dbab27b1",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=48&amp;height=48&amp;auto=webp&amp;s=63a8f5eff627778a221c58daffbfbbb87b7fe350",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=64&amp;height=64&amp;auto=webp&amp;s=da0d9de08517646db45b766dbb0e7b94d2e97312",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=128&amp;height=128&amp;auto=webp&amp;s=58d3501a4314be9d47349a1f7925e18f30a832e5",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": false,
+                "awardings_required_to_grant_benefits": null,
+                "description": "I don't know what to do with my hands!",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 2048,
+                "name": "Excited",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=16&amp;height=16&amp;auto=webp&amp;s=094da86916604f4fc9f7f63c827e31c976f00928",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=32&amp;height=32&amp;auto=webp&amp;s=52886a42b9871ec69a4465609472a864dbab27b1",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=48&amp;height=48&amp;auto=webp&amp;s=63a8f5eff627778a221c58daffbfbbb87b7fe350",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=64&amp;height=64&amp;auto=webp&amp;s=da0d9de08517646db45b766dbb0e7b94d2e97312",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png?width=128&amp;height=128&amp;auto=webp&amp;s=58d3501a4314be9d47349a1f7925e18f30a832e5",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": "PNG",
+                "icon_height": 2048,
+                "penny_price": 0,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/x069ow7ewnf51_Excited.png"
+            },
+            {
+                "giver_coin_reward": 0,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 100,
+                "id": "award_81cf5c92-8500-498c-9c94-3e4034cece0a",
+                "penny_donate": 0,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/nvfe4gyawnf51_Dread.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/nvfe4gyawnf51_Dread.png?width=16&amp;height=16&amp;auto=webp&amp;s=5ef2e0d3bc325a7e1fb2d22c1fec1e6b4b6fc745",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/nvfe4gyawnf51_Dread.png?width=32&amp;height=32&amp;auto=webp&amp;s=4932a768430215109c262c88950bcba46e9e1b23",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/nvfe4gyawnf51_Dread.png?width=48&amp;height=48&amp;auto=webp&amp;s=287f90bae451c50dfa5076e5e70c30f7396421b2",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/nvfe4gyawnf51_Dread.png?width=64&amp;height=64&amp;auto=webp&amp;s=4313a1836086f33447b60d11d3d16cf2c57d20de",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/nvfe4gyawnf51_Dread.png?width=128&amp;height=128&amp;auto=webp&amp;s=b32edce435e22d111c10cdebeefd2e49ece8b6e4",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Staring into the abyss and it's staring right back",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 2048,
+                "name": "Dread",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/nvfe4gyawnf51_Dread.png?width=16&amp;height=16&amp;auto=webp&amp;s=5ef2e0d3bc325a7e1fb2d22c1fec1e6b4b6fc745",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/nvfe4gyawnf51_Dread.png?width=32&amp;height=32&amp;auto=webp&amp;s=4932a768430215109c262c88950bcba46e9e1b23",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/nvfe4gyawnf51_Dread.png?width=48&amp;height=48&amp;auto=webp&amp;s=287f90bae451c50dfa5076e5e70c30f7396421b2",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/nvfe4gyawnf51_Dread.png?width=64&amp;height=64&amp;auto=webp&amp;s=4313a1836086f33447b60d11d3d16cf2c57d20de",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/nvfe4gyawnf51_Dread.png?width=128&amp;height=128&amp;auto=webp&amp;s=b32edce435e22d111c10cdebeefd2e49ece8b6e4",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": "PNG",
+                "icon_height": 2048,
+                "penny_price": 0,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/nvfe4gyawnf51_Dread.png"
+            },
+            {
+                "giver_coin_reward": 0,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 80,
+                "id": "award_8352bdff-3e03-4189-8a08-82501dd8f835",
+                "penny_donate": 0,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=16&amp;height=16&amp;auto=webp&amp;s=85b1aa61933f163dd2b77b1e78f4d82d9c947ec1",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=32&amp;height=32&amp;auto=webp&amp;s=67935636337b07ca5b98d945f4bcdae26e5f567e",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=48&amp;height=48&amp;auto=webp&amp;s=547d5fb33f5a4a5d6fc154cbd658638cc2b1c3a0",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=64&amp;height=64&amp;auto=webp&amp;s=e17bc331183e7ba194314a34e43b35460a835fff",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=128&amp;height=128&amp;auto=webp&amp;s=1b4e617f18af8d4e2c47c2f154d4422be43c809f",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Everything is better with a good hug",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 2,
+                "static_icon_height": 2048,
+                "name": "Hugz",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=16&amp;height=16&amp;auto=webp&amp;s=85b1aa61933f163dd2b77b1e78f4d82d9c947ec1",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=32&amp;height=32&amp;auto=webp&amp;s=67935636337b07ca5b98d945f4bcdae26e5f567e",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=48&amp;height=48&amp;auto=webp&amp;s=547d5fb33f5a4a5d6fc154cbd658638cc2b1c3a0",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=64&amp;height=64&amp;auto=webp&amp;s=e17bc331183e7ba194314a34e43b35460a835fff",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png?width=128&amp;height=128&amp;auto=webp&amp;s=1b4e617f18af8d4e2c47c2f154d4422be43c809f",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": "PNG",
+                "icon_height": 2048,
+                "penny_price": 0,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/niiatoknifn51_Hugz.png"
+            }
+        ],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": ":verified: Scheduled AMA",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qzb6",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "jstt6g",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "Kaspersky_GReAT",
+        "discussion_type": null,
+        "num_comments": 932,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/IAmA/comments/jstt6g/we_are_kasperskys_global_research_analysis_team/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/IAmA/comments/jstt6g/we_are_kasperskys_global_research_analysis_team/",
+        "subreddit_subscribers": 20614108,
+        "created_utc": 1605184324.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    },
+    {
+        "approved_at_utc": null,
+        "subreddit": "Malware",
+        "selftext": "",
+        "author_fullname": "t2_y85dg",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "Sup /r/malware! Long time lurker in this sub! Just wanted to let you know we're doing an AMA right now. Happy to answer your questions!",
+        "link_flair_richtext": [],
+        "subreddit_name_prefixed": "r/Malware",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": null,
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_jsutdb",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.66,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 11,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": null,
+        "can_mod_post": false,
+        "score": 11,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "default",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "link",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1605217494.0,
+        "link_flair_type": "text",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "reddit.com",
+        "allow_live_comments": false,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://reddit.com/r/IAmA/comments/jstt6g/we_are_kasperskys_global_research_analysis_team",
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/JynGb5Iv2xn4rKrL8HG4eJ_4n5UkdVgGcn9sHYtWCok.jpg?auto=webp&amp;s=200a7d484efd6225cb689a36977d73d410d8063e",
+                        "width": 4796,
+                        "height": 2160
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/JynGb5Iv2xn4rKrL8HG4eJ_4n5UkdVgGcn9sHYtWCok.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=192add5abff868ab4a606d4db616c15df54e27d8",
+                            "width": 108,
+                            "height": 48
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/JynGb5Iv2xn4rKrL8HG4eJ_4n5UkdVgGcn9sHYtWCok.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=d0138acfc5a2e9f270cd03390c56d906c04369fe",
+                            "width": 216,
+                            "height": 97
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/JynGb5Iv2xn4rKrL8HG4eJ_4n5UkdVgGcn9sHYtWCok.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=37d59ab92837e8aeb81b30147edcba605f13a76e",
+                            "width": 320,
+                            "height": 144
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/JynGb5Iv2xn4rKrL8HG4eJ_4n5UkdVgGcn9sHYtWCok.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=679bb91121558a064e33b16306871e739ca0a6b8",
+                            "width": 640,
+                            "height": 288
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/JynGb5Iv2xn4rKrL8HG4eJ_4n5UkdVgGcn9sHYtWCok.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=1dc01811ed264e3c7300bffdf9bb7c25cae0dd31",
+                            "width": 960,
+                            "height": 432
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/JynGb5Iv2xn4rKrL8HG4eJ_4n5UkdVgGcn9sHYtWCok.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=4a6f7ebcb2dfa3c101d60bece0bb4c098af18ee4",
+                            "width": 1080,
+                            "height": 486
+                        }
+                    ],
+                    "variants": {},
+                    "id": "jYZSknmEk2YJ_gJiiLrziFdiYVilxSO9P9oASjZ46K8"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qrkp",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "jsutdb",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "Kaspersky_GReAT",
+        "discussion_type": null,
+        "num_comments": 6,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/Malware/comments/jsutdb/sup_rmalware_long_time_lurker_in_this_sub_just/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://reddit.com/r/IAmA/comments/jstt6g/we_are_kasperskys_global_research_analysis_team",
+        "subreddit_subscribers": 48153,
+        "created_utc": 1605188694.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    },
+    {
+        "approved_at_utc": null,
+        "subreddit": "netsec",
+        "selftext": "",
+        "author_fullname": "t2_y85dg",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "Sup netsec! Long time lurker in this sub! Just wanted to let you know we're doing an AMA right now. Happy to answer your questions!",
+        "link_flair_richtext": [],
+        "subreddit_name_prefixed": "r/netsec",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "darkred",
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_jsussh",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.6,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 1,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "reject: bad source",
+        "can_mod_post": false,
+        "score": 1,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "default",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1605217429.0,
+        "link_flair_type": "text",
+        "wls": 6,
+        "removed_by_category": "moderator",
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "old.reddit.com",
+        "allow_live_comments": false,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://old.reddit.com/r/IAmA/comments/jstt6g/we_are_kasperskys_global_research_analysis_team/",
+        "view_count": null,
+        "archived": false,
+        "no_follow": true,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "4a014a78-b6f0-11e4-865a-22000bc18b85",
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_1rqwi",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "jsussh",
+        "is_robot_indexable": false,
+        "report_reasons": null,
+        "author": "Kaspersky_GReAT",
+        "discussion_type": null,
+        "num_comments": 0,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/netsec/comments/jsussh/sup_netsec_long_time_lurker_in_this_sub_just/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://old.reddit.com/r/IAmA/comments/jstt6g/we_are_kasperskys_global_research_analysis_team/",
+        "subreddit_subscribers": 391978,
+        "created_utc": 1605188629.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    },
+    {
+        "approved_at_utc": null,
+        "subreddit": "IAmA",
+        "selftext": "Hello Reddit!\n\nWe are Kaspersky Lab’s Global Research &amp; Analysis Team (GReAT), a group of 43 anti-malware researchers in 18 countries around the world. We track malicious hacker activity around the globe with an emphasis on advanced targeted attacks.   \n\nWe have worked on dissecting some of biggest cyber-espionage campaigns, including [Stuxnet](https://securelist.com/analysis/publications/67483/stuxnet-zero-victims/), [Flame](https://www.securelist.com/en/blog/208193522/The_Flame_Questions_and_Answers), [Gauss](https://securelist.com/blog/incidents/33854/gauss-nation-state-cyber-surveillance-meets-banking-trojan-54/), [Equation Group](https://securelist.com/blog/research/68750/equation-the-death-star-of-malware-galaxy/), [Regin](https://securelist.com/blog/research/67741/regin-nation-state-ownage-of-gsm-networks/) and [Epic Turla](https://securelist.com/analysis/publications/65545/the-epic-turla-operation/) and we’re currently tracking more than 100 nation-state threat actors and campaigns.  \n\n[A photo just for you](http://i.imgur.com/IGJ90gl.jpg)\n\nYou can find some of our research work at [Securelist.com](https://securelist.com) and our targeted attacks tracker at [apt.securelist.com](https://apt.securelist.com/) \n\nHere with us are:\n\n* Costin Raiu - Global Director  [@craiu](https://twitter.com/craiu)\n* Vitaly Kamluk  [@vkamluk](https://twitter.com/vkamluk)\n* Vicente Diaz  [@trompi] (https://twitter.com/trompi)\n* Ryan Naraine  [@ryanaraine](  https://twitter.com/ryanaraine)\n* Juan Andres Guerrero-Saade [@juanandres_gs](https://twitter.com/juanandres_gs)\n* Brian Bartholomew [@Mao_Ware](https://twitter.com/Mao_Ware) \n \nProof:\n[https://twitter.com/kaspersky/status/758281911722795008](https://twitter.com/kaspersky/status/758281911722795008)\n\n[https://blog.kaspersky.com/great-ama/12637/](https://blog.kaspersky.com/great-ama/12637/)\n\nAsk away!\n\n**EDIT (1:28PM Eastern):**  Thanks all for the thought-provoking questions.  We tried to answer as many questions as possible but it was tough [concentrating in this horse's head](http://i.imgur.com/IGJ90gl.jpg). Follow us on Twitter (links above) and keep in tough.  Stay safe out there.\n\n**EDIT (07/29/2016):** Girls and guys, you rock! Thank you very much for all your questions and for the constructive dialogue. We tried to answer as many questions as possible. Hopefully, we’ll be able to host another AMA in the near future!\n\nWe noticed there were a lot of college grads asking us about internships or how to start a career in this field. You can find our answers [here](https://www.reddit.com/r/IAmA/comments/4uueqa/we_are_kaspersky_labs_global_research_analysis/d5syshi) and [here](https://www.reddit.com/r/IAmA/comments/4uueqa/we_are_kaspersky_labs_global_research_analysis/d5t3cz7). Also, never stop asking questions. Don’t be afraid to learn new things, be open minded (try to go the extra mile when you learn something) and don’t hesitate to ask questions! Apply for internship positions, even if there are no openings displayed on the website. Sign up for your local security group in your city. Start doing CTFs (Capture the Flag). A good starting point for future CTFs is https://ctftime.org/ . Find some friends from your uni / community and start solving the challenges! You never know how things will turn out in the end :)\n\nWe also noticed a lot of people asking us about how difficult is to enter this industry. You can find our answer [here](https://www.reddit.com/r/IAmA/comments/4uueqa/we_are_kaspersky_labs_global_research_analysis/d5svp0y)\n\n\n\n",
+        "author_fullname": "t2_y85dg",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "We are Kaspersky Lab's Global Research &amp; Analysis Team (GReAT) AMA!",
+        "link_flair_richtext": [
+            {
+                "e": "text",
+                "t": "Technology"
+            }
+        ],
+        "subreddit_name_prefixed": "r/IAmA",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "tech",
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_4uueqa",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.82,
+        "author_flair_background_color": "",
+        "subreddit_type": "public",
+        "ups": 5848,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Technology",
+        "can_mod_post": false,
+        "score": 5848,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "self",
+        "edited": 1469817127.0,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [
+            {
+                "a": ":verified:",
+                "e": "emoji",
+                "u": "https://emoji.redditmedia.com/c084y0ue7wv31_t5_2qzb6/verified"
+            },
+            {
+                "e": "text",
+                "t": " Scheduled AMA"
+            }
+        ],
+        "gildings": {},
+        "post_hint": "self",
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1469652137.0,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "richtext",
+        "domain": "self.IAmA",
+        "allow_live_comments": false,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hello Reddit!&lt;/p&gt;\n\n&lt;p&gt;We are Kaspersky Lab’s Global Research &amp;amp; Analysis Team (GReAT), a group of 43 anti-malware researchers in 18 countries around the world. We track malicious hacker activity around the globe with an emphasis on advanced targeted attacks.   &lt;/p&gt;\n\n&lt;p&gt;We have worked on dissecting some of biggest cyber-espionage campaigns, including &lt;a href=\"https://securelist.com/analysis/publications/67483/stuxnet-zero-victims/\"&gt;Stuxnet&lt;/a&gt;, &lt;a href=\"https://www.securelist.com/en/blog/208193522/The_Flame_Questions_and_Answers\"&gt;Flame&lt;/a&gt;, &lt;a href=\"https://securelist.com/blog/incidents/33854/gauss-nation-state-cyber-surveillance-meets-banking-trojan-54/\"&gt;Gauss&lt;/a&gt;, &lt;a href=\"https://securelist.com/blog/research/68750/equation-the-death-star-of-malware-galaxy/\"&gt;Equation Group&lt;/a&gt;, &lt;a href=\"https://securelist.com/blog/research/67741/regin-nation-state-ownage-of-gsm-networks/\"&gt;Regin&lt;/a&gt; and &lt;a href=\"https://securelist.com/analysis/publications/65545/the-epic-turla-operation/\"&gt;Epic Turla&lt;/a&gt; and we’re currently tracking more than 100 nation-state threat actors and campaigns.  &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"http://i.imgur.com/IGJ90gl.jpg\"&gt;A photo just for you&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;You can find some of our research work at &lt;a href=\"https://securelist.com\"&gt;Securelist.com&lt;/a&gt; and our targeted attacks tracker at &lt;a href=\"https://apt.securelist.com/\"&gt;apt.securelist.com&lt;/a&gt; &lt;/p&gt;\n\n&lt;p&gt;Here with us are:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;Costin Raiu - Global Director  &lt;a href=\"https://twitter.com/craiu\"&gt;@craiu&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;Vitaly Kamluk  &lt;a href=\"https://twitter.com/vkamluk\"&gt;@vkamluk&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;Vicente Diaz  &lt;a href=\"https://twitter.com/trompi\"&gt;@trompi&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;Ryan Naraine  &lt;a href=\"https://twitter.com/ryanaraine\"&gt;@ryanaraine&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;Juan Andres Guerrero-Saade &lt;a href=\"https://twitter.com/juanandres_gs\"&gt;@juanandres_gs&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;Brian Bartholomew &lt;a href=\"https://twitter.com/Mao_Ware\"&gt;@Mao_Ware&lt;/a&gt; &lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;Proof:\n&lt;a href=\"https://twitter.com/kaspersky/status/758281911722795008\"&gt;https://twitter.com/kaspersky/status/758281911722795008&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://blog.kaspersky.com/great-ama/12637/\"&gt;https://blog.kaspersky.com/great-ama/12637/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Ask away!&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;EDIT (1:28PM Eastern):&lt;/strong&gt;  Thanks all for the thought-provoking questions.  We tried to answer as many questions as possible but it was tough &lt;a href=\"http://i.imgur.com/IGJ90gl.jpg\"&gt;concentrating in this horse&amp;#39;s head&lt;/a&gt;. Follow us on Twitter (links above) and keep in tough.  Stay safe out there.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;EDIT (07/29/2016):&lt;/strong&gt; Girls and guys, you rock! Thank you very much for all your questions and for the constructive dialogue. We tried to answer as many questions as possible. Hopefully, we’ll be able to host another AMA in the near future!&lt;/p&gt;\n\n&lt;p&gt;We noticed there were a lot of college grads asking us about internships or how to start a career in this field. You can find our answers &lt;a href=\"https://www.reddit.com/r/IAmA/comments/4uueqa/we_are_kaspersky_labs_global_research_analysis/d5syshi\"&gt;here&lt;/a&gt; and &lt;a href=\"https://www.reddit.com/r/IAmA/comments/4uueqa/we_are_kaspersky_labs_global_research_analysis/d5t3cz7\"&gt;here&lt;/a&gt;. Also, never stop asking questions. Don’t be afraid to learn new things, be open minded (try to go the extra mile when you learn something) and don’t hesitate to ask questions! Apply for internship positions, even if there are no openings displayed on the website. Sign up for your local security group in your city. Start doing CTFs (Capture the Flag). A good starting point for future CTFs is &lt;a href=\"https://ctftime.org/\"&gt;https://ctftime.org/&lt;/a&gt; . Find some friends from your uni / community and start solving the challenges! You never know how things will turn out in the end :)&lt;/p&gt;\n\n&lt;p&gt;We also noticed a lot of people asking us about how difficult is to enter this industry. You can find our answer &lt;a href=\"https://www.reddit.com/r/IAmA/comments/4uueqa/we_are_kaspersky_labs_global_research_analysis/d5svp0y\"&gt;here&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": true,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/abJu-nBz7sRbFWF1XlIsDtfAZ5vGB9ifZCjff827L0c.jpg?auto=webp&amp;s=1b8f55c9b0a55b77d574b52e650951aecb1c296b",
+                        "width": 3140,
+                        "height": 1076
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/abJu-nBz7sRbFWF1XlIsDtfAZ5vGB9ifZCjff827L0c.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=9393eac33bf00cb877cffdeb00e01c6b717e9544",
+                            "width": 108,
+                            "height": 37
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/abJu-nBz7sRbFWF1XlIsDtfAZ5vGB9ifZCjff827L0c.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=383377af5473807ac6bad3068ee2b582a8cc3b85",
+                            "width": 216,
+                            "height": 74
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/abJu-nBz7sRbFWF1XlIsDtfAZ5vGB9ifZCjff827L0c.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ebfc66fdbec708a98cb6c2687c44662284894f1b",
+                            "width": 320,
+                            "height": 109
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/abJu-nBz7sRbFWF1XlIsDtfAZ5vGB9ifZCjff827L0c.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8cee790ed8ada266bca2a24441a0283ab2194bc2",
+                            "width": 640,
+                            "height": 219
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/abJu-nBz7sRbFWF1XlIsDtfAZ5vGB9ifZCjff827L0c.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=0f1d9c78c777e334fc094d89090a9e06dce58e5c",
+                            "width": 960,
+                            "height": 328
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/abJu-nBz7sRbFWF1XlIsDtfAZ5vGB9ifZCjff827L0c.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=5d2bc9f437bb4bc0276d0c71b941fd6f9990ff7e",
+                            "width": 1080,
+                            "height": 370
+                        }
+                    ],
+                    "variants": {},
+                    "id": "KsfpH_Tep6dP_1XPl3nNIWg87m_6Bljza-76L9LjAkg"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": ":verified: Scheduled AMA",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qzb6",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "4uueqa",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "Kaspersky_GReAT",
+        "discussion_type": null,
+        "num_comments": 1010,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/IAmA/comments/4uueqa/we_are_kaspersky_labs_global_research_analysis/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/IAmA/comments/4uueqa/we_are_kaspersky_labs_global_research_analysis/",
+        "subreddit_subscribers": 20614108,
+        "created_utc": 1469623337.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    }
+]

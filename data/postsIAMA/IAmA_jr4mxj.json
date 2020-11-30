@@ -1,0 +1,161 @@
+{
+    "kind": "t3",
+    "data": {
+        "approved_at_utc": null,
+        "subreddit": "IAmA",
+        "selftext": "Hey Reddit,\n\nI'm Chris and I absolutely HATE moving! \n\nRecently my wife and I were moving AGAIN and struggling to decide between hiring movers to take the burden off of doing it all ourselves, and renting a Uhaul and signing all the paperwork and paying all the extra fees at the end and hauling it all ourselves. We ended up renting a van and just dealing with the pain of moving ourselves, and then to make matters worse, we ended up not having room for one last piece of furniture in the back and had to come back with the Uhaul for a round 2 pick up. I found myself wishing I knew someone with a pickup that could just toss it in the back and be on our way, but unfortunately, no luck there! I knew there had to be an easier way - but it wasn't easy to find.\n\n**So I built it**. I was inspired by apps like Uber and Lyft, and built a similar example — it's called **Yazz** — It's an app that finds a ride for your stuff instead of you. People/ drivers with a van or a pick-up truck get your items from point A to point B the same way you would use a ride-sharing app. Feel free to check it out, I would really appreciate any feedback/ thoughts you guys have!\n\n[https://www.yazzapp.com/](https://www.yazzapp.com/)\n\n[https://drive.google.com/file/d/1ba-myAZjljawwsfIwfpE2nVbiCP\\_SBsk/view?usp=sharing](https://drive.google.com/file/d/1ba-myAZjljawwsfIwfpE2nVbiCP_SBsk/view?usp=sharing)\n\nI'm open to questions on anything, but I've been in the software development and product game for a while and I'd love to hear any stories or anything else.\n\n[https://www.crunchbase.com/person/chris-diakov](https://www.crunchbase.com/person/chris-diakov)",
+        "author_fullname": "t2_8kkxzyss",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "\"I AM A software developer who wants to make it easier for you to move house. I just built a new app called Yazz — Ask Me Anything!\"",
+        "link_flair_richtext": [
+            {
+                "e": "text",
+                "t": "Business"
+            }
+        ],
+        "subreddit_name_prefixed": "r/IAmA",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "business",
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_jr4mxj",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.62,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 10,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Business",
+        "can_mod_post": false,
+        "score": 10,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "self",
+        "edited": 1604956031.0,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "self",
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1604979655.0,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "self.IAmA",
+        "allow_live_comments": false,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey Reddit,&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m Chris and I absolutely HATE moving! &lt;/p&gt;\n\n&lt;p&gt;Recently my wife and I were moving AGAIN and struggling to decide between hiring movers to take the burden off of doing it all ourselves, and renting a Uhaul and signing all the paperwork and paying all the extra fees at the end and hauling it all ourselves. We ended up renting a van and just dealing with the pain of moving ourselves, and then to make matters worse, we ended up not having room for one last piece of furniture in the back and had to come back with the Uhaul for a round 2 pick up. I found myself wishing I knew someone with a pickup that could just toss it in the back and be on our way, but unfortunately, no luck there! I knew there had to be an easier way - but it wasn&amp;#39;t easy to find.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;So I built it&lt;/strong&gt;. I was inspired by apps like Uber and Lyft, and built a similar example — it&amp;#39;s called &lt;strong&gt;Yazz&lt;/strong&gt; — It&amp;#39;s an app that finds a ride for your stuff instead of you. People/ drivers with a van or a pick-up truck get your items from point A to point B the same way you would use a ride-sharing app. Feel free to check it out, I would really appreciate any feedback/ thoughts you guys have!&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.yazzapp.com/\"&gt;https://www.yazzapp.com/&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://drive.google.com/file/d/1ba-myAZjljawwsfIwfpE2nVbiCP_SBsk/view?usp=sharing\"&gt;https://drive.google.com/file/d/1ba-myAZjljawwsfIwfpE2nVbiCP_SBsk/view?usp=sharing&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m open to questions on anything, but I&amp;#39;ve been in the software development and product game for a while and I&amp;#39;d love to hear any stories or anything else.&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://www.crunchbase.com/person/chris-diakov\"&gt;https://www.crunchbase.com/person/chris-diakov&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/WrOufRR_ealMOusnSl08p3Oemk5asiF2RYa14hf2AXU.jpg?auto=webp&amp;s=9694e390ee84c64cce6afb782d523502a9cab5aa",
+                        "width": 3000,
+                        "height": 2000
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/WrOufRR_ealMOusnSl08p3Oemk5asiF2RYa14hf2AXU.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=629421d6b39000d25044e0f443b732b322e7dcfb",
+                            "width": 108,
+                            "height": 72
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/WrOufRR_ealMOusnSl08p3Oemk5asiF2RYa14hf2AXU.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=c5ccb42ab7c9f97f87b57d3a1461e99604f8e573",
+                            "width": 216,
+                            "height": 144
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/WrOufRR_ealMOusnSl08p3Oemk5asiF2RYa14hf2AXU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=5b8f8355e1d5a17b270998a7fd9bd6075d97f602",
+                            "width": 320,
+                            "height": 213
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/WrOufRR_ealMOusnSl08p3Oemk5asiF2RYa14hf2AXU.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=144cd331aa53e6fb6c1ffd6836b1feb1e61d7e04",
+                            "width": 640,
+                            "height": 426
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/WrOufRR_ealMOusnSl08p3Oemk5asiF2RYa14hf2AXU.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=414adbdea1a880573348d7a8ae68d40e0f9cba73",
+                            "width": 960,
+                            "height": 640
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/WrOufRR_ealMOusnSl08p3Oemk5asiF2RYa14hf2AXU.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=c83b3c52b592b422cdf4bbeab6c28f97afdb0e57",
+                            "width": 1080,
+                            "height": 720
+                        }
+                    ],
+                    "variants": {},
+                    "id": "J4hYTY3KJWlWoJvX13TFjUQhB_lr0V88S5o19Vdfmzs"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qzb6",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "jr4mxj",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "chris_yazz",
+        "discussion_type": null,
+        "num_comments": 18,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/IAmA/comments/jr4mxj/i_am_a_software_developer_who_wants_to_make_it/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/IAmA/comments/jr4mxj/i_am_a_software_developer_who_wants_to_make_it/",
+        "subreddit_subscribers": 20603946,
+        "created_utc": 1604950855.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    }
+}

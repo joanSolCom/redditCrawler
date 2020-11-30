@@ -1,0 +1,3097 @@
+[
+    {
+        "approved_at_utc": null,
+        "subreddit": "Portland",
+        "selftext": "",
+        "author_fullname": "t2_5x6uq6ah",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "Voting starts TODAY in Oregon! It doesn't matter if you're evacuated from wildfires, homeless like me, or just want to vote ASAP, you can get your no-excuse absentee ballot now at the elections office.",
+        "link_flair_richtext": [],
+        "subreddit_name_prefixed": "r/Portland",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "homeless",
+        "downs": 0,
+        "thumbnail_height": 140,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_ix62y5",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.98,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 681,
+        "total_awards_received": 2,
+        "media_embed": {},
+        "thumbnail_width": 140,
+        "author_flair_template_id": "34fe0d36-ddf5-11e6-bd98-0ea5f6761f56",
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": true,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Homeless",
+        "can_mod_post": false,
+        "score": 681,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://b.thumbs.redditmedia.com/ol3M-qlPcvLeGk4n3NdXwtn2tT-WUXykS4d8B248_Ms.jpg",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "image",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1600741488.0,
+        "link_flair_type": "text",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "i.redd.it",
+        "allow_live_comments": false,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": "confidence",
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://i.redd.it/ro4dx9qvmjo51.png",
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://preview.redd.it/ro4dx9qvmjo51.png?auto=webp&amp;s=bdc3df16b3696ab3dc9f8df6ca44f05f3ee7e744",
+                        "width": 820,
+                        "height": 820
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/ro4dx9qvmjo51.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=338d896880887c50e6b84f3f1e5d967b4060748f",
+                            "width": 108,
+                            "height": 108
+                        },
+                        {
+                            "url": "https://preview.redd.it/ro4dx9qvmjo51.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=d76986043b8609829ed5021b7024a382dcff6006",
+                            "width": 216,
+                            "height": 216
+                        },
+                        {
+                            "url": "https://preview.redd.it/ro4dx9qvmjo51.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=7853c5319828aed6ecbc597308cd15becd79819e",
+                            "width": 320,
+                            "height": 320
+                        },
+                        {
+                            "url": "https://preview.redd.it/ro4dx9qvmjo51.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5507595d98f2d0d279af47ac21173ac0160331e9",
+                            "width": 640,
+                            "height": 640
+                        }
+                    ],
+                    "variants": {},
+                    "id": "Mn0-AThwV_eODL5uSki46yK5EbCnp2MAEqzb8lRlGsg"
+                }
+            ],
+            "enabled": true
+        },
+        "all_awardings": [
+            {
+                "giver_coin_reward": 0,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 400,
+                "id": "award_84276b1e-cc8f-484f-a19c-be6c09adc1a5",
+                "penny_donate": 0,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://www.redditstatic.com/gold/awards/icon/SnooClapping_512.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/SnooClapping_16.png",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/SnooClapping_32.png",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/SnooClapping_48.png",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/SnooClapping_64.png",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/SnooClapping_128.png",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 512,
+                "static_icon_width": 512,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "An amazing showing.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 512,
+                "name": "Bravo!",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/m5fdvo7cl4451_Bravo-Static.png?width=16&amp;height=16&amp;auto=webp&amp;s=647cccf78702582f30d23908180da092b135cffe",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/m5fdvo7cl4451_Bravo-Static.png?width=32&amp;height=32&amp;auto=webp&amp;s=4644ac0618ecdef010ae2368e2e58669953fd9a3",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/m5fdvo7cl4451_Bravo-Static.png?width=48&amp;height=48&amp;auto=webp&amp;s=ca4efb2faa26429279f44ced2822f5e81ff37537",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/m5fdvo7cl4451_Bravo-Static.png?width=64&amp;height=64&amp;auto=webp&amp;s=3a307ad71aad031accfd47f1af82a2b1e09195cc",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_q0gj4/m5fdvo7cl4451_Bravo-Static.png?width=128&amp;height=128&amp;auto=webp&amp;s=fb9b2c432b1ddd85fd653ef3cc1a28e5edc40a1f",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": "APNG",
+                "icon_height": 512,
+                "penny_price": 0,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_q0gj4/m5fdvo7cl4451_Bravo-Static.png"
+            },
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 150,
+                "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+                "penny_donate": null,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Thank you stranger. Shows the award.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 2048,
+                "name": "Helpful",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 2048,
+                "penny_price": null,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png"
+            }
+        ],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": "Mill Ends Park",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qi2i",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "ix62y5",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "MyHomelessMeals",
+        "discussion_type": null,
+        "num_comments": 110,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/Portland/comments/ix62y5/voting_starts_today_in_oregon_it_doesnt_matter_if/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://i.redd.it/ro4dx9qvmjo51.png",
+        "subreddit_subscribers": 183273,
+        "created_utc": 1600712688.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    },
+    {
+        "approved_at_utc": null,
+        "subreddit": "oregon",
+        "selftext": "",
+        "author_fullname": "t2_5x6uq6ah",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "Voting starts TODAY in Oregon! It doesn't matter if you're evacuated from wildfires, homeless like me, or just want to vote ASAP, you can get your no-excuse absentee ballot now at the elections office",
+        "link_flair_richtext": [],
+        "subreddit_name_prefixed": "r/oregon",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": null,
+        "downs": 0,
+        "thumbnail_height": 140,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_ix6qgp",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.96,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 217,
+        "total_awards_received": 1,
+        "media_embed": {},
+        "thumbnail_width": 140,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": true,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": null,
+        "can_mod_post": false,
+        "score": 217,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://b.thumbs.redditmedia.com/OIWaIez8PjN-wDwoSI_0a5tahHjtdFk0cO-QDjm_UWQ.jpg",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "image",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1600743376.0,
+        "link_flair_type": "text",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "i.redd.it",
+        "allow_live_comments": false,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://i.redd.it/qgr0ulrqsjo51.png",
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://preview.redd.it/qgr0ulrqsjo51.png?auto=webp&amp;s=9f4b9e54a817ac2b2e3614bf1a95f35612f3dfe3",
+                        "width": 820,
+                        "height": 820
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/qgr0ulrqsjo51.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=d4e23ad23ffd9f68ea7a8b0b1cbf371f305ef246",
+                            "width": 108,
+                            "height": 108
+                        },
+                        {
+                            "url": "https://preview.redd.it/qgr0ulrqsjo51.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=127627f7684049e1856836c9ede1c6b6dc8c6ae0",
+                            "width": 216,
+                            "height": 216
+                        },
+                        {
+                            "url": "https://preview.redd.it/qgr0ulrqsjo51.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=f2f1123476fe7c55e6b883f11cc42d773109c394",
+                            "width": 320,
+                            "height": 320
+                        },
+                        {
+                            "url": "https://preview.redd.it/qgr0ulrqsjo51.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ebaac7ddd10edefe73de3888850582f213da76be",
+                            "width": 640,
+                            "height": 640
+                        }
+                    ],
+                    "variants": {},
+                    "id": "eYrtK4nLlpxybnRcAI-WMnMUDfXicAd1uH1wbMQvZN4"
+                }
+            ],
+            "enabled": true
+        },
+        "all_awardings": [
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 150,
+                "id": "award_f44611f1-b89e-46dc-97fe-892280b13b82",
+                "penny_donate": null,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Thank you stranger. Shows the award.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 2048,
+                "name": "Helpful",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=16&amp;height=16&amp;auto=webp&amp;s=a5662dfbdb402bf67866c050aa76c31c147c2f45",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=32&amp;height=32&amp;auto=webp&amp;s=a6882eb3f380e8e88009789f4d0072e17b8c59f1",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=48&amp;height=48&amp;auto=webp&amp;s=e50064b090879e8a0b55e433f6ee61d5cb5fbe1d",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=64&amp;height=64&amp;auto=webp&amp;s=8e5bb2e76683cb6b161830bcdd9642049d6adc11",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png?width=128&amp;height=128&amp;auto=webp&amp;s=eda4a9246f95f42ee6940cc0ec65306fd20de878",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 2048,
+                "penny_price": null,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/klvxk1wggfd41_Helpful.png"
+            }
+        ],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qhjg",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "ix6qgp",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "MyHomelessMeals",
+        "discussion_type": null,
+        "num_comments": 39,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/oregon/comments/ix6qgp/voting_starts_today_in_oregon_it_doesnt_matter_if/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://i.redd.it/qgr0ulrqsjo51.png",
+        "subreddit_subscribers": 78573,
+        "created_utc": 1600714576.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    },
+    {
+        "approved_at_utc": null,
+        "subreddit": "Wellthatsucks",
+        "selftext": "",
+        "author_fullname": "t2_5x6uq6ah",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "I'm homeless just in time for wildfires, a pandemic, tear gas, a federal crackdown (Portland), heat waves, a sudden recession, militias fighting protesters, and the worst air quality of any country in the world",
+        "link_flair_richtext": [],
+        "subreddit_name_prefixed": "r/Wellthatsucks",
+        "hidden": false,
+        "pwls": 7,
+        "link_flair_css_class": null,
+        "downs": 0,
+        "thumbnail_height": 140,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_iupvs7",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.93,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 313,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": 140,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": true,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": null,
+        "can_mod_post": false,
+        "score": 313,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://a.thumbs.redditmedia.com/hBdBT3c87xS_fqHY-g6aHhLEVRxI70FwXyl69G6Xdu0.jpg",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "image",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1600397745.0,
+        "link_flair_type": "text",
+        "wls": 7,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "i.redd.it",
+        "allow_live_comments": false,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://i.redd.it/0hp1qfqm8rn51.png",
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://preview.redd.it/0hp1qfqm8rn51.png?auto=webp&amp;s=d0fe83c4a4faebdfb942843a7d33f0895b390b47",
+                        "width": 820,
+                        "height": 820
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/0hp1qfqm8rn51.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=ec6df5c3212b138fd3a7567c251bc595b8da1a64",
+                            "width": 108,
+                            "height": 108
+                        },
+                        {
+                            "url": "https://preview.redd.it/0hp1qfqm8rn51.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=480d7262c5231e44b47e0fe97998102000d85c61",
+                            "width": 216,
+                            "height": 216
+                        },
+                        {
+                            "url": "https://preview.redd.it/0hp1qfqm8rn51.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=59b4d1cfe5f7b2f2d0dbbf6a13cd7258e745f96b",
+                            "width": 320,
+                            "height": 320
+                        },
+                        {
+                            "url": "https://preview.redd.it/0hp1qfqm8rn51.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=e1603d344e720bdde38393910012558117fc7fd7",
+                            "width": 640,
+                            "height": 640
+                        }
+                    ],
+                    "variants": {},
+                    "id": "VlFtWibn9HKZPpPxkygr95kzG_mIyAhUN4CaqUNlhYU"
+                }
+            ],
+            "enabled": true
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2xcv7",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "iupvs7",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "MyHomelessMeals",
+        "discussion_type": null,
+        "num_comments": 67,
+        "send_replies": true,
+        "whitelist_status": "some_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/Wellthatsucks/comments/iupvs7/im_homeless_just_in_time_for_wildfires_a_pandemic/",
+        "parent_whitelist_status": "some_ads",
+        "stickied": false,
+        "url": "https://i.redd.it/0hp1qfqm8rn51.png",
+        "subreddit_subscribers": 2330397,
+        "created_utc": 1600368945.0,
+        "num_crossposts": 2,
+        "media": null,
+        "is_video": false
+    },
+    {
+        "approved_at_utc": null,
+        "subreddit": "Portland",
+        "selftext": "",
+        "author_fullname": "t2_5x6uq6ah",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "A lady from out of town",
+        "link_flair_richtext": [],
+        "subreddit_name_prefixed": "r/Portland",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "photo",
+        "downs": 0,
+        "thumbnail_height": 140,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_hy2cs2",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.84,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 134,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": 140,
+        "author_flair_template_id": "34fe0d36-ddf5-11e6-bd98-0ea5f6761f56",
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": true,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Photo",
+        "can_mod_post": false,
+        "score": 134,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://b.thumbs.redditmedia.com/OnQ8t2JSg6iEjmxWUAba4GP9e34wauBnzw6BIXoMJho.jpg",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "image",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1595775102.0,
+        "link_flair_type": "text",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "i.redd.it",
+        "allow_live_comments": false,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": "confidence",
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://i.redd.it/jdg5ctmhf5d51.png",
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://preview.redd.it/jdg5ctmhf5d51.png?auto=webp&amp;s=bd446f0f30b5333d3f09dbf4015a1a1e1fda4dce",
+                        "width": 820,
+                        "height": 1093
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/jdg5ctmhf5d51.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=13d9788fb3c6ca67727f840921ea12f501a85d6a",
+                            "width": 108,
+                            "height": 143
+                        },
+                        {
+                            "url": "https://preview.redd.it/jdg5ctmhf5d51.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=2c2987dfb161c05cf5dc2f8ada3d58b91987fe01",
+                            "width": 216,
+                            "height": 287
+                        },
+                        {
+                            "url": "https://preview.redd.it/jdg5ctmhf5d51.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=fb5f254410dca2d0ef0b9dd58cbe5e9305d29e45",
+                            "width": 320,
+                            "height": 426
+                        },
+                        {
+                            "url": "https://preview.redd.it/jdg5ctmhf5d51.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=38d007a7af06b9b488585a55c26f9f70172fdca7",
+                            "width": 640,
+                            "height": 853
+                        }
+                    ],
+                    "variants": {},
+                    "id": "IFzE6J_0mWP_wql4siQyxx8IBe9wZ3AhHkSJ6MqyKak"
+                }
+            ],
+            "enabled": true
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": "Mill Ends Park",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qi2i",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "hy2cs2",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "MyHomelessMeals",
+        "discussion_type": null,
+        "num_comments": 3,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/Portland/comments/hy2cs2/a_lady_from_out_of_town/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://i.redd.it/jdg5ctmhf5d51.png",
+        "subreddit_subscribers": 183273,
+        "created_utc": 1595746302.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    },
+    {
+        "approved_at_utc": null,
+        "subreddit": "Portland",
+        "selftext": "",
+        "author_fullname": "t2_5x6uq6ah",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "These heroes, Amanda and Corbin, scrambled to serve food last night after a Portland soup kitchen suddenly shut down. Story in the comments.",
+        "link_flair_richtext": [],
+        "subreddit_name_prefixed": "r/Portland",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "photo",
+        "downs": 0,
+        "thumbnail_height": 140,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_hekhli",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.92,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 241,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": 140,
+        "author_flair_template_id": "34fe0d36-ddf5-11e6-bd98-0ea5f6761f56",
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": true,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Photo",
+        "can_mod_post": false,
+        "score": 241,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://b.thumbs.redditmedia.com/AzzwZVr-z4f6PlJSCOQHZEk42h9yfaRmOglaigUxgPw.jpg",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "image",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1592967066.0,
+        "link_flair_type": "text",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "i.redd.it",
+        "allow_live_comments": false,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": "confidence",
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://i.redd.it/7un9lgllgp651.png",
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://preview.redd.it/7un9lgllgp651.png?auto=webp&amp;s=b62740c4ffc4a3ee51eddb7f8292e3a3364dca86",
+                        "width": 820,
+                        "height": 820
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/7un9lgllgp651.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=d60463b6aa5e08fb2478721731257d064a17d851",
+                            "width": 108,
+                            "height": 108
+                        },
+                        {
+                            "url": "https://preview.redd.it/7un9lgllgp651.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=9ddbd7c3a6c0946d9a2df85b5fa341b6b9fe7e80",
+                            "width": 216,
+                            "height": 216
+                        },
+                        {
+                            "url": "https://preview.redd.it/7un9lgllgp651.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=7d1430f65d9c9008085e32e5f58214f442a734ec",
+                            "width": 320,
+                            "height": 320
+                        },
+                        {
+                            "url": "https://preview.redd.it/7un9lgllgp651.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=49fe6021018ac0b2c3a56d98877cc891e1f4d6d8",
+                            "width": 640,
+                            "height": 640
+                        }
+                    ],
+                    "variants": {},
+                    "id": "VUDUMtcbGse3Z31QLR-1aXe9nhhaZDNVU-FCi0YdJFk"
+                }
+            ],
+            "enabled": true
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": "Mill Ends Park",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qi2i",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "hekhli",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "MyHomelessMeals",
+        "discussion_type": null,
+        "num_comments": 9,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/Portland/comments/hekhli/these_heroes_amanda_and_corbin_scrambled_to_serve/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://i.redd.it/7un9lgllgp651.png",
+        "subreddit_subscribers": 183273,
+        "created_utc": 1592938266.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    },
+    {
+        "approved_at_utc": null,
+        "subreddit": "pics",
+        "selftext": "",
+        "author_fullname": "t2_5x6uq6ah",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "Government cheese is back! To stop coronavirus farm waste, new food boxes have dairy, meat, produce",
+        "link_flair_richtext": [],
+        "subreddit_name_prefixed": "r/pics",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": null,
+        "downs": 0,
+        "thumbnail_height": 140,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_go1hz1",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.89,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 37,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": 140,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": true,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": null,
+        "can_mod_post": false,
+        "score": 37,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://a.thumbs.redditmedia.com/cM0gIw5qqXUVcHFXeJdlrUIkTNTb0UiPDw5_Pfrb9d0.jpg",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "image",
+        "content_categories": [
+            "photography"
+        ],
+        "is_self": false,
+        "mod_note": null,
+        "created": 1590111971.0,
+        "link_flair_type": "text",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "i.redd.it",
+        "allow_live_comments": false,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://i.redd.it/951t0yx0n5051.png",
+        "view_count": null,
+        "archived": true,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://preview.redd.it/951t0yx0n5051.png?auto=webp&amp;s=4b3b63a970e542351b3918661afff0a1ae4ea5fa",
+                        "width": 820,
+                        "height": 820
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/951t0yx0n5051.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=a9655e565142dc28a5808376e35e63b1d6ad776f",
+                            "width": 108,
+                            "height": 108
+                        },
+                        {
+                            "url": "https://preview.redd.it/951t0yx0n5051.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=827f75c9ecf7f5d5475f4633188267d76fd62a34",
+                            "width": 216,
+                            "height": 216
+                        },
+                        {
+                            "url": "https://preview.redd.it/951t0yx0n5051.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=5abb23900fd4bf3008fa135650dd9ea40d6719b4",
+                            "width": 320,
+                            "height": 320
+                        },
+                        {
+                            "url": "https://preview.redd.it/951t0yx0n5051.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=5d22432ea8babddea3471c41ede8a14ddd8f3134",
+                            "width": 640,
+                            "height": 640
+                        }
+                    ],
+                    "variants": {},
+                    "id": "wMdnFF1-WQRMP6FCx2Tst8oyfm_sMpmXee3lNYHnsaM"
+                }
+            ],
+            "enabled": true
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qh0u",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "go1hz1",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "MyHomelessMeals",
+        "discussion_type": null,
+        "num_comments": 11,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/pics/comments/go1hz1/government_cheese_is_back_to_stop_coronavirus/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://i.redd.it/951t0yx0n5051.png",
+        "subreddit_subscribers": 26274665,
+        "created_utc": 1590083171.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    },
+    {
+        "approved_at_utc": null,
+        "subreddit": "pics",
+        "selftext": "",
+        "author_fullname": "t2_5x6uq6ah",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "I may be homeless, but I'm still a citizen. Happy election day!",
+        "link_flair_richtext": [],
+        "subreddit_name_prefixed": "r/pics",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": null,
+        "downs": 0,
+        "thumbnail_height": 140,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_gmu4z6",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.9,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 2193,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": 140,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": true,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": null,
+        "can_mod_post": false,
+        "score": 2193,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://b.thumbs.redditmedia.com/HSmD4-rCs2JnJE_8uXROr6w7Rpjg1LJPqoLU3mm-UkA.jpg",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "image",
+        "content_categories": [
+            "photography"
+        ],
+        "is_self": false,
+        "mod_note": null,
+        "created": 1589941418.0,
+        "link_flair_type": "text",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "i.redd.it",
+        "allow_live_comments": true,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://i.redd.it/t5ifc9dakrz41.jpg",
+        "view_count": null,
+        "archived": true,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://preview.redd.it/t5ifc9dakrz41.jpg?auto=webp&amp;s=52899e74878ed1c05e6b8693e4c6b721be4b2362",
+                        "width": 820,
+                        "height": 820
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/t5ifc9dakrz41.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=4c1bd007b41c98e339a32dabf8ca53dfe106cb96",
+                            "width": 108,
+                            "height": 108
+                        },
+                        {
+                            "url": "https://preview.redd.it/t5ifc9dakrz41.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=3ac4cdf44a156b6b16819be0539ac967ee1de243",
+                            "width": 216,
+                            "height": 216
+                        },
+                        {
+                            "url": "https://preview.redd.it/t5ifc9dakrz41.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=06256db2ee35d844d7835b466067325b3ad94012",
+                            "width": 320,
+                            "height": 320
+                        },
+                        {
+                            "url": "https://preview.redd.it/t5ifc9dakrz41.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=41e01ef2c5921cb9fde34a9d25abce94e54f521c",
+                            "width": 640,
+                            "height": 640
+                        }
+                    ],
+                    "variants": {},
+                    "id": "QwebsON-v8YuKUzTMDOmQ9NPFM0SJHg8qrwppsDjrpw"
+                }
+            ],
+            "enabled": true
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qh0u",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "gmu4z6",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "MyHomelessMeals",
+        "discussion_type": null,
+        "num_comments": 95,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/pics/comments/gmu4z6/i_may_be_homeless_but_im_still_a_citizen_happy/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://i.redd.it/t5ifc9dakrz41.jpg",
+        "subreddit_subscribers": 26274665,
+        "created_utc": 1589912618.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    },
+    {
+        "approved_at_utc": null,
+        "subreddit": "Portland",
+        "selftext": "",
+        "author_fullname": "t2_5x6uq6ah",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "I may be homeless, but I'm still a citizen. Happy election day!",
+        "link_flair_richtext": [],
+        "subreddit_name_prefixed": "r/Portland",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "homeless",
+        "downs": 0,
+        "thumbnail_height": 140,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_gmtb2x",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.96,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 2419,
+        "total_awards_received": 1,
+        "media_embed": {},
+        "thumbnail_width": 140,
+        "author_flair_template_id": "34fe0d36-ddf5-11e6-bd98-0ea5f6761f56",
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": true,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Homeless",
+        "can_mod_post": false,
+        "score": 2419,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://b.thumbs.redditmedia.com/E-v88u-t8pjlmovk9Iivzp45dRd7pXawVmBk_5aQ6kw.jpg",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {
+            "gid_1": 1
+        },
+        "post_hint": "image",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1589938868.0,
+        "link_flair_type": "text",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "i.redd.it",
+        "allow_live_comments": true,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": "confidence",
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://i.redd.it/7vd8pgwadrz41.jpg",
+        "view_count": null,
+        "archived": true,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://preview.redd.it/7vd8pgwadrz41.jpg?auto=webp&amp;s=3d97365965e791ff84311e999be4dfa2cd166ea9",
+                        "width": 820,
+                        "height": 820
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/7vd8pgwadrz41.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=43ebb95da2e1b75acd7be1ddf1b177181c8c916c",
+                            "width": 108,
+                            "height": 108
+                        },
+                        {
+                            "url": "https://preview.redd.it/7vd8pgwadrz41.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=9a1ee6bae4642b1ec5d362d0f665b57bf5a7f91a",
+                            "width": 216,
+                            "height": 216
+                        },
+                        {
+                            "url": "https://preview.redd.it/7vd8pgwadrz41.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=66b91a70dc9da3363cb5324326457b88c8abef73",
+                            "width": 320,
+                            "height": 320
+                        },
+                        {
+                            "url": "https://preview.redd.it/7vd8pgwadrz41.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9128353aa16738a61325aa002e77e4c04a5ea360",
+                            "width": 640,
+                            "height": 640
+                        }
+                    ],
+                    "variants": {},
+                    "id": "SXlR-r7o4tQ8iCBSpLuDEqLM2M-TLxGVU7vOtkRb4cg"
+                }
+            ],
+            "enabled": true
+        },
+        "all_awardings": [
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 100,
+                "id": "gid_1",
+                "penny_donate": null,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 512,
+                "static_icon_width": 512,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Shows the Silver Award... and that's it.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 512,
+                "name": "Silver",
+                "resized_static_icons": [
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_16.png",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_32.png",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_48.png",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_64.png",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/silver_128.png",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 512,
+                "penny_price": null,
+                "award_type": "global",
+                "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/silver_512.png"
+            }
+        ],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": "Mill Ends Park",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qi2i",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "gmtb2x",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "MyHomelessMeals",
+        "discussion_type": null,
+        "num_comments": 140,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/Portland/comments/gmtb2x/i_may_be_homeless_but_im_still_a_citizen_happy/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://i.redd.it/7vd8pgwadrz41.jpg",
+        "subreddit_subscribers": 183273,
+        "created_utc": 1589910068.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    },
+    {
+        "approved_at_utc": null,
+        "subreddit": "IAmA",
+        "selftext": "I'm homeless in Portland, Oregon, where the coronavirus state of emergency has been extended until [**July**](https://www.koin.com/news/health/coronavirus/states-state-of-emergency-order-extended-to-july-6/). Feel free to ask me anything about homelessness in general, or how things are affected by coronavirus, like:\n\n* The average age of death for homeless people being 50-something (really), and the ways the outbreak is worsening that\n* Grocery stores selling out of food, leaving food pantries without donations\n* Hangups in getting stimulus funds, and the mysterious bank account my stimulus money went to\n* Rising temperatures, with no indoor places to cool off, park fountains turned off, and people still stuck in winter clothes\n* A lack of options for charging phones, so people can't follow what services are available or get coronavirus news\n* Keeping up with hygiene advice when so many facilities are closed\n* Shrinking options for homeless people to make money\n* How homeless people with physical and mental health problems are even more vulnerable\n* What I'm doing to help\n* What you can do to help\n\nFor background, I've been homeless for nearly a year due to health issues, but I've been working with doctors toward getting to a place health-wise where I could get and keep a job. Before the pandemic, I was getting excited and imagining getting a new apartment. Now I'm worried about how I'm going to survive an employment recession. I really want to get back on the path of getting a job, though.\n\nTo keep busy, I've started taking photos of what I see during the coronavirus outbreak. You can see that at [**@MyHomelessMeals on Facebook**](https://www.facebook.com/MyHomelessMeals/) and [**on Twitter**](https://twitter.com/MyHomelessMeals). Full disclosure: The food looks better than the average meal on the street, but you'd get bored of a bunch of photos of peanut butter and jelly sandwiches.\n\nI also want to give thanks for all the amazing work that so many people are doing to serve people in need right now. It really is comforting to know how much people care.\n\nI'm happy to comment or message with anyone, but I might be slow due to battery and connectivity issues. I don't know how to \"prove\" homelessness without totally exposing myself on Reddit, but here are my highly redacted [shelter ID cards](https://imgur.com/a/z7ocCwk), if that helps at all, plus there's my Reddit, Facebook, and Twitter history, as well as my first followers on Twitter. Also, some Portland Redditors have met me, maybe the mods can verify through them.\n\nI know everyone's struggling right now in different ways. Stay safe, keep each other safe, and we'll get through this.\n\nWhen you're feeling down, remember the helpers.\n\nEdit: I'm still replying to people. I had to run to plug my phone in and I've skipped a meal, but I don't even miss it. I'm a little slow to reply because my phone's browser can't take all this, but I'm trying to keep up. If I haven't replied to something important, send me a [message](https://www.reddit.com/message/compose/?to=MyHomelessMeals)!\n\nEdit 2: I have to get to sleep, but I'll keep responding tomorrow. Thank you to everyone who has taken a genuine interest!",
+        "author_fullname": "t2_5x6uq6ah",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 3,
+        "clicked": false,
+        "title": "I'm homeless in a deadly pandemic, AMA...",
+        "link_flair_richtext": [
+            {
+                "e": "text",
+                "t": "Unique Experience"
+            }
+        ],
+        "subreddit_name_prefixed": "r/IAmA",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "unique",
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_gdi33a",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.83,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 11038,
+        "total_awards_received": 11,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Unique Experience",
+        "can_mod_post": false,
+        "score": 11038,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "self",
+        "edited": 1588663007.0,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {
+            "gid_2": 3
+        },
+        "post_hint": "self",
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1588648701.0,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "self.IAmA",
+        "allow_live_comments": true,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m homeless in Portland, Oregon, where the coronavirus state of emergency has been extended until &lt;a href=\"https://www.koin.com/news/health/coronavirus/states-state-of-emergency-order-extended-to-july-6/\"&gt;&lt;strong&gt;July&lt;/strong&gt;&lt;/a&gt;. Feel free to ask me anything about homelessness in general, or how things are affected by coronavirus, like:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;The average age of death for homeless people being 50-something (really), and the ways the outbreak is worsening that&lt;/li&gt;\n&lt;li&gt;Grocery stores selling out of food, leaving food pantries without donations&lt;/li&gt;\n&lt;li&gt;Hangups in getting stimulus funds, and the mysterious bank account my stimulus money went to&lt;/li&gt;\n&lt;li&gt;Rising temperatures, with no indoor places to cool off, park fountains turned off, and people still stuck in winter clothes&lt;/li&gt;\n&lt;li&gt;A lack of options for charging phones, so people can&amp;#39;t follow what services are available or get coronavirus news&lt;/li&gt;\n&lt;li&gt;Keeping up with hygiene advice when so many facilities are closed&lt;/li&gt;\n&lt;li&gt;Shrinking options for homeless people to make money&lt;/li&gt;\n&lt;li&gt;How homeless people with physical and mental health problems are even more vulnerable&lt;/li&gt;\n&lt;li&gt;What I&amp;#39;m doing to help&lt;/li&gt;\n&lt;li&gt;What you can do to help&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;For background, I&amp;#39;ve been homeless for nearly a year due to health issues, but I&amp;#39;ve been working with doctors toward getting to a place health-wise where I could get and keep a job. Before the pandemic, I was getting excited and imagining getting a new apartment. Now I&amp;#39;m worried about how I&amp;#39;m going to survive an employment recession. I really want to get back on the path of getting a job, though.&lt;/p&gt;\n\n&lt;p&gt;To keep busy, I&amp;#39;ve started taking photos of what I see during the coronavirus outbreak. You can see that at &lt;a href=\"https://www.facebook.com/MyHomelessMeals/\"&gt;&lt;strong&gt;@MyHomelessMeals on Facebook&lt;/strong&gt;&lt;/a&gt; and &lt;a href=\"https://twitter.com/MyHomelessMeals\"&gt;&lt;strong&gt;on Twitter&lt;/strong&gt;&lt;/a&gt;. Full disclosure: The food looks better than the average meal on the street, but you&amp;#39;d get bored of a bunch of photos of peanut butter and jelly sandwiches.&lt;/p&gt;\n\n&lt;p&gt;I also want to give thanks for all the amazing work that so many people are doing to serve people in need right now. It really is comforting to know how much people care.&lt;/p&gt;\n\n&lt;p&gt;I&amp;#39;m happy to comment or message with anyone, but I might be slow due to battery and connectivity issues. I don&amp;#39;t know how to &amp;quot;prove&amp;quot; homelessness without totally exposing myself on Reddit, but here are my highly redacted &lt;a href=\"https://imgur.com/a/z7ocCwk\"&gt;shelter ID cards&lt;/a&gt;, if that helps at all, plus there&amp;#39;s my Reddit, Facebook, and Twitter history, as well as my first followers on Twitter. Also, some Portland Redditors have met me, maybe the mods can verify through them.&lt;/p&gt;\n\n&lt;p&gt;I know everyone&amp;#39;s struggling right now in different ways. Stay safe, keep each other safe, and we&amp;#39;ll get through this.&lt;/p&gt;\n\n&lt;p&gt;When you&amp;#39;re feeling down, remember the helpers.&lt;/p&gt;\n\n&lt;p&gt;Edit: I&amp;#39;m still replying to people. I had to run to plug my phone in and I&amp;#39;ve skipped a meal, but I don&amp;#39;t even miss it. I&amp;#39;m a little slow to reply because my phone&amp;#39;s browser can&amp;#39;t take all this, but I&amp;#39;m trying to keep up. If I haven&amp;#39;t replied to something important, send me a &lt;a href=\"https://www.reddit.com/message/compose/?to=MyHomelessMeals\"&gt;message&lt;/a&gt;!&lt;/p&gt;\n\n&lt;p&gt;Edit 2: I have to get to sleep, but I&amp;#39;ll keep responding tomorrow. Thank you to everyone who has taken a genuine interest!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": true,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/LABzptKfhai02FhJPRwcmStNalMPX-dNOQq9Sn5dYQc.jpg?auto=webp&amp;s=165e528b19f28123b8c3113d263cc2cbff97f4d8",
+                        "width": 820,
+                        "height": 516
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/LABzptKfhai02FhJPRwcmStNalMPX-dNOQq9Sn5dYQc.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=b3fb4bcb116db1164d0f3f58752624633c2bb64d",
+                            "width": 108,
+                            "height": 67
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/LABzptKfhai02FhJPRwcmStNalMPX-dNOQq9Sn5dYQc.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=f35e454cd0e05823d4b06a8eae466c5aa438544f",
+                            "width": 216,
+                            "height": 135
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/LABzptKfhai02FhJPRwcmStNalMPX-dNOQq9Sn5dYQc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=44df1f4212e278ea2545d553ebb283d75624c359",
+                            "width": 320,
+                            "height": 201
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/LABzptKfhai02FhJPRwcmStNalMPX-dNOQq9Sn5dYQc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5ae559d91603e045bbcbe831c7dccbe320a3f826",
+                            "width": 640,
+                            "height": 402
+                        }
+                    ],
+                    "variants": {},
+                    "id": "BTGa3XPXwPXptsI7g1wdS47XV3HQk2DhBsdDJHLQrvc"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 250,
+                "id": "award_a67d649d-5aa5-407e-a98b-32fd9e3a9696",
+                "penny_donate": null,
+                "award_sub_type": "APPRECIATION",
+                "coin_reward": 100,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/bph2png4ajz31_TodayILearned.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/bph2png4ajz31_TodayILearned.png?width=16&amp;height=16&amp;auto=webp&amp;s=bbfa251092cce139b37d74237ec28a8c4e8f06b0",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/bph2png4ajz31_TodayILearned.png?width=32&amp;height=32&amp;auto=webp&amp;s=e1f9dd28741e2551b1fbbd341b006cc316f48fa1",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/bph2png4ajz31_TodayILearned.png?width=48&amp;height=48&amp;auto=webp&amp;s=d93434d26563a534397ff748cce71d4b733c32d9",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/bph2png4ajz31_TodayILearned.png?width=64&amp;height=64&amp;auto=webp&amp;s=cf4a1ddb8474d11682f0d88aa32562f9fcbf30b0",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/bph2png4ajz31_TodayILearned.png?width=128&amp;height=128&amp;auto=webp&amp;s=70b1596cdd0ae75b52db5c2732d8c336d300cc11",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "The more you know... Gives %{coin_symbol}100 Coins to both the author and the community.",
+                "end_date": null,
+                "subreddit_coin_reward": 100,
+                "count": 1,
+                "static_icon_height": 2048,
+                "name": "Today I Learned",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/bph2png4ajz31_TodayILearned.png?width=16&amp;height=16&amp;auto=webp&amp;s=bbfa251092cce139b37d74237ec28a8c4e8f06b0",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/bph2png4ajz31_TodayILearned.png?width=32&amp;height=32&amp;auto=webp&amp;s=e1f9dd28741e2551b1fbbd341b006cc316f48fa1",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/bph2png4ajz31_TodayILearned.png?width=48&amp;height=48&amp;auto=webp&amp;s=d93434d26563a534397ff748cce71d4b733c32d9",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/bph2png4ajz31_TodayILearned.png?width=64&amp;height=64&amp;auto=webp&amp;s=cf4a1ddb8474d11682f0d88aa32562f9fcbf30b0",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/bph2png4ajz31_TodayILearned.png?width=128&amp;height=128&amp;auto=webp&amp;s=70b1596cdd0ae75b52db5c2732d8c336d300cc11",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 2048,
+                "penny_price": null,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/bph2png4ajz31_TodayILearned.png"
+            },
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 500,
+                "id": "gid_2",
+                "penny_donate": null,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 100,
+                "icon_url": "https://www.redditstatic.com/gold/awards/icon/gold_512.png",
+                "days_of_premium": 7,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_16.png",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_32.png",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_48.png",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_64.png",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_128.png",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 512,
+                "static_icon_width": 512,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Gives the author a week of Reddit Premium, %{coin_symbol}100 Coins to do with as they please, and shows a Gold Award.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 3,
+                "static_icon_height": 512,
+                "name": "Gold",
+                "resized_static_icons": [
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_16.png",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_32.png",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_48.png",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_64.png",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_128.png",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 512,
+                "penny_price": null,
+                "award_type": "global",
+                "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/gold_512.png"
+            },
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 500,
+                "id": "award_43c43a35-15c5-4f73-91ef-fe538426435a",
+                "penny_donate": null,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 100,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/xe5mw55w5v541_BlessUp.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/xe5mw55w5v541_BlessUp.png?width=16&amp;height=16&amp;auto=webp&amp;s=e84e08de4b1352e679d612c063584341f56bc2b5",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/xe5mw55w5v541_BlessUp.png?width=32&amp;height=32&amp;auto=webp&amp;s=d01d7a3286bb55c235e217736c78c66e2d7d0c18",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/xe5mw55w5v541_BlessUp.png?width=48&amp;height=48&amp;auto=webp&amp;s=6ae7d390be614e44f1ec06141d0ba51d65494bff",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/xe5mw55w5v541_BlessUp.png?width=64&amp;height=64&amp;auto=webp&amp;s=1c88befd3d95c2ea37b95a7132db98d8a8730ae1",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/xe5mw55w5v541_BlessUp.png?width=128&amp;height=128&amp;auto=webp&amp;s=f97d6987f6545f6cb659f1fce7c304278a92f762",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Prayers up for the blessed. Gives %{coin_symbol}100 Coins to both the author and the community.",
+                "end_date": null,
+                "subreddit_coin_reward": 100,
+                "count": 1,
+                "static_icon_height": 2048,
+                "name": "Bless Up (Pro)",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/xe5mw55w5v541_BlessUp.png?width=16&amp;height=16&amp;auto=webp&amp;s=e84e08de4b1352e679d612c063584341f56bc2b5",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/xe5mw55w5v541_BlessUp.png?width=32&amp;height=32&amp;auto=webp&amp;s=d01d7a3286bb55c235e217736c78c66e2d7d0c18",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/xe5mw55w5v541_BlessUp.png?width=48&amp;height=48&amp;auto=webp&amp;s=6ae7d390be614e44f1ec06141d0ba51d65494bff",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/xe5mw55w5v541_BlessUp.png?width=64&amp;height=64&amp;auto=webp&amp;s=1c88befd3d95c2ea37b95a7132db98d8a8730ae1",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/xe5mw55w5v541_BlessUp.png?width=128&amp;height=128&amp;auto=webp&amp;s=f97d6987f6545f6cb659f1fce7c304278a92f762",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 2048,
+                "penny_price": null,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/xe5mw55w5v541_BlessUp.png"
+            },
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 300,
+                "id": "award_3dd248bc-3438-4c5b-98d4-24421fd6d670",
+                "penny_donate": null,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 250,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/cr1mq4yysv541_CoinGift.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/cr1mq4yysv541_CoinGift.png?width=16&amp;height=16&amp;auto=webp&amp;s=7bc7d3a9d7950d9b8bfd3fe1da96c06dbd3012c4",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/cr1mq4yysv541_CoinGift.png?width=32&amp;height=32&amp;auto=webp&amp;s=c5bcd1a05b74e7a6371c9a71399a28c492a293cb",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/cr1mq4yysv541_CoinGift.png?width=48&amp;height=48&amp;auto=webp&amp;s=a913bad178f017a572393be1fc36013a4fa59803",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/cr1mq4yysv541_CoinGift.png?width=64&amp;height=64&amp;auto=webp&amp;s=4932f5feebaec182f69be2b329ab40e82a23406f",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/cr1mq4yysv541_CoinGift.png?width=128&amp;height=128&amp;auto=webp&amp;s=eee972a9cf8852ff83b635ee7c5efbbf03bd4ecc",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": 1576887960,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Give the gift of %{coin_symbol}250 Reddit Coins.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 2,
+                "static_icon_height": 2048,
+                "name": "Coin Gift",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/cr1mq4yysv541_CoinGift.png?width=16&amp;height=16&amp;auto=webp&amp;s=7bc7d3a9d7950d9b8bfd3fe1da96c06dbd3012c4",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/cr1mq4yysv541_CoinGift.png?width=32&amp;height=32&amp;auto=webp&amp;s=c5bcd1a05b74e7a6371c9a71399a28c492a293cb",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/cr1mq4yysv541_CoinGift.png?width=48&amp;height=48&amp;auto=webp&amp;s=a913bad178f017a572393be1fc36013a4fa59803",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/cr1mq4yysv541_CoinGift.png?width=64&amp;height=64&amp;auto=webp&amp;s=4932f5feebaec182f69be2b329ab40e82a23406f",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/cr1mq4yysv541_CoinGift.png?width=128&amp;height=128&amp;auto=webp&amp;s=eee972a9cf8852ff83b635ee7c5efbbf03bd4ecc",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 2048,
+                "penny_price": null,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/cr1mq4yysv541_CoinGift.png"
+            },
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 150,
+                "id": "award_77ba55a2-c33c-4351-ac49-807455a80148",
+                "penny_donate": null,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=16&amp;height=16&amp;auto=webp&amp;s=7a2f2b927be72d2b46ebd95bab8c072c3be0fbab",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=32&amp;height=32&amp;auto=webp&amp;s=6e42b7095bcc331e53202438613aa827addf70c3",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=48&amp;height=48&amp;auto=webp&amp;s=c740f7ef642fd2042d62c2bcba98734d08dfae6c",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=64&amp;height=64&amp;auto=webp&amp;s=74e630f1072bb2423034ae48aefa241d834d7186",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=128&amp;height=128&amp;auto=webp&amp;s=0a89cd8011c8210315ee60441eefd77b973a0c82",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Prayers up for the blessed.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 2048,
+                "name": "Bless Up",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=16&amp;height=16&amp;auto=webp&amp;s=7a2f2b927be72d2b46ebd95bab8c072c3be0fbab",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=32&amp;height=32&amp;auto=webp&amp;s=6e42b7095bcc331e53202438613aa827addf70c3",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=48&amp;height=48&amp;auto=webp&amp;s=c740f7ef642fd2042d62c2bcba98734d08dfae6c",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=64&amp;height=64&amp;auto=webp&amp;s=74e630f1072bb2423034ae48aefa241d834d7186",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=128&amp;height=128&amp;auto=webp&amp;s=0a89cd8011c8210315ee60441eefd77b973a0c82",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 2048,
+                "penny_price": null,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png"
+            },
+            {
+                "giver_coin_reward": 0,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 75,
+                "id": "award_ce5f9ce6-49d9-4905-9228-22950e889206",
+                "penny_donate": 0,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=16&amp;height=16&amp;auto=webp&amp;s=7a3164ef705ae0a41198e29767e4a51fd86e2dcd",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=32&amp;height=32&amp;auto=webp&amp;s=5c621179e63f7f6fbb6a0807367bd79467878784",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=48&amp;height=48&amp;auto=webp&amp;s=ebf40f79a711e9c4206f5f841235e43697f7a3f5",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=64&amp;height=64&amp;auto=webp&amp;s=18dad26bb669e202c42ff6b742d6c0f9d1e62ee9",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=128&amp;height=128&amp;auto=webp&amp;s=61ccae2b32cfbf2f26bd53c9d1287d1235da4d68",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": false,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Everything's better with a good hug",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 2048,
+                "name": "Hugz",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=16&amp;height=16&amp;auto=webp&amp;s=7a3164ef705ae0a41198e29767e4a51fd86e2dcd",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=32&amp;height=32&amp;auto=webp&amp;s=5c621179e63f7f6fbb6a0807367bd79467878784",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=48&amp;height=48&amp;auto=webp&amp;s=ebf40f79a711e9c4206f5f841235e43697f7a3f5",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=64&amp;height=64&amp;auto=webp&amp;s=18dad26bb669e202c42ff6b742d6c0f9d1e62ee9",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png?width=128&amp;height=128&amp;auto=webp&amp;s=61ccae2b32cfbf2f26bd53c9d1287d1235da4d68",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": "PNG",
+                "icon_height": 2048,
+                "penny_price": 0,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/5smbysczm1w41_Hugz.png"
+            },
+            {
+                "giver_coin_reward": 0,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 50,
+                "id": "award_02d9ab2c-162e-4c01-8438-317a016ed3d9",
+                "penny_donate": 0,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=16&amp;height=16&amp;auto=webp&amp;s=92e96be1dbd278dc987fbd9acc1bd5078566f254",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=32&amp;height=32&amp;auto=webp&amp;s=83e14655f2b162b295f7d2c7058b9ad94cf8b73c",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=48&amp;height=48&amp;auto=webp&amp;s=83038a4d6181d3c8f5107dbca4ddb735ca6c2231",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=64&amp;height=64&amp;auto=webp&amp;s=3c4e39a7664d799ff50f32e9a3f96c3109d2e266",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=128&amp;height=128&amp;auto=webp&amp;s=390bf9706b8e1a6215716ebcf6363373f125c339",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "I'm in this with you.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 2,
+                "static_icon_height": 2048,
+                "name": "Take My Energy",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=16&amp;height=16&amp;auto=webp&amp;s=92e96be1dbd278dc987fbd9acc1bd5078566f254",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=32&amp;height=32&amp;auto=webp&amp;s=83e14655f2b162b295f7d2c7058b9ad94cf8b73c",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=48&amp;height=48&amp;auto=webp&amp;s=83038a4d6181d3c8f5107dbca4ddb735ca6c2231",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=64&amp;height=64&amp;auto=webp&amp;s=3c4e39a7664d799ff50f32e9a3f96c3109d2e266",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=128&amp;height=128&amp;auto=webp&amp;s=390bf9706b8e1a6215716ebcf6363373f125c339",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": "PNG",
+                "icon_height": 2048,
+                "penny_price": 0,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png"
+            }
+        ],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "da7dc4b2-8150-11e4-a964-22000bc00059",
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qzb6",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#ffffff",
+        "id": "gdi33a",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "MyHomelessMeals",
+        "discussion_type": null,
+        "num_comments": 1262,
+        "send_replies": false,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/IAmA/comments/gdi33a/im_homeless_in_a_deadly_pandemic_ama/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/IAmA/comments/gdi33a/im_homeless_in_a_deadly_pandemic_ama/",
+        "subreddit_subscribers": 20614094,
+        "created_utc": 1588619901.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    },
+    {
+        "approved_at_utc": null,
+        "subreddit": "Coronavirus",
+        "selftext": "",
+        "author_fullname": "t2_5x6uq6ah",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 1,
+        "clicked": false,
+        "title": "‘Never Seen Anything Like It’: Cars Line Up for Miles at Food Banks",
+        "link_flair_richtext": [],
+        "subreddit_name_prefixed": "r/Coronavirus",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "",
+        "downs": 0,
+        "thumbnail_height": 73,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_fxihv3",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.98,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 2102,
+        "total_awards_received": 2,
+        "media_embed": {},
+        "thumbnail_width": 140,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "USA",
+        "can_mod_post": false,
+        "score": 2102,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://b.thumbs.redditmedia.com/WFW0xT5dRcFyI1M3quFjZnXjCvQF6MbcFnK-nnUBAdE.jpg",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {
+            "gid_2": 1
+        },
+        "post_hint": "link",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1586421607.0,
+        "link_flair_type": "text",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "nytimes.com",
+        "allow_live_comments": true,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": "confidence",
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://www.nytimes.com/2020/04/08/business/economy/coronavirus-food-banks.html",
+        "view_count": null,
+        "archived": true,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/leSOUnQqRcvfWriAVLG__DoA9o3dg1RWXulMxsRJ-js.jpg?auto=webp&amp;s=3afd03c6d450575df8cd246d6e3e6a7e4a89cd7c",
+                        "width": 1050,
+                        "height": 550
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/leSOUnQqRcvfWriAVLG__DoA9o3dg1RWXulMxsRJ-js.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=8f525db8fced5eb54125338fd7654d09de871be5",
+                            "width": 108,
+                            "height": 56
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/leSOUnQqRcvfWriAVLG__DoA9o3dg1RWXulMxsRJ-js.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=86653d86c40dd1ef27263f8e66f7e18eb0dfa1c9",
+                            "width": 216,
+                            "height": 113
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/leSOUnQqRcvfWriAVLG__DoA9o3dg1RWXulMxsRJ-js.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=b86c47f8c65d0e782aaade13b4eb60d7e1e83e23",
+                            "width": 320,
+                            "height": 167
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/leSOUnQqRcvfWriAVLG__DoA9o3dg1RWXulMxsRJ-js.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c2f75e153918ba28bff2dc4070d14e9e771f5873",
+                            "width": 640,
+                            "height": 335
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/leSOUnQqRcvfWriAVLG__DoA9o3dg1RWXulMxsRJ-js.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=1311641880881a31ca0e2d0d08c483e229d55962",
+                            "width": 960,
+                            "height": 502
+                        }
+                    ],
+                    "variants": {},
+                    "id": "IB10jy5h0Csd3OkbQtLD_w7mNyVoFqVDhnSMcM0upec"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 500,
+                "id": "gid_2",
+                "penny_donate": null,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 100,
+                "icon_url": "https://www.redditstatic.com/gold/awards/icon/gold_512.png",
+                "days_of_premium": 7,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_16.png",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_32.png",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_48.png",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_64.png",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_128.png",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 512,
+                "static_icon_width": 512,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Gives the author a week of Reddit Premium, %{coin_symbol}100 Coins to do with as they please, and shows a Gold Award.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 512,
+                "name": "Gold",
+                "resized_static_icons": [
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_16.png",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_32.png",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_48.png",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_64.png",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://www.redditstatic.com/gold/awards/icon/gold_128.png",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 512,
+                "penny_price": null,
+                "award_type": "global",
+                "static_icon_url": "https://www.redditstatic.com/gold/awards/icon/gold_512.png"
+            },
+            {
+                "giver_coin_reward": 0,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 50,
+                "id": "award_02d9ab2c-162e-4c01-8438-317a016ed3d9",
+                "penny_donate": 0,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=16&amp;height=16&amp;auto=webp&amp;s=92e96be1dbd278dc987fbd9acc1bd5078566f254",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=32&amp;height=32&amp;auto=webp&amp;s=83e14655f2b162b295f7d2c7058b9ad94cf8b73c",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=48&amp;height=48&amp;auto=webp&amp;s=83038a4d6181d3c8f5107dbca4ddb735ca6c2231",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=64&amp;height=64&amp;auto=webp&amp;s=3c4e39a7664d799ff50f32e9a3f96c3109d2e266",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=128&amp;height=128&amp;auto=webp&amp;s=390bf9706b8e1a6215716ebcf6363373f125c339",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "I'm in this with you.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 2048,
+                "name": "Take My Energy",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=16&amp;height=16&amp;auto=webp&amp;s=92e96be1dbd278dc987fbd9acc1bd5078566f254",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=32&amp;height=32&amp;auto=webp&amp;s=83e14655f2b162b295f7d2c7058b9ad94cf8b73c",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=48&amp;height=48&amp;auto=webp&amp;s=83038a4d6181d3c8f5107dbca4ddb735ca6c2231",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=64&amp;height=64&amp;auto=webp&amp;s=3c4e39a7664d799ff50f32e9a3f96c3109d2e266",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png?width=128&amp;height=128&amp;auto=webp&amp;s=390bf9706b8e1a6215716ebcf6363373f125c339",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": "PNG",
+                "icon_height": 2048,
+                "penny_price": 0,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/898sygoknoo41_TakeMyEnergy.png"
+            }
+        ],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "e7643a50-5e48-11ea-8e30-0e05eb9dc901",
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2x4yx",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#ff8717",
+        "id": "fxihv3",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "MyHomelessMeals",
+        "discussion_type": null,
+        "num_comments": 259,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/Coronavirus/comments/fxihv3/never_seen_anything_like_it_cars_line_up_for/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.nytimes.com/2020/04/08/business/economy/coronavirus-food-banks.html",
+        "subreddit_subscribers": 2323620,
+        "created_utc": 1586392807.0,
+        "num_crossposts": 4,
+        "media": null,
+        "is_video": false
+    },
+    {
+        "approved_at_utc": null,
+        "subreddit": "Portland",
+        "selftext": "",
+        "author_fullname": "t2_5x6uq6ah",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "Gov. Kate Brown Issues Order Directing Oregonians To 'Stay Home'",
+        "link_flair_richtext": [],
+        "subreddit_name_prefixed": "r/Portland",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "local-news",
+        "downs": 0,
+        "thumbnail_height": 105,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_fnobu1",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.98,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 1289,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": 140,
+        "author_flair_template_id": "34fe0d36-ddf5-11e6-bd98-0ea5f6761f56",
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Local News",
+        "can_mod_post": false,
+        "score": 1289,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://a.thumbs.redditmedia.com/nCLxTQWgaChY4yOlEc-HZwZRZlvTg5Oal6qSgG2Fd_4.jpg",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "link",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1585014535.0,
+        "link_flair_type": "text",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "opb.org",
+        "allow_live_comments": true,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": "confidence",
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://www.opb.org/news/article/oregon-stay-at-home-order-coronavirus-covid-19-kate-brown/",
+        "view_count": null,
+        "archived": true,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/MpweAcI-_OmyICdpgzWBWuL6xhq_uVJQA-Msql2SgtU.jpg?auto=webp&amp;s=024675a2046b2f33c1b26555ca22d684e7ea75f3",
+                        "width": 400,
+                        "height": 300
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/MpweAcI-_OmyICdpgzWBWuL6xhq_uVJQA-Msql2SgtU.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=b749ae6e121ac19991e8417fd4a6cb0e3a63471a",
+                            "width": 108,
+                            "height": 81
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/MpweAcI-_OmyICdpgzWBWuL6xhq_uVJQA-Msql2SgtU.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=d15652e095f0555afb175a5c555028faa93a0e16",
+                            "width": 216,
+                            "height": 162
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/MpweAcI-_OmyICdpgzWBWuL6xhq_uVJQA-Msql2SgtU.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ee7b019909ca12c931979ad2a2fc22350b03af08",
+                            "width": 320,
+                            "height": 240
+                        }
+                    ],
+                    "variants": {},
+                    "id": "cX5g8BPk6ZqSyXY5GcG-vl-y9OXnuDMXJgJORBEFd6U"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": "Mill Ends Park",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qi2i",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "fnobu1",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "MyHomelessMeals",
+        "discussion_type": null,
+        "num_comments": 772,
+        "send_replies": false,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/Portland/comments/fnobu1/gov_kate_brown_issues_order_directing_oregonians/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.opb.org/news/article/oregon-stay-at-home-order-coronavirus-covid-19-kate-brown/",
+        "subreddit_subscribers": 183273,
+        "created_utc": 1584985735.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    },
+    {
+        "approved_at_utc": null,
+        "subreddit": "homeless",
+        "selftext": "The volunteers who are still out serving food and blankets and hygiene items in this crisis are heroes. Please make sure they know how much they are appreciated. And keep it up after this is all over, too. It means a lot more than you may realize.\n\nStay safe, everybody. ♥",
+        "author_fullname": "t2_5x6uq6ah",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "Please thank the volunteers now more than ever",
+        "link_flair_richtext": [],
+        "subreddit_name_prefixed": "r/homeless",
+        "hidden": false,
+        "pwls": 7,
+        "link_flair_css_class": null,
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_fms1cg",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.95,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 33,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": "490fa176-89bc-11e3-bd5c-12313d18400c",
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": null,
+        "can_mod_post": false,
+        "score": 33,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "self",
+        "edited": false,
+        "author_flair_css_class": "3",
+        "author_flair_richtext": [],
+        "gildings": {},
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1584872143.0,
+        "link_flair_type": "text",
+        "wls": 7,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "self.homeless",
+        "allow_live_comments": false,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;The volunteers who are still out serving food and blankets and hygiene items in this crisis are heroes. Please make sure they know how much they are appreciated. And keep it up after this is all over, too. It means a lot more than you may realize.&lt;/p&gt;\n\n&lt;p&gt;Stay safe, everybody. ♥&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": true,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": "Homeless",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qtcb",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "fms1cg",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "MyHomelessMeals",
+        "discussion_type": null,
+        "num_comments": 1,
+        "send_replies": true,
+        "whitelist_status": "some_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/homeless/comments/fms1cg/please_thank_the_volunteers_now_more_than_ever/",
+        "parent_whitelist_status": "some_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/homeless/comments/fms1cg/please_thank_the_volunteers_now_more_than_ever/",
+        "subreddit_subscribers": 27979,
+        "created_utc": 1584843343.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    },
+    {
+        "approved_at_utc": null,
+        "subreddit": "homeless",
+        "selftext": "",
+        "author_fullname": "t2_5x6uq6ah",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "Food banks are seeing volunteers disappear and supplies evaporate as coronavirus fears mount",
+        "link_flair_richtext": [],
+        "subreddit_name_prefixed": "r/homeless",
+        "hidden": false,
+        "pwls": 7,
+        "link_flair_css_class": "purple",
+        "downs": 0,
+        "thumbnail_height": 93,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_fkc20q",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.97,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 22,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": 140,
+        "author_flair_template_id": "490fa176-89bc-11e3-bd5c-12313d18400c",
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "News",
+        "can_mod_post": false,
+        "score": 22,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://a.thumbs.redditmedia.com/vdY3Kv8UcbDlZiGxxIvjPzNsy3UsUs7oZNDlLlqsV10.jpg",
+        "edited": false,
+        "author_flair_css_class": "3",
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "link",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1584504374.0,
+        "link_flair_type": "text",
+        "wls": 7,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "washingtonpost.com",
+        "allow_live_comments": false,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://www.washingtonpost.com/business/2020/03/16/food-banks-are-seeing-volunteers-disappear-food-supply-evaporate-coronavirus-fears-mount/",
+        "view_count": null,
+        "archived": true,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/T4Hdo2i2UW9P9MjII0ju_D9c7vRrYOY2-zugRyOKnyw.jpg?auto=webp&amp;s=dadffffaa25033a2f564cab52125d43dab1bd77a",
+                        "width": 1440,
+                        "height": 960
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/T4Hdo2i2UW9P9MjII0ju_D9c7vRrYOY2-zugRyOKnyw.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=687819b2a44143879b6578ec9c25f8709f25f2ba",
+                            "width": 108,
+                            "height": 72
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/T4Hdo2i2UW9P9MjII0ju_D9c7vRrYOY2-zugRyOKnyw.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=2f153f91711e3fb5aa3dd166c9337e67bce81a2d",
+                            "width": 216,
+                            "height": 144
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/T4Hdo2i2UW9P9MjII0ju_D9c7vRrYOY2-zugRyOKnyw.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e19aae933227b9ea4b6ae519fb47827887853971",
+                            "width": 320,
+                            "height": 213
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/T4Hdo2i2UW9P9MjII0ju_D9c7vRrYOY2-zugRyOKnyw.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=35f994c4fa6191c4ef05d0b7aedec13aede99005",
+                            "width": 640,
+                            "height": 426
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/T4Hdo2i2UW9P9MjII0ju_D9c7vRrYOY2-zugRyOKnyw.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=b6be58619e7252953497d1b7cb037e5b66740b6d",
+                            "width": 960,
+                            "height": 640
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/T4Hdo2i2UW9P9MjII0ju_D9c7vRrYOY2-zugRyOKnyw.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=728a66aec6411fa0c716a260140b47997b53b045",
+                            "width": 1080,
+                            "height": 720
+                        }
+                    ],
+                    "variants": {},
+                    "id": "zIOFWGWO9C9tQHp-bF3m0EjEukoPTJ46GF6cZTy2CBI"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": "Homeless",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qtcb",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "fkc20q",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "MyHomelessMeals",
+        "discussion_type": null,
+        "num_comments": 2,
+        "send_replies": true,
+        "whitelist_status": "some_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/homeless/comments/fkc20q/food_banks_are_seeing_volunteers_disappear_and/",
+        "parent_whitelist_status": "some_ads",
+        "stickied": false,
+        "url": "https://www.washingtonpost.com/business/2020/03/16/food-banks-are-seeing-volunteers-disappear-food-supply-evaporate-coronavirus-fears-mount/",
+        "subreddit_subscribers": 27979,
+        "created_utc": 1584475574.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    },
+    {
+        "approved_at_utc": null,
+        "subreddit": "homeless",
+        "selftext": "It's snowing right now in Portland, Oregon. Fat flakes are literally falling on my phone while I type, standing in a line, hoping to get food before it runs out. The libraries are all closed. The community centers are closed, too, because of the coronavirus outbreak. Even the emergency warming shelters won't be opening tonight.\n\nIf you haven't already been sleeping every night in the same shelter to avoid losing your bed, you now can't get into a shelter anymore. They've [halted intake](https://www.opb.org/news/article/portland-coronavirus-homelessness-covid-19-prevention-shelters/) in order to leave more beds empty and create social distancing between guests:\n\n&gt;As of last week, Transition Projects \\[by far the largest operator of shelters in our county\\] has temporarily stopped taking in new guests across their shelters. ... Transition Projects is not the only provider bringing intake to a sudden halt.\n\nThey're not even opening emergency warming shelters this weekend, despite temperatures falling below freezing.\n\nAll of the [libraries have closed indefinitely](https://multcolib.org/blog/20200313/multnomah-county-libraries-close-due-covid-19). These are places homeless people rely on to stay safe, warm and dry during the day, as well as to use the internet and charge a phone.\n\nThe [community centers are closed](https://www.wweek.com/news/2020/03/13/portland-parks-recreation-closes-all-recreation-centers-and-pools/), too, removing the other major option for staying out of the snow.\n\nProviders of meals and other services have [stopped letting people inside](https://www.facebook.com/saintandrechurch/posts/3368161663199591), reduced their services, or suspended operations altogether. Last week, people showed up for a big weekly outdoor event for the homeless called Night Strike, only to find out it was [cancelled](https://www.facebook.com/BPMPDX.ORG/photos/a.261167400577034/3518853844808357/?type=3&amp;theater). The event usually offers food, clothing, blankets, sleeping bags, a mobile shower trailer, mobile dentistry, haircuts, and more. People really rely on it. I was looking forward to it for my only meal of the day. (I usually eat one meal a day and try to make it last so I don't spend my whole day running around town waiting in lines for food.) When it was cancelled, I rushed over to the only other place serving food that late, only to find out they had plumbing problems and had run out of food. I honestly verged on tears as I made the long walk back to where I sleep outside, wondering what's going to happen to us.\n\nIt's really getting desperate out here, and I don't know what to do. Do you?",
+        "author_fullname": "t2_5x6uq6ah",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "COVID-19 is shutting down food and shelter for the homeless, and I'm getting scared",
+        "link_flair_richtext": [],
+        "subreddit_name_prefixed": "r/homeless",
+        "hidden": false,
+        "pwls": 7,
+        "link_flair_css_class": null,
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_fipg6s",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.96,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 82,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": "490fa176-89bc-11e3-bd5c-12313d18400c",
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": null,
+        "can_mod_post": false,
+        "score": 82,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "self",
+        "edited": false,
+        "author_flair_css_class": "3",
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "self",
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1584248440.0,
+        "link_flair_type": "text",
+        "wls": 7,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "self.homeless",
+        "allow_live_comments": false,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;It&amp;#39;s snowing right now in Portland, Oregon. Fat flakes are literally falling on my phone while I type, standing in a line, hoping to get food before it runs out. The libraries are all closed. The community centers are closed, too, because of the coronavirus outbreak. Even the emergency warming shelters won&amp;#39;t be opening tonight.&lt;/p&gt;\n\n&lt;p&gt;If you haven&amp;#39;t already been sleeping every night in the same shelter to avoid losing your bed, you now can&amp;#39;t get into a shelter anymore. They&amp;#39;ve &lt;a href=\"https://www.opb.org/news/article/portland-coronavirus-homelessness-covid-19-prevention-shelters/\"&gt;halted intake&lt;/a&gt; in order to leave more beds empty and create social distancing between guests:&lt;/p&gt;\n\n&lt;blockquote&gt;\n&lt;p&gt;As of last week, Transition Projects [by far the largest operator of shelters in our county] has temporarily stopped taking in new guests across their shelters. ... Transition Projects is not the only provider bringing intake to a sudden halt.&lt;/p&gt;\n&lt;/blockquote&gt;\n\n&lt;p&gt;They&amp;#39;re not even opening emergency warming shelters this weekend, despite temperatures falling below freezing.&lt;/p&gt;\n\n&lt;p&gt;All of the &lt;a href=\"https://multcolib.org/blog/20200313/multnomah-county-libraries-close-due-covid-19\"&gt;libraries have closed indefinitely&lt;/a&gt;. These are places homeless people rely on to stay safe, warm and dry during the day, as well as to use the internet and charge a phone.&lt;/p&gt;\n\n&lt;p&gt;The &lt;a href=\"https://www.wweek.com/news/2020/03/13/portland-parks-recreation-closes-all-recreation-centers-and-pools/\"&gt;community centers are closed&lt;/a&gt;, too, removing the other major option for staying out of the snow.&lt;/p&gt;\n\n&lt;p&gt;Providers of meals and other services have &lt;a href=\"https://www.facebook.com/saintandrechurch/posts/3368161663199591\"&gt;stopped letting people inside&lt;/a&gt;, reduced their services, or suspended operations altogether. Last week, people showed up for a big weekly outdoor event for the homeless called Night Strike, only to find out it was &lt;a href=\"https://www.facebook.com/BPMPDX.ORG/photos/a.261167400577034/3518853844808357/?type=3&amp;amp;theater\"&gt;cancelled&lt;/a&gt;. The event usually offers food, clothing, blankets, sleeping bags, a mobile shower trailer, mobile dentistry, haircuts, and more. People really rely on it. I was looking forward to it for my only meal of the day. (I usually eat one meal a day and try to make it last so I don&amp;#39;t spend my whole day running around town waiting in lines for food.) When it was cancelled, I rushed over to the only other place serving food that late, only to find out they had plumbing problems and had run out of food. I honestly verged on tears as I made the long walk back to where I sleep outside, wondering what&amp;#39;s going to happen to us.&lt;/p&gt;\n\n&lt;p&gt;It&amp;#39;s really getting desperate out here, and I don&amp;#39;t know what to do. Do you?&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": true,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/7FzoIFVrNKOzONERWhgVJsCcTo_hST1bFfBu43-8wFQ.jpg?auto=webp&amp;s=bf25a2dd8e1ff58226f735add8ec742648131bc4",
+                        "width": 400,
+                        "height": 300
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/7FzoIFVrNKOzONERWhgVJsCcTo_hST1bFfBu43-8wFQ.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=177ee626ec225d924d42671fc08dab415365a2b0",
+                            "width": 108,
+                            "height": 81
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/7FzoIFVrNKOzONERWhgVJsCcTo_hST1bFfBu43-8wFQ.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=f51d9d2de438af2f7ebf234396474b9546503fc3",
+                            "width": 216,
+                            "height": 162
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/7FzoIFVrNKOzONERWhgVJsCcTo_hST1bFfBu43-8wFQ.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=ce731211f4c24a06dd77184ca1a55f7bf15690bf",
+                            "width": 320,
+                            "height": 240
+                        }
+                    ],
+                    "variants": {},
+                    "id": "ZcY9GEtv37zq4ni-iQ-z9uc5V3j5TivLGDFE74Aoyws"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": "Homeless",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qtcb",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "fipg6s",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "MyHomelessMeals",
+        "discussion_type": null,
+        "num_comments": 17,
+        "send_replies": true,
+        "whitelist_status": "some_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/homeless/comments/fipg6s/covid19_is_shutting_down_food_and_shelter_for_the/",
+        "parent_whitelist_status": "some_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/homeless/comments/fipg6s/covid19_is_shutting_down_food_and_shelter_for_the/",
+        "subreddit_subscribers": 27979,
+        "created_utc": 1584219640.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    }
+]

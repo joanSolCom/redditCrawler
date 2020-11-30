@@ -1,0 +1,162 @@
+{
+    "kind": "t3",
+    "data": {
+        "approved_at_utc": null,
+        "subreddit": "IAmA",
+        "selftext": "I recently started attempting to learn Russian. I knew that there were websites that offered parallel books, (books that allow you to read translations as you're learning a new language) and I wanted the same for practicing typing. When I originally tried searching for this online, I couldn't find what I wanted so I created my own website.\n\nHere is an example of one of the books with parallel typing tests: https://btype.io/game/1931/1\n\nI ended up doing more than the minimum though, and the website actually works for anyone wanting to just practice typing with books in any language. \n\nHere is a list of books that are just for practicing typing: https://btype.io/l/en/en\n\nOther features of the website:\n\n* [Dark mode](https://i.imgur.com/RZ5uQOw.png)\n* [Progress and stats are saved for users](https://i.imgur.com/JRUutcw.png)\n* [Users are able to share their progress with others](https://i.imgur.com/qac8bPj.png)\n* [All of the books and translations that are created are downloadable for other developers to use](https://btype.io/data)\n* [Users can import public domain books on their own if books are missing](https://btype.io/import/format)\n* There are 109 languages that have support.\n\n**My Proof:** https://btype.io/reddit/ama.txt\n\nAsk me anything!",
+        "author_fullname": "t2_f253o",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "IamA developer and I created a website for taking Parallel Typing Tests with public domain books. AMA",
+        "link_flair_richtext": [
+            {
+                "e": "text",
+                "t": "Technology"
+            }
+        ],
+        "subreddit_name_prefixed": "r/IAmA",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "tech",
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_isqrsn",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.87,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 769,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Technology",
+        "can_mod_post": false,
+        "score": 769,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "self",
+        "edited": 1600109346.0,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "self",
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1600136784.0,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "self.IAmA",
+        "allow_live_comments": false,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I recently started attempting to learn Russian. I knew that there were websites that offered parallel books, (books that allow you to read translations as you&amp;#39;re learning a new language) and I wanted the same for practicing typing. When I originally tried searching for this online, I couldn&amp;#39;t find what I wanted so I created my own website.&lt;/p&gt;\n\n&lt;p&gt;Here is an example of one of the books with parallel typing tests: &lt;a href=\"https://btype.io/game/1931/1\"&gt;https://btype.io/game/1931/1&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;I ended up doing more than the minimum though, and the website actually works for anyone wanting to just practice typing with books in any language. &lt;/p&gt;\n\n&lt;p&gt;Here is a list of books that are just for practicing typing: &lt;a href=\"https://btype.io/l/en/en\"&gt;https://btype.io/l/en/en&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Other features of the website:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=\"https://i.imgur.com/RZ5uQOw.png\"&gt;Dark mode&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=\"https://i.imgur.com/JRUutcw.png\"&gt;Progress and stats are saved for users&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=\"https://i.imgur.com/qac8bPj.png\"&gt;Users are able to share their progress with others&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=\"https://btype.io/data\"&gt;All of the books and translations that are created are downloadable for other developers to use&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=\"https://btype.io/import/format\"&gt;Users can import public domain books on their own if books are missing&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;There are 109 languages that have support.&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;&lt;strong&gt;My Proof:&lt;/strong&gt; &lt;a href=\"https://btype.io/reddit/ama.txt\"&gt;https://btype.io/reddit/ama.txt&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Ask me anything!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/pkidt0nrJMp3OYVIIvgD3Ucpahp3lVYtBRyn-uym5eA.png?auto=webp&amp;s=1b6cb0f2b04585e8227a0217533b56355649c548",
+                        "width": 1148,
+                        "height": 805
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/pkidt0nrJMp3OYVIIvgD3Ucpahp3lVYtBRyn-uym5eA.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=97684b9973df7bad16502eecfa77c20057e943c9",
+                            "width": 108,
+                            "height": 75
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/pkidt0nrJMp3OYVIIvgD3Ucpahp3lVYtBRyn-uym5eA.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=860de2191b6cdcdc97fa2a84790cfe24a2333b2a",
+                            "width": 216,
+                            "height": 151
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/pkidt0nrJMp3OYVIIvgD3Ucpahp3lVYtBRyn-uym5eA.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=d4382a7c728a957dab600bb45757b25bf1d6f563",
+                            "width": 320,
+                            "height": 224
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/pkidt0nrJMp3OYVIIvgD3Ucpahp3lVYtBRyn-uym5eA.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f1c2a3314d274580ee4f2ccb136a198ac0c7fe44",
+                            "width": 640,
+                            "height": 448
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/pkidt0nrJMp3OYVIIvgD3Ucpahp3lVYtBRyn-uym5eA.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=e9884bcb5fb1d0b995e741102b79503ff7ba7ce6",
+                            "width": 960,
+                            "height": 673
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/pkidt0nrJMp3OYVIIvgD3Ucpahp3lVYtBRyn-uym5eA.png?width=1080&amp;crop=smart&amp;auto=webp&amp;s=2298b449bc7cbaabefaee184c39847129caf69fa",
+                            "width": 1080,
+                            "height": 757
+                        }
+                    ],
+                    "variants": {},
+                    "id": "kLmvsjTximRh7S8d_dRAojQx9bM94BgfL3do61i4GM8"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "c4536ffc-8150-11e4-ac2d-22000bc00059",
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qzb6",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#ffffff",
+        "id": "isqrsn",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "World177",
+        "discussion_type": null,
+        "num_comments": 32,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/IAmA/comments/isqrsn/iama_developer_and_i_created_a_website_for_taking/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/IAmA/comments/isqrsn/iama_developer_and_i_created_a_website_for_taking/",
+        "subreddit_subscribers": 20603946,
+        "created_utc": 1600107984.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    }
+}

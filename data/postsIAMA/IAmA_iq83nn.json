@@ -1,0 +1,222 @@
+{
+    "kind": "t3",
+    "data": {
+        "approved_at_utc": null,
+        "subreddit": "IAmA",
+        "selftext": "Hi Reddit! \n\nI’m a former startup founder who left the for-profit world to launch [CodePath.org](https://www.insidehighered.com/news/2019/06/05/nonprofit-boot-camp-infiltrates-college-computer-science-curricula), a non-profit which helps low income and underrepresented college students all around the US land software engineering jobs in tech. We’re working to develop a sustainable and diverse talent pipeline for  the tech industry by offering students free multi-year coursework, mentorship, career prep, technical interview training, and employer networking -- all 100% free of any cost to the student. \n\nAbout me: I grew up in a low-income household in rural Maine, didn’t know anyone in tech, and didn’t have access to CS classes. I made it to college and started founding companies at age 19; I’m one of the only black, YCombinator alums to have a company valued over $1 bil. But most people like me — POCs, low-income, first-gen students — never even get the opportunity to start tech careers. I believe we can create an industry that’s diverse, accessible, and inclusive by rebuilding CS education. \n\nCodePath runs free courses on topics like Cybersecurity, mobile app development, and technical interviews, both directly on college campuses and virtually. We try to make computer science and software engineering accessible by teaching students how to build things, like apps or websites, instead of focusing just on theory. Recently, our students have developed [apps](https://blog.codepath.org/spring-2020-android-demo-day-congratulations-to-the-winners/) that simulate the night sky on mobile devices, allow roommates to create collaborative task lists, and track the stats of BrawlStar players.\n\nThere’s no reason [top tech firms](https://www.wired.com/story/five-years-tech-diversity-reports-little-progress/) should be ¾ male and less than 5% black or Latinx. But, one year after completing a CodePath course, about 81 percent of all CodePath alumni, 92% of black alumni, and 73% of alumni with no previous technical experience had landed tech jobs. Many are at top firms, including Google, Visa, Microsoft, and Apple. So, that’s pretty great. \n\n[Proof](https://twitter.com/MichaelwEllison/status/1304098759467347969)",
+        "author_fullname": "t2_43w7b",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "I’m Michael Ellison. I grew up experiencing poverty and homelessness, co-founded a $1+ billion company, then started a nonprofit helping underrepresented students land tech careers. AMA!",
+        "link_flair_richtext": [
+            {
+                "e": "text",
+                "t": "Technology"
+            }
+        ],
+        "subreddit_name_prefixed": "r/IAmA",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "tech",
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_iq83nn",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.85,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 262,
+        "total_awards_received": 1,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Technology",
+        "can_mod_post": false,
+        "score": 262,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "self",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "self",
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1599788226.0,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "self.IAmA",
+        "allow_live_comments": false,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi Reddit! &lt;/p&gt;\n\n&lt;p&gt;I’m a former startup founder who left the for-profit world to launch &lt;a href=\"https://www.insidehighered.com/news/2019/06/05/nonprofit-boot-camp-infiltrates-college-computer-science-curricula\"&gt;CodePath.org&lt;/a&gt;, a non-profit which helps low income and underrepresented college students all around the US land software engineering jobs in tech. We’re working to develop a sustainable and diverse talent pipeline for  the tech industry by offering students free multi-year coursework, mentorship, career prep, technical interview training, and employer networking -- all 100% free of any cost to the student. &lt;/p&gt;\n\n&lt;p&gt;About me: I grew up in a low-income household in rural Maine, didn’t know anyone in tech, and didn’t have access to CS classes. I made it to college and started founding companies at age 19; I’m one of the only black, YCombinator alums to have a company valued over $1 bil. But most people like me — POCs, low-income, first-gen students — never even get the opportunity to start tech careers. I believe we can create an industry that’s diverse, accessible, and inclusive by rebuilding CS education. &lt;/p&gt;\n\n&lt;p&gt;CodePath runs free courses on topics like Cybersecurity, mobile app development, and technical interviews, both directly on college campuses and virtually. We try to make computer science and software engineering accessible by teaching students how to build things, like apps or websites, instead of focusing just on theory. Recently, our students have developed &lt;a href=\"https://blog.codepath.org/spring-2020-android-demo-day-congratulations-to-the-winners/\"&gt;apps&lt;/a&gt; that simulate the night sky on mobile devices, allow roommates to create collaborative task lists, and track the stats of BrawlStar players.&lt;/p&gt;\n\n&lt;p&gt;There’s no reason &lt;a href=\"https://www.wired.com/story/five-years-tech-diversity-reports-little-progress/\"&gt;top tech firms&lt;/a&gt; should be ¾ male and less than 5% black or Latinx. But, one year after completing a CodePath course, about 81 percent of all CodePath alumni, 92% of black alumni, and 73% of alumni with no previous technical experience had landed tech jobs. Many are at top firms, including Google, Visa, Microsoft, and Apple. So, that’s pretty great. &lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://twitter.com/MichaelwEllison/status/1304098759467347969\"&gt;Proof&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/JFMjgP-42MTbsTozSq363vuftyBgGPvRgQyB-xcbI74.jpg?auto=webp&amp;s=bbedda6030a3599c9081f3c1337fa69c43778686",
+                        "width": 200,
+                        "height": 200
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/JFMjgP-42MTbsTozSq363vuftyBgGPvRgQyB-xcbI74.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=cd8f6d5c16e2fc53b6520b5ee133b2b26819ada6",
+                            "width": 108,
+                            "height": 108
+                        }
+                    ],
+                    "variants": {},
+                    "id": "13ga9qw5OdOcPdNPkDhulHwvaTXhZcrAMzEYCzNWhww"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [
+            {
+                "giver_coin_reward": 0,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 50,
+                "id": "award_80d4d339-95d0-43ac-b051-bc3fe0a9bab8",
+                "penny_donate": 0,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/lcswc5d07hb51_WearingisCaring.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/lcswc5d07hb51_WearingisCaring.png?width=16&amp;height=16&amp;auto=webp&amp;s=b1a8234a0a122785991d6e6f8a4e0342525196fb",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/lcswc5d07hb51_WearingisCaring.png?width=32&amp;height=32&amp;auto=webp&amp;s=d18080390a3a15888b1fb45f6310b0362e97d1c9",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/lcswc5d07hb51_WearingisCaring.png?width=48&amp;height=48&amp;auto=webp&amp;s=d19c39d1fcfc71fe7f4eb2ba1a52d18d8f063b6e",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/lcswc5d07hb51_WearingisCaring.png?width=64&amp;height=64&amp;auto=webp&amp;s=d4bdebbc07f33dcb808bcdd14ca3a0095719bb13",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/lcswc5d07hb51_WearingisCaring.png?width=128&amp;height=128&amp;auto=webp&amp;s=c569e8342e4e2c9c8fb9f4afab3b8e51a9fe3b2a",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Keep the community and yourself healthy and happy.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 2048,
+                "name": "Wearing is Caring",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/lcswc5d07hb51_WearingisCaring.png?width=16&amp;height=16&amp;auto=webp&amp;s=b1a8234a0a122785991d6e6f8a4e0342525196fb",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/lcswc5d07hb51_WearingisCaring.png?width=32&amp;height=32&amp;auto=webp&amp;s=d18080390a3a15888b1fb45f6310b0362e97d1c9",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/lcswc5d07hb51_WearingisCaring.png?width=48&amp;height=48&amp;auto=webp&amp;s=d19c39d1fcfc71fe7f4eb2ba1a52d18d8f063b6e",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/lcswc5d07hb51_WearingisCaring.png?width=64&amp;height=64&amp;auto=webp&amp;s=d4bdebbc07f33dcb808bcdd14ca3a0095719bb13",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/lcswc5d07hb51_WearingisCaring.png?width=128&amp;height=128&amp;auto=webp&amp;s=c569e8342e4e2c9c8fb9f4afab3b8e51a9fe3b2a",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": "PNG",
+                "icon_height": 2048,
+                "penny_price": 0,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/lcswc5d07hb51_WearingisCaring.png"
+            }
+        ],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "c4536ffc-8150-11e4-ac2d-22000bc00059",
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qzb6",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#ffffff",
+        "id": "iq83nn",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "Michaelwellison",
+        "discussion_type": null,
+        "num_comments": 59,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/IAmA/comments/iq83nn/im_michael_ellison_i_grew_up_experiencing_poverty/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/IAmA/comments/iq83nn/im_michael_ellison_i_grew_up_experiencing_poverty/",
+        "subreddit_subscribers": 20603946,
+        "created_utc": 1599759426.0,
+        "num_crossposts": 9,
+        "media": null,
+        "is_video": false
+    }
+}

@@ -1,0 +1,284 @@
+{
+    "kind": "t3",
+    "data": {
+        "approved_at_utc": null,
+        "subreddit": "IAmA",
+        "selftext": "I'm Bill Woodcock, the executive director of Packet Clearing House, the international non-governmental organization that builds and supports critical Internet infrastructure. I also chair the board of Quad9. You can find me on Twitter [here](https://twitter.com/woodyatpch), on LinkedIn [here](https://www.linkedin.com/in/bwoodcock/), and on Reddit [here](https://www.reddit.com/user/billwoodcock). [Technology for Global Security](https://www.tech4gs.org), on Twitter [here](https://twitter.com/Tech4GS), is helping me run this AMA as part of an ongoing series of conversations with experts.\n\nI look forward to discussing with you all the security and economic stability of critical Internet infrastructure, how Internet bandwidth is produced and distributed, how the Domain Name System works and is secured, how the internet is coping with the current pandemic, and Internet infrastructure security and reliability generally. Ask me anything!\n\n&amp;#x200B;\n\nAbout me:\n\nBill Woodcock is the executive director of Packet Clearing House, the international non-governmental organization that builds and supports critical Internet infrastructure, including Internet exchange points and the core of the domain name system. Since entering the Internet industry in 1985, Bill has helped establish more than three hundred Internet exchange points. In 1989, Bill developed the anycast routing technique that now protects the domain name system. In 1998 he was one of the principal drivers of California 17538.4, the world’s first anti-spam legislation. Bill was principal author of the Multicast DNS and Operator Requirements of Infrastructure Management Methods IETF drafts. In 2002 he co-founded INOC-DBA, the security-coordination hotline system that interconnects the network operations centers of more than three thousand ISPs around the world. And in 2007, Bill was one of the two international liaisons deployed by NSP-Sec to the Estonian CERT during the Russian cyber-attack. In 2011, Bill authored the first survey of Internet interconnection agreements, as input to the OECD’s analysis of the Internet economy. Bill serves on the Global Commission on the Stability of Cyberspace, and the Commission on Caribbean Communications Resilience. He's on the board of directors of the M3AA Foundation, and was on the board of the American Registry for Internet Numbers for fifteen years. Now, Bill’s work focuses principally on the security and economic stability of critical Internet infrastructure.",
+        "author_fullname": "t2_5uhhi7j3",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "I am Bill Woodcock, the executive director of Packet Clearing House, the international non-governmental organization that builds and supports critical Internet infrastructure. Ask me anything!",
+        "link_flair_richtext": [
+            {
+                "e": "text",
+                "t": "Specialized Profession"
+            }
+        ],
+        "subreddit_name_prefixed": "r/IAmA",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "specialized",
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_g2kyo6",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.89,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 86,
+        "total_awards_received": 2,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Specialized Profession",
+        "can_mod_post": false,
+        "score": 86,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "self",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1587091695.0,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "self.IAmA",
+        "allow_live_comments": false,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m Bill Woodcock, the executive director of Packet Clearing House, the international non-governmental organization that builds and supports critical Internet infrastructure. I also chair the board of Quad9. You can find me on Twitter &lt;a href=\"https://twitter.com/woodyatpch\"&gt;here&lt;/a&gt;, on LinkedIn &lt;a href=\"https://www.linkedin.com/in/bwoodcock/\"&gt;here&lt;/a&gt;, and on Reddit &lt;a href=\"https://www.reddit.com/user/billwoodcock\"&gt;here&lt;/a&gt;. &lt;a href=\"https://www.tech4gs.org\"&gt;Technology for Global Security&lt;/a&gt;, on Twitter &lt;a href=\"https://twitter.com/Tech4GS\"&gt;here&lt;/a&gt;, is helping me run this AMA as part of an ongoing series of conversations with experts.&lt;/p&gt;\n\n&lt;p&gt;I look forward to discussing with you all the security and economic stability of critical Internet infrastructure, how Internet bandwidth is produced and distributed, how the Domain Name System works and is secured, how the internet is coping with the current pandemic, and Internet infrastructure security and reliability generally. Ask me anything!&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;About me:&lt;/p&gt;\n\n&lt;p&gt;Bill Woodcock is the executive director of Packet Clearing House, the international non-governmental organization that builds and supports critical Internet infrastructure, including Internet exchange points and the core of the domain name system. Since entering the Internet industry in 1985, Bill has helped establish more than three hundred Internet exchange points. In 1989, Bill developed the anycast routing technique that now protects the domain name system. In 1998 he was one of the principal drivers of California 17538.4, the world’s first anti-spam legislation. Bill was principal author of the Multicast DNS and Operator Requirements of Infrastructure Management Methods IETF drafts. In 2002 he co-founded INOC-DBA, the security-coordination hotline system that interconnects the network operations centers of more than three thousand ISPs around the world. And in 2007, Bill was one of the two international liaisons deployed by NSP-Sec to the Estonian CERT during the Russian cyber-attack. In 2011, Bill authored the first survey of Internet interconnection agreements, as input to the OECD’s analysis of the Internet economy. Bill serves on the Global Commission on the Stability of Cyberspace, and the Commission on Caribbean Communications Resilience. He&amp;#39;s on the board of directors of the M3AA Foundation, and was on the board of the American Registry for Internet Numbers for fifteen years. Now, Bill’s work focuses principally on the security and economic stability of critical Internet infrastructure.&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": true,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "all_awardings": [
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": "t5_2qzb6",
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 2000,
+                "id": "award_48b83aa4-a3f1-4ea7-9c95-558a6252e773",
+                "penny_donate": null,
+                "award_sub_type": "COMMUNITY",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_2qzb6/n8h85cxvcw731_StarofExcellence.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/n8h85cxvcw731_StarofExcellence.png?width=16&amp;height=16&amp;auto=webp&amp;s=2731c2b6c61a6aeeef7ca07cf02ed3afd581f706",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/n8h85cxvcw731_StarofExcellence.png?width=32&amp;height=32&amp;auto=webp&amp;s=bd98c9c8a0d6f2a9669d341423b632931ec9053e",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/n8h85cxvcw731_StarofExcellence.png?width=48&amp;height=48&amp;auto=webp&amp;s=fce2d3366e64c6a1cc71f1e9fc6006601fa49a5b",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/n8h85cxvcw731_StarofExcellence.png?width=64&amp;height=64&amp;auto=webp&amp;s=f2d6c300dfffec549b0ae2019c778c5074831725",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/n8h85cxvcw731_StarofExcellence.png?width=128&amp;height=128&amp;auto=webp&amp;s=65b616a93309199b6f76b1e3d3b6b162bc7aa5c0",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 512,
+                "static_icon_width": 512,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Shows the Star of Excellence Award and grants %{coin_symbol}400 Coins to the community. Exclusive to this community.",
+                "end_date": null,
+                "subreddit_coin_reward": 400,
+                "count": 1,
+                "static_icon_height": 512,
+                "name": "Star of Excellence",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/n8h85cxvcw731_StarofExcellence.png?width=16&amp;height=16&amp;auto=webp&amp;s=2731c2b6c61a6aeeef7ca07cf02ed3afd581f706",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/n8h85cxvcw731_StarofExcellence.png?width=32&amp;height=32&amp;auto=webp&amp;s=bd98c9c8a0d6f2a9669d341423b632931ec9053e",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/n8h85cxvcw731_StarofExcellence.png?width=48&amp;height=48&amp;auto=webp&amp;s=fce2d3366e64c6a1cc71f1e9fc6006601fa49a5b",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/n8h85cxvcw731_StarofExcellence.png?width=64&amp;height=64&amp;auto=webp&amp;s=f2d6c300dfffec549b0ae2019c778c5074831725",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/n8h85cxvcw731_StarofExcellence.png?width=128&amp;height=128&amp;auto=webp&amp;s=65b616a93309199b6f76b1e3d3b6b162bc7aa5c0",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 512,
+                "penny_price": null,
+                "award_type": "community",
+                "static_icon_url": "https://i.redd.it/award_images/t5_2qzb6/n8h85cxvcw731_StarofExcellence.png"
+            },
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": "t5_2qzb6",
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 500,
+                "id": "award_c423bd0f-0f45-4a7b-948e-d72d11017cbb",
+                "penny_donate": null,
+                "award_sub_type": "COMMUNITY",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_2qzb6/1ulrd6zrcw731_OnFire.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/1ulrd6zrcw731_OnFire.png?width=16&amp;height=16&amp;auto=webp&amp;s=fe1a5b6ce63aa85950e6ba52f74fb395cd23cbc3",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/1ulrd6zrcw731_OnFire.png?width=32&amp;height=32&amp;auto=webp&amp;s=b43d930ea57a7275ef6af670dc2988ae991aab48",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/1ulrd6zrcw731_OnFire.png?width=48&amp;height=48&amp;auto=webp&amp;s=ea29b94879a47f34c895a70b2cc629e42b92d163",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/1ulrd6zrcw731_OnFire.png?width=64&amp;height=64&amp;auto=webp&amp;s=7e57fb292d86f89279388246be8e3719cb344bcb",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/1ulrd6zrcw731_OnFire.png?width=128&amp;height=128&amp;auto=webp&amp;s=8131f835e90292365ef093fc15698c122a30092d",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 512,
+                "static_icon_width": 512,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Shows the On Fire Award and grants %{coin_symbol}100 Coins to the community. Exclusive to this community.",
+                "end_date": null,
+                "subreddit_coin_reward": 100,
+                "count": 1,
+                "static_icon_height": 512,
+                "name": "On Fire",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/1ulrd6zrcw731_OnFire.png?width=16&amp;height=16&amp;auto=webp&amp;s=fe1a5b6ce63aa85950e6ba52f74fb395cd23cbc3",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/1ulrd6zrcw731_OnFire.png?width=32&amp;height=32&amp;auto=webp&amp;s=b43d930ea57a7275ef6af670dc2988ae991aab48",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/1ulrd6zrcw731_OnFire.png?width=48&amp;height=48&amp;auto=webp&amp;s=ea29b94879a47f34c895a70b2cc629e42b92d163",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/1ulrd6zrcw731_OnFire.png?width=64&amp;height=64&amp;auto=webp&amp;s=7e57fb292d86f89279388246be8e3719cb344bcb",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/1ulrd6zrcw731_OnFire.png?width=128&amp;height=128&amp;auto=webp&amp;s=8131f835e90292365ef093fc15698c122a30092d",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 512,
+                "penny_price": null,
+                "award_type": "community",
+                "static_icon_url": "https://i.redd.it/award_images/t5_2qzb6/1ulrd6zrcw731_OnFire.png"
+            }
+        ],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "bb0bffea-8150-11e4-ae47-22000bc1096c",
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qzb6",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#ffffff",
+        "id": "g2kyo6",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "Tech4GS",
+        "discussion_type": null,
+        "num_comments": 63,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/IAmA/comments/g2kyo6/i_am_bill_woodcock_the_executive_director_of/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/IAmA/comments/g2kyo6/i_am_bill_woodcock_the_executive_director_of/",
+        "subreddit_subscribers": 20603948,
+        "created_utc": 1587062895.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    }
+}

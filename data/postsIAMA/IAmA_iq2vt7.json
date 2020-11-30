@@ -1,0 +1,341 @@
+{
+    "kind": "t3",
+    "data": {
+        "approved_at_utc": null,
+        "subreddit": "IAmA",
+        "selftext": "Hi Reddit, we are Half Human Games, a small indie game studio working on an action tower-defense RPG called Dwerve which is currently on [Kickstarter](https://www.kickstarter.com/projects/halfhumangames/dwerve-tower-defense-dungeon-crawler-rpg). Pixel Pete (Peter Milko) and I (Percy Legendre) started working on Dwerve 2 years ago while doing contact work for other game studios. Eventually, we were able to start working on Dwerve full-time and expand our team. Now our team also consists of pixel artist Enchae, known for his work on the action-adventure Sparklite, and Mordi, a talented composer and sound designer that has worked on over a dozen titles. So feel free to ask art and audio questions too.\n\nWe would love to share our experiences as a small indie studio with you: how we made our career choice to become developers, our inspirations, or even technical discussion of our techniques.\n\nProof: I am the moderator of [/r/HalfHumanGames](https://www.reddit.com/r/halfhumangames/) which both the [Dwerve](https://dwerve.com/) and [Half Human Games](https://halfhumangames.com/) websites link to. The Dwerve [Steam page](https://store.steampowered.com/app/1132760/Dwerve/) links to the Dwerve website. I made a [tweet](https://twitter.com/HalfHumanGames/status/1304056292630290434) about the AMA earlier today from the Half Human Games Twitter account.\n\nAsk Us Anything!",
+        "author_fullname": "t2_11k3da",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "We are Half Human Games, a small independent game studio working on a fully-funded PC title. Ask Us Anything!",
+        "link_flair_richtext": [
+            {
+                "e": "text",
+                "t": "Gaming"
+            }
+        ],
+        "subreddit_name_prefixed": "r/IAmA",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "gaming",
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_iq2vt7",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.75,
+        "author_flair_background_color": "",
+        "subreddit_type": "public",
+        "ups": 58,
+        "total_awards_received": 2,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Gaming",
+        "can_mod_post": false,
+        "score": 58,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "self",
+        "edited": 1600191240.0,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [
+            {
+                "a": ":verified:",
+                "e": "emoji",
+                "u": "https://emoji.redditmedia.com/c084y0ue7wv31_t5_2qzb6/verified"
+            },
+            {
+                "e": "text",
+                "t": " Scheduled AMA"
+            }
+        ],
+        "gildings": {},
+        "post_hint": "self",
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1599771862.0,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "richtext",
+        "domain": "self.IAmA",
+        "allow_live_comments": true,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi Reddit, we are Half Human Games, a small indie game studio working on an action tower-defense RPG called Dwerve which is currently on &lt;a href=\"https://www.kickstarter.com/projects/halfhumangames/dwerve-tower-defense-dungeon-crawler-rpg\"&gt;Kickstarter&lt;/a&gt;. Pixel Pete (Peter Milko) and I (Percy Legendre) started working on Dwerve 2 years ago while doing contact work for other game studios. Eventually, we were able to start working on Dwerve full-time and expand our team. Now our team also consists of pixel artist Enchae, known for his work on the action-adventure Sparklite, and Mordi, a talented composer and sound designer that has worked on over a dozen titles. So feel free to ask art and audio questions too.&lt;/p&gt;\n\n&lt;p&gt;We would love to share our experiences as a small indie studio with you: how we made our career choice to become developers, our inspirations, or even technical discussion of our techniques.&lt;/p&gt;\n\n&lt;p&gt;Proof: I am the moderator of &lt;a href=\"https://www.reddit.com/r/halfhumangames/\"&gt;/r/HalfHumanGames&lt;/a&gt; which both the &lt;a href=\"https://dwerve.com/\"&gt;Dwerve&lt;/a&gt; and &lt;a href=\"https://halfhumangames.com/\"&gt;Half Human Games&lt;/a&gt; websites link to. The Dwerve &lt;a href=\"https://store.steampowered.com/app/1132760/Dwerve/\"&gt;Steam page&lt;/a&gt; links to the Dwerve website. I made a &lt;a href=\"https://twitter.com/HalfHumanGames/status/1304056292630290434\"&gt;tweet&lt;/a&gt; about the AMA earlier today from the Half Human Games Twitter account.&lt;/p&gt;\n\n&lt;p&gt;Ask Us Anything!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/GfyrscenoJOkoJT4UJVyXB8ewpfuvs1m4XB7Fxk5mYs.jpg?auto=webp&amp;s=aec16be458815879f31f819502093153c20911cc",
+                        "width": 3840,
+                        "height": 2160
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/GfyrscenoJOkoJT4UJVyXB8ewpfuvs1m4XB7Fxk5mYs.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=1992e94af0bf0e435ae9a5e45da82d15536f3406",
+                            "width": 108,
+                            "height": 60
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/GfyrscenoJOkoJT4UJVyXB8ewpfuvs1m4XB7Fxk5mYs.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=c592bc7f0ea87c3bdc0931f7ad52933e5c5409f7",
+                            "width": 216,
+                            "height": 121
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/GfyrscenoJOkoJT4UJVyXB8ewpfuvs1m4XB7Fxk5mYs.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=fb0b283041df91ec50f752fc711f454dd2a60050",
+                            "width": 320,
+                            "height": 180
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/GfyrscenoJOkoJT4UJVyXB8ewpfuvs1m4XB7Fxk5mYs.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=98ca2fdc084ddb3b5582b6d820ff856dad3ea1ea",
+                            "width": 640,
+                            "height": 360
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/GfyrscenoJOkoJT4UJVyXB8ewpfuvs1m4XB7Fxk5mYs.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=e7034e6148d96fd5fecd72163bd707ef4b7e7d4c",
+                            "width": 960,
+                            "height": 540
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/GfyrscenoJOkoJT4UJVyXB8ewpfuvs1m4XB7Fxk5mYs.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=2768d0d9fe4d5abcbead728a15a76a2da5f780c6",
+                            "width": 1080,
+                            "height": 607
+                        }
+                    ],
+                    "variants": {},
+                    "id": "AkgIhu1wNLFGWuiiPh6Gr8Mp64x-jJMTNabQt3eWacw"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": "t5_2qzb6",
+                "is_new": false,
+                "days_of_drip_extension": 31,
+                "coin_price": 1800,
+                "id": "award_1a6554b6-e238-4798-b534-0a51e59cdcf0",
+                "penny_donate": null,
+                "award_sub_type": "MODERATOR",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_2qzb6/gpjgxn49mw731_ModeratorsChoice.png",
+                "days_of_premium": 31,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/gpjgxn49mw731_ModeratorsChoice.png?width=16&amp;height=16&amp;auto=webp&amp;s=22a0643db8ea6aca93495de45689d0c6d5cd41cf",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/gpjgxn49mw731_ModeratorsChoice.png?width=32&amp;height=32&amp;auto=webp&amp;s=78e92e56f2a537ced7c32d78f7fbc5624f0122c8",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/gpjgxn49mw731_ModeratorsChoice.png?width=48&amp;height=48&amp;auto=webp&amp;s=45a43693f172ce509e90800a2d63ec66566d5c72",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/gpjgxn49mw731_ModeratorsChoice.png?width=64&amp;height=64&amp;auto=webp&amp;s=7802920452f1e78d57434041eec1761a414d299b",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/gpjgxn49mw731_ModeratorsChoice.png?width=128&amp;height=128&amp;auto=webp&amp;s=efa99f18e153e8d03b20fb8d6d45a75bab8a42f5",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 512,
+                "static_icon_width": 512,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Shows the Moderator's Choice Award and gives the recipient 1 month of Premium (which includes %{coin_symbol}700 Coins a month). ",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 512,
+                "name": "Moderator's Choice",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/gpjgxn49mw731_ModeratorsChoice.png?width=16&amp;height=16&amp;auto=webp&amp;s=22a0643db8ea6aca93495de45689d0c6d5cd41cf",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/gpjgxn49mw731_ModeratorsChoice.png?width=32&amp;height=32&amp;auto=webp&amp;s=78e92e56f2a537ced7c32d78f7fbc5624f0122c8",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/gpjgxn49mw731_ModeratorsChoice.png?width=48&amp;height=48&amp;auto=webp&amp;s=45a43693f172ce509e90800a2d63ec66566d5c72",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/gpjgxn49mw731_ModeratorsChoice.png?width=64&amp;height=64&amp;auto=webp&amp;s=7802920452f1e78d57434041eec1761a414d299b",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_2qzb6/gpjgxn49mw731_ModeratorsChoice.png?width=128&amp;height=128&amp;auto=webp&amp;s=efa99f18e153e8d03b20fb8d6d45a75bab8a42f5",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 512,
+                "penny_price": null,
+                "award_type": "moderator",
+                "static_icon_url": "https://i.redd.it/award_images/t5_2qzb6/gpjgxn49mw731_ModeratorsChoice.png"
+            },
+            {
+                "giver_coin_reward": null,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 150,
+                "id": "award_77ba55a2-c33c-4351-ac49-807455a80148",
+                "penny_donate": null,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=16&amp;height=16&amp;auto=webp&amp;s=7a2f2b927be72d2b46ebd95bab8c072c3be0fbab",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=32&amp;height=32&amp;auto=webp&amp;s=6e42b7095bcc331e53202438613aa827addf70c3",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=48&amp;height=48&amp;auto=webp&amp;s=c740f7ef642fd2042d62c2bcba98734d08dfae6c",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=64&amp;height=64&amp;auto=webp&amp;s=74e630f1072bb2423034ae48aefa241d834d7186",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=128&amp;height=128&amp;auto=webp&amp;s=0a89cd8011c8210315ee60441eefd77b973a0c82",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "Prayers up for the blessed.",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 2048,
+                "name": "Bless Up",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=16&amp;height=16&amp;auto=webp&amp;s=7a2f2b927be72d2b46ebd95bab8c072c3be0fbab",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=32&amp;height=32&amp;auto=webp&amp;s=6e42b7095bcc331e53202438613aa827addf70c3",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=48&amp;height=48&amp;auto=webp&amp;s=c740f7ef642fd2042d62c2bcba98734d08dfae6c",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=64&amp;height=64&amp;auto=webp&amp;s=74e630f1072bb2423034ae48aefa241d834d7186",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png?width=128&amp;height=128&amp;auto=webp&amp;s=0a89cd8011c8210315ee60441eefd77b973a0c82",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": null,
+                "icon_height": 2048,
+                "penny_price": null,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/trfv6ems1md41_BlessUp.png"
+            }
+        ],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "33497480-7b2d-11e4-8d6d-12313d052165",
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": ":verified: Scheduled AMA",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qzb6",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#ffffff",
+        "id": "iq2vt7",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "snarlynarwhal",
+        "discussion_type": null,
+        "num_comments": 65,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/IAmA/comments/iq2vt7/we_are_half_human_games_a_small_independent_game/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/IAmA/comments/iq2vt7/we_are_half_human_games_a_small_independent_game/",
+        "subreddit_subscribers": 20603946,
+        "created_utc": 1599743062.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    }
+}

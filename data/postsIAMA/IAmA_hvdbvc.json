@@ -1,0 +1,252 @@
+{
+    "kind": "t3",
+    "data": {
+        "approved_at_utc": null,
+        "subreddit": "IAmA",
+        "selftext": "Hey everyone! As promised I wanted to provide an update from [yesterday's Apollo AMA](https://www.reddit.com/r/IAmA/comments/huo2l7/im_christian_selig_i_used_to_work_at_apple_and/). \n\nLong story short I work full time on making an awesome Reddit app for iOS called Apollo people ended up really liking and after over 2 million downloads I've been able to make it into my full time job. I love animals and our local SPCA shelter needed money due to an influx of orphaned kittens in these warm months (dubbed \"kitten season\"), made worse by the COVID pandemic and a decrease in adoptions and neutering, so the plan was to donate all my proceeds from the app for the day to the SPCA. So anyone who was interested in the Pro unlock in app could get the it AND support a good cause!\n\nWell yesterday blew away my wildest expectations. Seriously. To be clear I don't even make in the planetary orbit of this on a daily basis, the AMA and support around the fundraiser amplifies it to a crazy extent and a lot of people support the app which is incredible and exactly what I want because this kind of amazing thing happens. I think the large amount of money was due to a lot of people meaning to unlock the Pro/Ultra version of Apollo (it's free download/use) but hadn't got around to it yet, plus [a new icon option](https://i.imgur.com/rCm1Sfz.png) giving existing users a fun thing to unlock and support, and Apollo's grown a lot over the last year with even more people enjoying it, so combined with the AMA and the post in r/Apple it had a lot of eyes on the fundraiser. Which I'm so happy and feel so fortunate for.\n\n**We raised a total of $42,749.29. Forty. Two. Thousand. Dollars.** That's a ton of money, that's like multiple cars. Or put another way, this bag of cat food is $5/pound. I'm sure the SPCA can get a better bulk/charity price than that, so let's say $4/pound. **That's over 10,600 pounds of cat food.** Adult great white sharks weigh around 1,250 pounds. That's the weight of over 8 great white sharks in cat food. \n\nHere's an image breaking down the figures for how the $42,749 came to be. ($39.6K from sales proceeds, $2.5K direct donations, $600 from responses): https://i.imgur.com/qA0Am8F.png\n\nThe previous record for donations in a single day to the Nova Scotia SPCA was coincidentally $27,355 [from our fundraiser last year](https://www.reddit.com/r/IAmA/comments/cg18r3/update_on_yesterdays_apollo_spca_fundraiser_ama/)! I so desperately wanted to beat that this year and we crushed it by over 50%! I'm now in the process of logistically figuring out how to transfer this much money over to them as cheaply as possible without losing much to credit card fees and whatnot, but as evidenced from the [SPCA Twitter account](https://twitter.com/NSSPCA) you can verify that the money will reach them, given their trust in me and the donations we've made in previous years. Speaking of which, the first year we raised $5,087 the first year, $27,355 the second year, and $42,749 this year (third year) which brings us to a lifetime total of $75,099. What a beautiful number to end up on this year, I'm really hoping we can pass $100,000 one day!\n\nAnyway, thank you so much for your support. I'll stick around to answer some more questions if anyone has any (I tried to answer every single one from yesterday), but other than that I'm going to get back to trying to build the best Reddit app on earth! If you're interested in a free Reddit app as an alternative to the official app that has a serious focus on being fast to use and sleek with an amazing media viewer, I'd love for you to check it out! https://itunes.apple.com/app/id979274575\n\nStay safe y'all!\n\n\\- Christian",
+        "author_fullname": "t2_4mwol",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "[Update on yesterday's Apollo SPCA Fundraiser] We raised $42,749.29 yesterday for the SPCA Animal Shelter. FORTY TWO THOUSAND DOLLARS. We have broken the ALL TIME historic record for SPCA donations in a single day. I could cry. Thank you for the AMA and making a difference to these animals!!! 🐶🐱🐰",
+        "link_flair_richtext": [
+            {
+                "e": "text",
+                "t": "Technology"
+            }
+        ],
+        "subreddit_name_prefixed": "r/IAmA",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "tech",
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_hvdbvc",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.92,
+        "author_flair_background_color": "",
+        "subreddit_type": "public",
+        "ups": 14871,
+        "total_awards_received": 1,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Technology",
+        "can_mod_post": false,
+        "score": 14871,
+        "approved_by": null,
+        "author_premium": true,
+        "thumbnail": "self",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [
+            {
+                "a": ":verified:",
+                "e": "emoji",
+                "u": "https://emoji.redditmedia.com/c084y0ue7wv31_t5_2qzb6/verified"
+            },
+            {
+                "e": "text",
+                "t": " Scheduled AMA"
+            }
+        ],
+        "gildings": {},
+        "post_hint": "self",
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1595386397.0,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "richtext",
+        "domain": "self.IAmA",
+        "allow_live_comments": true,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey everyone! As promised I wanted to provide an update from &lt;a href=\"https://www.reddit.com/r/IAmA/comments/huo2l7/im_christian_selig_i_used_to_work_at_apple_and/\"&gt;yesterday&amp;#39;s Apollo AMA&lt;/a&gt;. &lt;/p&gt;\n\n&lt;p&gt;Long story short I work full time on making an awesome Reddit app for iOS called Apollo people ended up really liking and after over 2 million downloads I&amp;#39;ve been able to make it into my full time job. I love animals and our local SPCA shelter needed money due to an influx of orphaned kittens in these warm months (dubbed &amp;quot;kitten season&amp;quot;), made worse by the COVID pandemic and a decrease in adoptions and neutering, so the plan was to donate all my proceeds from the app for the day to the SPCA. So anyone who was interested in the Pro unlock in app could get the it AND support a good cause!&lt;/p&gt;\n\n&lt;p&gt;Well yesterday blew away my wildest expectations. Seriously. To be clear I don&amp;#39;t even make in the planetary orbit of this on a daily basis, the AMA and support around the fundraiser amplifies it to a crazy extent and a lot of people support the app which is incredible and exactly what I want because this kind of amazing thing happens. I think the large amount of money was due to a lot of people meaning to unlock the Pro/Ultra version of Apollo (it&amp;#39;s free download/use) but hadn&amp;#39;t got around to it yet, plus &lt;a href=\"https://i.imgur.com/rCm1Sfz.png\"&gt;a new icon option&lt;/a&gt; giving existing users a fun thing to unlock and support, and Apollo&amp;#39;s grown a lot over the last year with even more people enjoying it, so combined with the AMA and the post in &lt;a href=\"/r/Apple\"&gt;r/Apple&lt;/a&gt; it had a lot of eyes on the fundraiser. Which I&amp;#39;m so happy and feel so fortunate for.&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;We raised a total of $42,749.29. Forty. Two. Thousand. Dollars.&lt;/strong&gt; That&amp;#39;s a ton of money, that&amp;#39;s like multiple cars. Or put another way, this bag of cat food is $5/pound. I&amp;#39;m sure the SPCA can get a better bulk/charity price than that, so let&amp;#39;s say $4/pound. &lt;strong&gt;That&amp;#39;s over 10,600 pounds of cat food.&lt;/strong&gt; Adult great white sharks weigh around 1,250 pounds. That&amp;#39;s the weight of over 8 great white sharks in cat food. &lt;/p&gt;\n\n&lt;p&gt;Here&amp;#39;s an image breaking down the figures for how the $42,749 came to be. ($39.6K from sales proceeds, $2.5K direct donations, $600 from responses): &lt;a href=\"https://i.imgur.com/qA0Am8F.png\"&gt;https://i.imgur.com/qA0Am8F.png&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;The previous record for donations in a single day to the Nova Scotia SPCA was coincidentally $27,355 &lt;a href=\"https://www.reddit.com/r/IAmA/comments/cg18r3/update_on_yesterdays_apollo_spca_fundraiser_ama/\"&gt;from our fundraiser last year&lt;/a&gt;! I so desperately wanted to beat that this year and we crushed it by over 50%! I&amp;#39;m now in the process of logistically figuring out how to transfer this much money over to them as cheaply as possible without losing much to credit card fees and whatnot, but as evidenced from the &lt;a href=\"https://twitter.com/NSSPCA\"&gt;SPCA Twitter account&lt;/a&gt; you can verify that the money will reach them, given their trust in me and the donations we&amp;#39;ve made in previous years. Speaking of which, the first year we raised $5,087 the first year, $27,355 the second year, and $42,749 this year (third year) which brings us to a lifetime total of $75,099. What a beautiful number to end up on this year, I&amp;#39;m really hoping we can pass $100,000 one day!&lt;/p&gt;\n\n&lt;p&gt;Anyway, thank you so much for your support. I&amp;#39;ll stick around to answer some more questions if anyone has any (I tried to answer every single one from yesterday), but other than that I&amp;#39;m going to get back to trying to build the best Reddit app on earth! If you&amp;#39;re interested in a free Reddit app as an alternative to the official app that has a serious focus on being fast to use and sleek with an amazing media viewer, I&amp;#39;d love for you to check it out! &lt;a href=\"https://itunes.apple.com/app/id979274575\"&gt;https://itunes.apple.com/app/id979274575&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Stay safe y&amp;#39;all!&lt;/p&gt;\n\n&lt;p&gt;- Christian&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/YkXrJwCB7GzexW7Ps_SmmFYpc6GWI3l5Sd28LqBslO4.png?auto=webp&amp;s=db8b03ec9d1200151d529de88debaf27ea1b996e",
+                        "width": 1024,
+                        "height": 1024
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/YkXrJwCB7GzexW7Ps_SmmFYpc6GWI3l5Sd28LqBslO4.png?width=108&amp;crop=smart&amp;auto=webp&amp;s=a5e877569fe53238b6c6f36d23e80a5975ff5185",
+                            "width": 108,
+                            "height": 108
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/YkXrJwCB7GzexW7Ps_SmmFYpc6GWI3l5Sd28LqBslO4.png?width=216&amp;crop=smart&amp;auto=webp&amp;s=72d609626db8243566e6de2dce2934e2b981c546",
+                            "width": 216,
+                            "height": 216
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/YkXrJwCB7GzexW7Ps_SmmFYpc6GWI3l5Sd28LqBslO4.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=1a1e9428800c54b1f6c3bc343631f3820e57c0aa",
+                            "width": 320,
+                            "height": 320
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/YkXrJwCB7GzexW7Ps_SmmFYpc6GWI3l5Sd28LqBslO4.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=7f9533d28a79e0c3c23950e8245b1207cf57a4a0",
+                            "width": 640,
+                            "height": 640
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/YkXrJwCB7GzexW7Ps_SmmFYpc6GWI3l5Sd28LqBslO4.png?width=960&amp;crop=smart&amp;auto=webp&amp;s=e446379a3280d87e3808c88db092fcff3c603446",
+                            "width": 960,
+                            "height": 960
+                        }
+                    ],
+                    "variants": {},
+                    "id": "vIDM2MLFH8pShhKDF0r1MD5W1W4dwENyAZLSYQzB7Y8"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [
+            {
+                "giver_coin_reward": 0,
+                "subreddit_id": null,
+                "is_new": false,
+                "days_of_drip_extension": 0,
+                "coin_price": 70,
+                "id": "award_7becef23-fb0b-4d62-b8a6-01d5759367cb",
+                "penny_donate": 0,
+                "award_sub_type": "GLOBAL",
+                "coin_reward": 0,
+                "icon_url": "https://i.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png",
+                "days_of_premium": 0,
+                "tiers_by_required_awardings": null,
+                "resized_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=16&amp;height=16&amp;auto=webp&amp;s=19c8ba1570a2447a04354e05a9463f3d2063f522",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=32&amp;height=32&amp;auto=webp&amp;s=6222517b5d76c737ce1ad1ab55c42e3ce53c11d7",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=48&amp;height=48&amp;auto=webp&amp;s=5f5d88a13a1a514298ec5c7edc6f2506750f3c4a",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=64&amp;height=64&amp;auto=webp&amp;s=3af85a35bcd871d432337f309f6ea333181b4092",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=128&amp;height=128&amp;auto=webp&amp;s=4631e5c3e2cda226cb2725e9eff118c7b419a95e",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_width": 2048,
+                "static_icon_width": 2048,
+                "start_date": null,
+                "is_enabled": true,
+                "awardings_required_to_grant_benefits": null,
+                "description": "When goodness lifts you",
+                "end_date": null,
+                "subreddit_coin_reward": 0,
+                "count": 1,
+                "static_icon_height": 2048,
+                "name": "Faith In Humanity Restored",
+                "resized_static_icons": [
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=16&amp;height=16&amp;auto=webp&amp;s=19c8ba1570a2447a04354e05a9463f3d2063f522",
+                        "width": 16,
+                        "height": 16
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=32&amp;height=32&amp;auto=webp&amp;s=6222517b5d76c737ce1ad1ab55c42e3ce53c11d7",
+                        "width": 32,
+                        "height": 32
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=48&amp;height=48&amp;auto=webp&amp;s=5f5d88a13a1a514298ec5c7edc6f2506750f3c4a",
+                        "width": 48,
+                        "height": 48
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=64&amp;height=64&amp;auto=webp&amp;s=3af85a35bcd871d432337f309f6ea333181b4092",
+                        "width": 64,
+                        "height": 64
+                    },
+                    {
+                        "url": "https://preview.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png?width=128&amp;height=128&amp;auto=webp&amp;s=4631e5c3e2cda226cb2725e9eff118c7b419a95e",
+                        "width": 128,
+                        "height": 128
+                    }
+                ],
+                "icon_format": "PNG",
+                "icon_height": 2048,
+                "penny_price": 0,
+                "award_type": "global",
+                "static_icon_url": "https://i.redd.it/award_images/t5_22cerq/gva4vt20qc751_FaithInHumanityRestored.png"
+            }
+        ],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "c4536ffc-8150-11e4-ac2d-22000bc00059",
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": ":verified: Scheduled AMA",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qzb6",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#ffffff",
+        "id": "hvdbvc",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "iamthatis",
+        "discussion_type": null,
+        "num_comments": 161,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/IAmA/comments/hvdbvc/update_on_yesterdays_apollo_spca_fundraiser_we/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/IAmA/comments/hvdbvc/update_on_yesterdays_apollo_spca_fundraiser_we/",
+        "subreddit_subscribers": 20603947,
+        "created_utc": 1595357597.0,
+        "num_crossposts": 1,
+        "media": null,
+        "is_video": false
+    }
+}

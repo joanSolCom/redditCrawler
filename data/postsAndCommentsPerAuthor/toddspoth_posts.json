@@ -1,0 +1,560 @@
+[
+    {
+        "approved_at_utc": null,
+        "subreddit": "itookapicture",
+        "selftext": "",
+        "author_fullname": "t2_pgk28",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "ITAP of Erykah Badu watching The Flaming Lips perform Dark Side of The Moon",
+        "link_flair_richtext": [],
+        "subreddit_name_prefixed": "r/itookapicture",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": null,
+        "downs": 0,
+        "thumbnail_height": 93,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_i7kiwc",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.89,
+        "author_flair_background_color": "",
+        "subreddit_type": "public",
+        "ups": 7,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": 140,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": true,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": null,
+        "can_mod_post": false,
+        "score": 7,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://b.thumbs.redditmedia.com/f2y7eh6YbYSCZBfAAmBs1MdHUMRzTa6YBMqNR4AMqRM.jpg",
+        "edited": false,
+        "author_flair_css_class": "",
+        "author_flair_richtext": [
+            {
+                "a": ":instagram:",
+                "e": "emoji",
+                "u": "https://emoji.redditmedia.com/fuh12ccelut01_t5_2r1tc/instagram"
+            },
+            {
+                "e": "text",
+                "t": " @toddspoth"
+            }
+        ],
+        "gildings": {},
+        "post_hint": "image",
+        "content_categories": [
+            "photography"
+        ],
+        "is_self": false,
+        "mod_note": null,
+        "created": 1597146422.0,
+        "link_flair_type": "text",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "richtext",
+        "domain": "i.redd.it",
+        "allow_live_comments": false,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://i.redd.it/6zx82phvoag51.jpg",
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://preview.redd.it/6zx82phvoag51.jpg?auto=webp&amp;s=99b9387169eea918f03ca2b80ad9019d7ced7f10",
+                        "width": 2000,
+                        "height": 1333
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/6zx82phvoag51.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=109404fb10f31333d6a7e85b89c93e72b695f0f6",
+                            "width": 108,
+                            "height": 71
+                        },
+                        {
+                            "url": "https://preview.redd.it/6zx82phvoag51.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=ee70a7b494ee0ee627676850c964a40715ff81b6",
+                            "width": 216,
+                            "height": 143
+                        },
+                        {
+                            "url": "https://preview.redd.it/6zx82phvoag51.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=996069bcc03f6d76abaf6180df64fd61ba19216d",
+                            "width": 320,
+                            "height": 213
+                        },
+                        {
+                            "url": "https://preview.redd.it/6zx82phvoag51.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=e9468f47613a28217fda484efbfd296fbb8fd555",
+                            "width": 640,
+                            "height": 426
+                        },
+                        {
+                            "url": "https://preview.redd.it/6zx82phvoag51.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=ec25f31aa9732a05638f2e00b38bd95a206f325b",
+                            "width": 960,
+                            "height": 639
+                        },
+                        {
+                            "url": "https://preview.redd.it/6zx82phvoag51.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=9655577731d044ac37720adcffadc301bdb52510",
+                            "width": 1080,
+                            "height": 719
+                        }
+                    ],
+                    "variants": {},
+                    "id": "cq9BYnUqTMuJPgHWBbofywD0eVhad6Mt8_vtGJLnmRs"
+                }
+            ],
+            "enabled": true
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": ":instagram: @toddspoth",
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2r1tc",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "i7kiwc",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "toddspoth",
+        "discussion_type": null,
+        "num_comments": 2,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": "dark",
+        "permalink": "/r/itookapicture/comments/i7kiwc/itap_of_erykah_badu_watching_the_flaming_lips/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://i.redd.it/6zx82phvoag51.jpg",
+        "subreddit_subscribers": 2767829,
+        "created_utc": 1597117622.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    },
+    {
+        "approved_at_utc": null,
+        "subreddit": "gifs",
+        "selftext": "",
+        "author_fullname": "t2_pgk28",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "Notorious BIG's childhood home in Brooklyn, NY as captured on his birthday (May 21st) in 2016 by photographer Todd Spoth",
+        "link_flair_richtext": [],
+        "subreddit_name_prefixed": "r/gifs",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": null,
+        "downs": 0,
+        "thumbnail_height": 95,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_go21dj",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.43,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 0,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": 140,
+        "author_flair_template_id": null,
+        "is_original_content": true,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": true,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": null,
+        "can_mod_post": false,
+        "score": 0,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "https://b.thumbs.redditmedia.com/732Gq7CV3igC3GPqRO4CruvmV52IbcwNZYSfyTlvvfw.jpg",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "image",
+        "content_categories": null,
+        "is_self": false,
+        "mod_note": null,
+        "created": 1590113687.0,
+        "link_flair_type": "text",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "i.redd.it",
+        "allow_live_comments": false,
+        "selftext_html": null,
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "url_overridden_by_dest": "https://i.redd.it/fwe6muais5051.gif",
+        "view_count": null,
+        "archived": true,
+        "no_follow": true,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://preview.redd.it/fwe6muais5051.gif?format=png8&amp;s=ac2a62fea87fb13adfc8d4ad5571e7e475d7dab3",
+                        "width": 2000,
+                        "height": 1362
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://preview.redd.it/fwe6muais5051.gif?width=108&amp;crop=smart&amp;format=png8&amp;s=0c467e706f25b86e6cc22f0419d0707169be460d",
+                            "width": 108,
+                            "height": 73
+                        },
+                        {
+                            "url": "https://preview.redd.it/fwe6muais5051.gif?width=216&amp;crop=smart&amp;format=png8&amp;s=95424be2e23bf37c13e99fe3593ec091e07d471e",
+                            "width": 216,
+                            "height": 147
+                        },
+                        {
+                            "url": "https://preview.redd.it/fwe6muais5051.gif?width=320&amp;crop=smart&amp;format=png8&amp;s=4a7008268900565b8331dfda11ffff4381fee57b",
+                            "width": 320,
+                            "height": 217
+                        },
+                        {
+                            "url": "https://preview.redd.it/fwe6muais5051.gif?width=640&amp;crop=smart&amp;format=png8&amp;s=34ceb6e00f0871083417de37f3e623e8124a8f55",
+                            "width": 640,
+                            "height": 435
+                        },
+                        {
+                            "url": "https://preview.redd.it/fwe6muais5051.gif?width=960&amp;crop=smart&amp;format=png8&amp;s=ee88a181e3b0f5d35f48f85bc0bd2df0a406adf0",
+                            "width": 960,
+                            "height": 653
+                        },
+                        {
+                            "url": "https://preview.redd.it/fwe6muais5051.gif?width=1080&amp;crop=smart&amp;format=png8&amp;s=0306fc1dabac43381bda8e784d54c8289228ec37",
+                            "width": 1080,
+                            "height": 735
+                        }
+                    ],
+                    "variants": {
+                        "gif": {
+                            "source": {
+                                "url": "https://preview.redd.it/fwe6muais5051.gif?s=cfad2e335e4389ffb63acc43880ddbd66fd9e686",
+                                "width": 2000,
+                                "height": 1362
+                            },
+                            "resolutions": [
+                                {
+                                    "url": "https://preview.redd.it/fwe6muais5051.gif?width=108&amp;crop=smart&amp;s=1b8f2dcf6d99f67edf6bd87759bfbc33198d8645",
+                                    "width": 108,
+                                    "height": 73
+                                },
+                                {
+                                    "url": "https://preview.redd.it/fwe6muais5051.gif?width=216&amp;crop=smart&amp;s=a732afc8749a20bbe84495c3ea3fbd4b019f03a8",
+                                    "width": 216,
+                                    "height": 147
+                                },
+                                {
+                                    "url": "https://preview.redd.it/fwe6muais5051.gif?width=320&amp;crop=smart&amp;s=5b2beab299e69a540d0c4786f7e21fe3871864fe",
+                                    "width": 320,
+                                    "height": 217
+                                },
+                                {
+                                    "url": "https://preview.redd.it/fwe6muais5051.gif?width=640&amp;crop=smart&amp;s=47a458f322327beb6e5e23634959c9dd86d4d730",
+                                    "width": 640,
+                                    "height": 435
+                                },
+                                {
+                                    "url": "https://preview.redd.it/fwe6muais5051.gif?width=960&amp;crop=smart&amp;s=017c920bb6ee07fab5ad6f1ac7f80f0fc3a7a209",
+                                    "width": 960,
+                                    "height": 653
+                                },
+                                {
+                                    "url": "https://preview.redd.it/fwe6muais5051.gif?width=1080&amp;crop=smart&amp;s=7dbb773895008a34629c8ea71d1725097b522f1a",
+                                    "width": 1080,
+                                    "height": 735
+                                }
+                            ]
+                        },
+                        "mp4": {
+                            "source": {
+                                "url": "https://preview.redd.it/fwe6muais5051.gif?format=mp4&amp;s=2cee24f56065d5eccdc3a1a14e3f8b92b766f013",
+                                "width": 2000,
+                                "height": 1362
+                            },
+                            "resolutions": [
+                                {
+                                    "url": "https://preview.redd.it/fwe6muais5051.gif?width=108&amp;format=mp4&amp;s=c5846d6648251c425a1836075335c7e0562a3ede",
+                                    "width": 108,
+                                    "height": 73
+                                },
+                                {
+                                    "url": "https://preview.redd.it/fwe6muais5051.gif?width=216&amp;format=mp4&amp;s=ddbc8ed02875969357bd317a1378dfeb8f79dce4",
+                                    "width": 216,
+                                    "height": 147
+                                },
+                                {
+                                    "url": "https://preview.redd.it/fwe6muais5051.gif?width=320&amp;format=mp4&amp;s=7c3cb668038aafc6f574573441261645d0150ccf",
+                                    "width": 320,
+                                    "height": 217
+                                },
+                                {
+                                    "url": "https://preview.redd.it/fwe6muais5051.gif?width=640&amp;format=mp4&amp;s=dcad66070600ce139cae85901244f301a5017017",
+                                    "width": 640,
+                                    "height": 435
+                                },
+                                {
+                                    "url": "https://preview.redd.it/fwe6muais5051.gif?width=960&amp;format=mp4&amp;s=6395bbc2c1beb1efeda1f03df3713e79619482c3",
+                                    "width": 960,
+                                    "height": 653
+                                },
+                                {
+                                    "url": "https://preview.redd.it/fwe6muais5051.gif?width=1080&amp;format=mp4&amp;s=265a938871457bf78317d7ac6ffea789c2dd5bc6",
+                                    "width": 1080,
+                                    "height": 735
+                                }
+                            ]
+                        }
+                    },
+                    "id": "OuDRMbzoTaVcfi-LA9zBYXa4BqIVWPXEHPhK3lIC-zQ"
+                }
+            ],
+            "enabled": true
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qt55",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "",
+        "id": "go21dj",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "toddspoth",
+        "discussion_type": null,
+        "num_comments": 8,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/gifs/comments/go21dj/notorious_bigs_childhood_home_in_brooklyn_ny_as/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://i.redd.it/fwe6muais5051.gif",
+        "subreddit_subscribers": 20621647,
+        "created_utc": 1590084887.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    },
+    {
+        "approved_at_utc": null,
+        "subreddit": "IAmA",
+        "selftext": "Hi Reddit!\n\nMy name is Todd Spoth and I am a commercial &amp; editorial photographer that has been working full time as a freelance photographer for about 15 years. I am based in Houston, Texas, but my work takes me all over the world. Although I went to college (The University of Houston - Go Coogs!) my degrees were in political science and neuropsychology.\n\nPhotography is coincidentally the only class I have ever failed.\n\nI grew up all over the place including spending a couple years in Paris, France during the mid-90’s however most of my youth was spent in Clear Lake City, Texas which is home to NASA’s Johnson Space Center. The Neutral Buoyancy Lab (NBL - aka the big pool where astronauts train) was right behind our home. My very first job was giving tours to visitors there via Space Center Houston. In recent years, I have had the chance to go back several times to photograph astronauts at the NBL as well as at Johnson Space Center. Back in 2016 I had the pleasure of meeting and photographing an amazing team of newly minted female astronauts training and prepping on campus at JSC. A portrait I made of 4 of them posing on the back of the Mars Exploration Rover was recently published in book called Seeing Science: How Photography Reveals the Universe (Aperture / 2019). They even let me drive it!\n\nFor the last 10 years I have been working on an on-going personal project focusing on hip hop artists and culture. I have met and photographed incredible talents from all over the genre including getting a tour into the inner-workings of TV Johnny Dang’s (aka the jeweler to the stars) personal office and showroom to spending a day with Vince Staples running around Austin, TX during SXSW for Billboard. I am known as “Uncle Todd” to more than a few rapper’s children and although I love the live musical experience, I personally am drawn to photographing the moments away from the stage and giving a window into the culture that most don’t normally get to see. I’ve been on the court with Drake, Bun B has been to my house and I’ve been golfing with Scarface.\n\nI have photographed multiple US Presidents, multiple World Series’ and have visited the secretive and private homes of some of the world’s most well-known and controversial figures from Ted Cruz and US Navy Seal Marcus Luttrell (aka the “Lone Survivor”) to more illusive billionaires than I can count on both hands. I have been ‘slimed’ with NBA star Chris Paul for Nickelodeon, and worked with US Olympian Simone Biles on several occasions.\n\nMy job is to meet rad people and make them look awesome.\n\n——————————\n\nBecause of the limitations on gatherings and such due to the Coronavirus, I started a Patreon with lots of exclusive content as well as 1 on 1 mentoring sessions in lieu of in-person classes. The mentorship spots are limited to 15 folks a month. Check it out at the link below if you think you might be interested and please share if you can!\n\n**Unrelated interests:** I have been a musician, played in bands and have written/recorded my own music for far longer than I have been a photographer. I am an avid vinyl record collector, appreciator and seller and sometimes DJ on the side. I am a self-proclaimed expert in all types of slow music from emo and shoegaze to my beloved DJ Screw (RIP).\n\n——————————\n\nI have a lot of experience and interesting stories and am known to keep it authentically real at all times, so please…Ask Me Anything!\n\n**VERIFICATION:** [https://twitter.com/toddspoth/status/1261311602613198853?s=20](https://twitter.com/toddspoth/status/1261311602613198853?s=20)\n\n**PATREON:** [http://patreon.com/toddspoth](http://patreon.com/toddspoth)\n\n**PORTFOLIO:** [http://toddspoth.com](http://toddspoth.com)\n\n**INSTAGRAM:** [http://instagram.com/toddspoth](http://instagram.com/toddspoth)\n\n**TWITTER:** [http://twitter.com/toddspoth](http://twitter.com/toddspoth)\n\n**NEWSLETTER SIGNUP:** [http://bit.ly/TSPpromolist](http://bit.ly/TSPpromolist)\n\n**NEWS ARTICLE FROM TODAY MENTIONING THIS AMA:** [https://wonderfulmachine.com/blog/During-COVID-Todd-Spoth-Teaches-on-Patreon](https://wonderfulmachine.com/blog/During-COVID-Todd-Spoth-Teaches-on-Patreon)\n\n&amp;#x200B;\n\n*\\*\\*\\* Huge thanks to everyone that participated, shared, asked questions, upvoted, or viewed my very first AMA here. It was truly a pleasure and an honor to even have one person pose a question. I don't know how all of this works, but for as long as this thread is around and you are able to ask a question, I will find my way back and answer you with the same energy no matter if its in an hour from now or next year. I love y'all. Stay safe out there. -Todd \\*\\*\\** ",
+        "author_fullname": "t2_pgk28",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "I am Todd Spoth, commercial &amp; editorial photographer who has worked with NASA astronauts, famous athletes, notorious politicians and your favorite rapper! AMA",
+        "link_flair_richtext": [
+            {
+                "e": "text",
+                "t": "Specialized Profession"
+            }
+        ],
+        "subreddit_name_prefixed": "r/IAmA",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "specialized",
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_gkaspk",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.76,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 14,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Specialized Profession",
+        "can_mod_post": false,
+        "score": 14,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "self",
+        "edited": 1589595430.0,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "self",
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1589584018.0,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "self.IAmA",
+        "allow_live_comments": false,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi Reddit!&lt;/p&gt;\n\n&lt;p&gt;My name is Todd Spoth and I am a commercial &amp;amp; editorial photographer that has been working full time as a freelance photographer for about 15 years. I am based in Houston, Texas, but my work takes me all over the world. Although I went to college (The University of Houston - Go Coogs!) my degrees were in political science and neuropsychology.&lt;/p&gt;\n\n&lt;p&gt;Photography is coincidentally the only class I have ever failed.&lt;/p&gt;\n\n&lt;p&gt;I grew up all over the place including spending a couple years in Paris, France during the mid-90’s however most of my youth was spent in Clear Lake City, Texas which is home to NASA’s Johnson Space Center. The Neutral Buoyancy Lab (NBL - aka the big pool where astronauts train) was right behind our home. My very first job was giving tours to visitors there via Space Center Houston. In recent years, I have had the chance to go back several times to photograph astronauts at the NBL as well as at Johnson Space Center. Back in 2016 I had the pleasure of meeting and photographing an amazing team of newly minted female astronauts training and prepping on campus at JSC. A portrait I made of 4 of them posing on the back of the Mars Exploration Rover was recently published in book called Seeing Science: How Photography Reveals the Universe (Aperture / 2019). They even let me drive it!&lt;/p&gt;\n\n&lt;p&gt;For the last 10 years I have been working on an on-going personal project focusing on hip hop artists and culture. I have met and photographed incredible talents from all over the genre including getting a tour into the inner-workings of TV Johnny Dang’s (aka the jeweler to the stars) personal office and showroom to spending a day with Vince Staples running around Austin, TX during SXSW for Billboard. I am known as “Uncle Todd” to more than a few rapper’s children and although I love the live musical experience, I personally am drawn to photographing the moments away from the stage and giving a window into the culture that most don’t normally get to see. I’ve been on the court with Drake, Bun B has been to my house and I’ve been golfing with Scarface.&lt;/p&gt;\n\n&lt;p&gt;I have photographed multiple US Presidents, multiple World Series’ and have visited the secretive and private homes of some of the world’s most well-known and controversial figures from Ted Cruz and US Navy Seal Marcus Luttrell (aka the “Lone Survivor”) to more illusive billionaires than I can count on both hands. I have been ‘slimed’ with NBA star Chris Paul for Nickelodeon, and worked with US Olympian Simone Biles on several occasions.&lt;/p&gt;\n\n&lt;p&gt;My job is to meet rad people and make them look awesome.&lt;/p&gt;\n\n&lt;p&gt;——————————&lt;/p&gt;\n\n&lt;p&gt;Because of the limitations on gatherings and such due to the Coronavirus, I started a Patreon with lots of exclusive content as well as 1 on 1 mentoring sessions in lieu of in-person classes. The mentorship spots are limited to 15 folks a month. Check it out at the link below if you think you might be interested and please share if you can!&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;Unrelated interests:&lt;/strong&gt; I have been a musician, played in bands and have written/recorded my own music for far longer than I have been a photographer. I am an avid vinyl record collector, appreciator and seller and sometimes DJ on the side. I am a self-proclaimed expert in all types of slow music from emo and shoegaze to my beloved DJ Screw (RIP).&lt;/p&gt;\n\n&lt;p&gt;——————————&lt;/p&gt;\n\n&lt;p&gt;I have a lot of experience and interesting stories and am known to keep it authentically real at all times, so please…Ask Me Anything!&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;VERIFICATION:&lt;/strong&gt; &lt;a href=\"https://twitter.com/toddspoth/status/1261311602613198853?s=20\"&gt;https://twitter.com/toddspoth/status/1261311602613198853?s=20&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;PATREON:&lt;/strong&gt; &lt;a href=\"http://patreon.com/toddspoth\"&gt;http://patreon.com/toddspoth&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;PORTFOLIO:&lt;/strong&gt; &lt;a href=\"http://toddspoth.com\"&gt;http://toddspoth.com&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;INSTAGRAM:&lt;/strong&gt; &lt;a href=\"http://instagram.com/toddspoth\"&gt;http://instagram.com/toddspoth&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;TWITTER:&lt;/strong&gt; &lt;a href=\"http://twitter.com/toddspoth\"&gt;http://twitter.com/toddspoth&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;NEWSLETTER SIGNUP:&lt;/strong&gt; &lt;a href=\"http://bit.ly/TSPpromolist\"&gt;http://bit.ly/TSPpromolist&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&lt;strong&gt;NEWS ARTICLE FROM TODAY MENTIONING THIS AMA:&lt;/strong&gt; &lt;a href=\"https://wonderfulmachine.com/blog/During-COVID-Todd-Spoth-Teaches-on-Patreon\"&gt;https://wonderfulmachine.com/blog/During-COVID-Todd-Spoth-Teaches-on-Patreon&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;&lt;em&gt;\\&lt;/em&gt;** Huge thanks to everyone that participated, shared, asked questions, upvoted, or viewed my very first AMA here. It was truly a pleasure and an honor to even have one person pose a question. I don&amp;#39;t know how all of this works, but for as long as this thread is around and you are able to ask a question, I will find my way back and answer you with the same energy no matter if its in an hour from now or next year. I love y&amp;#39;all. Stay safe out there. -Todd **** &lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": true,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/BxSb_zZcgKIxAZfKX8FA4BnJcdO0MdG08xpcfqMDXYM.jpg?auto=webp&amp;s=e4c8bd8f69605eca428bbff6be163d9728ca4445",
+                        "width": 1125,
+                        "height": 2000
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/BxSb_zZcgKIxAZfKX8FA4BnJcdO0MdG08xpcfqMDXYM.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=66c45071abace3139b8cde182b6f8476d81724ac",
+                            "width": 108,
+                            "height": 192
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/BxSb_zZcgKIxAZfKX8FA4BnJcdO0MdG08xpcfqMDXYM.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=fcb3371963476486ee3c953bead268c5357b3133",
+                            "width": 216,
+                            "height": 384
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/BxSb_zZcgKIxAZfKX8FA4BnJcdO0MdG08xpcfqMDXYM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=222fd4edefcb7856e9fdd2a16fa886396d34011a",
+                            "width": 320,
+                            "height": 568
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/BxSb_zZcgKIxAZfKX8FA4BnJcdO0MdG08xpcfqMDXYM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=fd9487abed527d090801bd1b175ef1c664a3df3b",
+                            "width": 640,
+                            "height": 1137
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/BxSb_zZcgKIxAZfKX8FA4BnJcdO0MdG08xpcfqMDXYM.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=e8d4f1a5d44fd7f3d57d9aa439962f2b58c1b19e",
+                            "width": 960,
+                            "height": 1706
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/BxSb_zZcgKIxAZfKX8FA4BnJcdO0MdG08xpcfqMDXYM.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=4c3b6ad5a1b0f46a12be25bb4b7a95f4ecb9be6e",
+                            "width": 1080,
+                            "height": 1920
+                        }
+                    ],
+                    "variants": {},
+                    "id": "299RHVQUHyYs6t3O_YC0XqDqTcnZEBU4Vxxjz7hukV8"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "bb0bffea-8150-11e4-ae47-22000bc1096c",
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qzb6",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#ffffff",
+        "id": "gkaspk",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "toddspoth",
+        "discussion_type": null,
+        "num_comments": 34,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/IAmA/comments/gkaspk/i_am_todd_spoth_commercial_editorial_photographer/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/IAmA/comments/gkaspk/i_am_todd_spoth_commercial_editorial_photographer/",
+        "subreddit_subscribers": 20614088,
+        "created_utc": 1589555218.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    }
+]

@@ -1,0 +1,162 @@
+{
+    "kind": "t3",
+    "data": {
+        "approved_at_utc": null,
+        "subreddit": "IAmA",
+        "selftext": "This AMA is happening in /r/jumprope: [https://reddit.com/r/jumprope/sometext](https://reddit.com/r/jumprope/sometext)\n\nProof:\n\n[https://imgur.com/N3u4Zx7](https://imgur.com/N3u4Zx7)",
+        "author_fullname": "t2_63vn1ev7",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "Hi, I’m Dave, CEO of Crossrope and we make cool jump ropes, ask me anything! [crosspost r/jumprope]",
+        "link_flair_richtext": [
+            {
+                "e": "text",
+                "t": "Crosspost"
+            }
+        ],
+        "subreddit_name_prefixed": "r/IAmA",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "crosspost",
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_hc7csb",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.8,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 30,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Crosspost",
+        "can_mod_post": false,
+        "score": 30,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "self",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "self",
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1592624631.0,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "self.IAmA",
+        "allow_live_comments": true,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;This AMA is happening in &lt;a href=\"/r/jumprope\"&gt;/r/jumprope&lt;/a&gt;: &lt;a href=\"https://reddit.com/r/jumprope/sometext\"&gt;https://reddit.com/r/jumprope/sometext&lt;/a&gt;&lt;/p&gt;\n\n&lt;p&gt;Proof:&lt;/p&gt;\n\n&lt;p&gt;&lt;a href=\"https://imgur.com/N3u4Zx7\"&gt;https://imgur.com/N3u4Zx7&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/KS4T_162_8ABdrpocrFN9MRMU-soyJBeQdg1MOPG978.jpg?auto=webp&amp;s=a8145ba427c88ffd7fdf259137bd2e5fae3c3c19",
+                        "width": 4032,
+                        "height": 3024
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/KS4T_162_8ABdrpocrFN9MRMU-soyJBeQdg1MOPG978.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=5a30d673b0e0826d2ce625811d25f03e9cee66bb",
+                            "width": 108,
+                            "height": 81
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/KS4T_162_8ABdrpocrFN9MRMU-soyJBeQdg1MOPG978.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=6782099a722da2166312745a017b800ce7d0c10a",
+                            "width": 216,
+                            "height": 162
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/KS4T_162_8ABdrpocrFN9MRMU-soyJBeQdg1MOPG978.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=1308fcaf6d12bb4c77f32ca43bf37a45b541f226",
+                            "width": 320,
+                            "height": 240
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/KS4T_162_8ABdrpocrFN9MRMU-soyJBeQdg1MOPG978.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=417a02899c83866d4e586890c6b22660a224364e",
+                            "width": 640,
+                            "height": 480
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/KS4T_162_8ABdrpocrFN9MRMU-soyJBeQdg1MOPG978.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=2fe8f78c9b9e9d325da07437b1507dab2f2071bd",
+                            "width": 960,
+                            "height": 720
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/KS4T_162_8ABdrpocrFN9MRMU-soyJBeQdg1MOPG978.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=fe6616b560f7f6b1e9ba0e7a31bba7179eaf43c1",
+                            "width": 1080,
+                            "height": 810
+                        }
+                    ],
+                    "variants": {},
+                    "id": "SIhgssWqmYXFrZ-WRSRA2YQW3EqwuMzSShSAISMEYRM"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "237487fc-7b2d-11e4-b86c-12313b0eada0",
+        "can_gild": false,
+        "spoiler": false,
+        "locked": true,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qzb6",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#ffffff",
+        "id": "hc7csb",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "crossropedave",
+        "discussion_type": null,
+        "num_comments": 1,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/IAmA/comments/hc7csb/hi_im_dave_ceo_of_crossrope_and_we_make_cool_jump/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/IAmA/comments/hc7csb/hi_im_dave_ceo_of_crossrope_and_we_make_cool_jump/",
+        "subreddit_subscribers": 20603946,
+        "created_utc": 1592595831.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    }
+}

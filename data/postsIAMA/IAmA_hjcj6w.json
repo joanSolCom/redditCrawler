@@ -1,0 +1,162 @@
+{
+    "kind": "t3",
+    "data": {
+        "approved_at_utc": null,
+        "subreddit": "IAmA",
+        "selftext": "1. [Twitter](https://twitter.com/myanrueller28). [Kickstarter Project.](https://www.kickstarter.com/projects/ryanmueller28/bei-beis-programming-puzzles) For verification\n2. [Additional image for verification.](https://imgur.com/a/PKCzTVK)\n\nI picked up programming as a hobby in 2015, about a year after graduating with a degree in music. I struggled with severe bipolar disorder that was misdiagnosed as depression before an emotional support animal, the right diagnosis and medication. In August of last year, I returned to my Alma Mater to get a second degree focusing in software engineering. Each senior in the program must complete a capstone project. These vary from making image processing applications in Android Studio, Neural Network research, VR development. For mine, I decided to make a video game from scratch that could teach programming.\n\nMy senior project, titled \"Bei-Bei's Programming Puzzles\" is a game to teach Python programming. The game engine has the Python C API interpreter embedded into the C++ video game application. This allows the design of the lessons or levels to be more flexible, and allow for the end user to add their own puzzles, levels, or lessons to the game. \n\nThe long term goal is sustainability, and I plan to have a system in place upon release that allows for users to edit and create their own puzzle/level/lesson directly in the game and not be required to work with the JSON format that stores the level information. \n\n&amp;#x200B;\n\nAMA!",
+        "author_fullname": "t2_e9a99",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "I received a degree in music, worked in surgical services, returned to school for software engineering and my senior project focusing on a game to teach programming is now on Kickstarter. AMA!",
+        "link_flair_richtext": [
+            {
+                "e": "text",
+                "t": "Gaming"
+            }
+        ],
+        "subreddit_name_prefixed": "r/IAmA",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "gaming",
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_hjcj6w",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.65,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 20,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Gaming",
+        "can_mod_post": false,
+        "score": 20,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "self",
+        "edited": false,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "self",
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1593646436.0,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "self.IAmA",
+        "allow_live_comments": false,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;ol&gt;\n&lt;li&gt;&lt;a href=\"https://twitter.com/myanrueller28\"&gt;Twitter&lt;/a&gt;. &lt;a href=\"https://www.kickstarter.com/projects/ryanmueller28/bei-beis-programming-puzzles\"&gt;Kickstarter Project.&lt;/a&gt; For verification&lt;/li&gt;\n&lt;li&gt;&lt;a href=\"https://imgur.com/a/PKCzTVK\"&gt;Additional image for verification.&lt;/a&gt;&lt;/li&gt;\n&lt;/ol&gt;\n\n&lt;p&gt;I picked up programming as a hobby in 2015, about a year after graduating with a degree in music. I struggled with severe bipolar disorder that was misdiagnosed as depression before an emotional support animal, the right diagnosis and medication. In August of last year, I returned to my Alma Mater to get a second degree focusing in software engineering. Each senior in the program must complete a capstone project. These vary from making image processing applications in Android Studio, Neural Network research, VR development. For mine, I decided to make a video game from scratch that could teach programming.&lt;/p&gt;\n\n&lt;p&gt;My senior project, titled &amp;quot;Bei-Bei&amp;#39;s Programming Puzzles&amp;quot; is a game to teach Python programming. The game engine has the Python C API interpreter embedded into the C++ video game application. This allows the design of the lessons or levels to be more flexible, and allow for the end user to add their own puzzles, levels, or lessons to the game. &lt;/p&gt;\n\n&lt;p&gt;The long term goal is sustainability, and I plan to have a system in place upon release that allows for users to edit and create their own puzzle/level/lesson directly in the game and not be required to work with the JSON format that stores the level information. &lt;/p&gt;\n\n&lt;p&gt;&amp;#x200B;&lt;/p&gt;\n\n&lt;p&gt;AMA!&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/kTKjUVskLkbAXUn7ZzhFw-8s3g7LCfJ_ca3rFS6izlo.jpg?auto=webp&amp;s=732f2002eee9ba0c9a01bbc36c4164a0bc46a0cb",
+                        "width": 1920,
+                        "height": 1080
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/kTKjUVskLkbAXUn7ZzhFw-8s3g7LCfJ_ca3rFS6izlo.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=20670db45f71263e499d604e068f4aa4e279a7bc",
+                            "width": 108,
+                            "height": 60
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/kTKjUVskLkbAXUn7ZzhFw-8s3g7LCfJ_ca3rFS6izlo.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=245b31e6e79e54118e13bc1558327b816a0e2b6b",
+                            "width": 216,
+                            "height": 121
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/kTKjUVskLkbAXUn7ZzhFw-8s3g7LCfJ_ca3rFS6izlo.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=db3a085f2c8b0d013c9b1f6ca2adb615c20a263b",
+                            "width": 320,
+                            "height": 180
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/kTKjUVskLkbAXUn7ZzhFw-8s3g7LCfJ_ca3rFS6izlo.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=5e4e91539fc5292941b60fadf197307f7afb52c2",
+                            "width": 640,
+                            "height": 360
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/kTKjUVskLkbAXUn7ZzhFw-8s3g7LCfJ_ca3rFS6izlo.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=a5b670c5897c5422c912858f6954edf030c1f03a",
+                            "width": 960,
+                            "height": 540
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/kTKjUVskLkbAXUn7ZzhFw-8s3g7LCfJ_ca3rFS6izlo.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=dd769c5579092e066a34f754b9d4d103f6773153",
+                            "width": 1080,
+                            "height": 607
+                        }
+                    ],
+                    "variants": {},
+                    "id": "zmKT17BfgDBqYPxLl6vN9YRADEQ8w783G95k8FKs9dY"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "33497480-7b2d-11e4-8d6d-12313d052165",
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qzb6",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#ffffff",
+        "id": "hjcj6w",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "myanrueller",
+        "discussion_type": null,
+        "num_comments": 11,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/IAmA/comments/hjcj6w/i_received_a_degree_in_music_worked_in_surgical/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/IAmA/comments/hjcj6w/i_received_a_degree_in_music_worked_in_surgical/",
+        "subreddit_subscribers": 20603948,
+        "created_utc": 1593617636.0,
+        "num_crossposts": 0,
+        "media": null,
+        "is_video": false
+    }
+}

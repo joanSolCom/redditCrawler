@@ -1,0 +1,162 @@
+{
+    "kind": "t3",
+    "data": {
+        "approved_at_utc": null,
+        "subreddit": "IAmA",
+        "selftext": "Hi Reddit, I’m [Mara Hvistendahl](https://twitter.com/marahvistendahl), an investigative reporter for The Intercept focusing on national security and technology — and I’m [Micah Lee](https://twitter.com/micahflee), Director of Information Security at The Intercept. We’re answering questions about [BlueLeaks](https://theintercept.com/collections/blueleaks/):\n\nLast month, the transparency collective Distributed Denial of Secrets published 269 gigabytes of law enforcement data. In all, the archive contains more than 16 million rows of data: not just personal information of officers, but descriptions of alleged crimes, website logs, and more. It also contains hundreds of thousands of documents, thousands of videos, and millions of images.⁠\n\nAmong those documents is a Homeland Security intelligence note which expresses the anxiety that mask-wearing [is breaking facial recognition technology](https://theintercept.com/2020/07/16/face-masks-facial-recognition-dhs-blueleaks/), as public health wisdom clashes with the prerogatives of local and federal police.\n\nProof:\n\n* [https://i.redd.it/nekhnndusue51.jpg](https://i.redd.it/nekhnndusue51.jpg)\n* [https://i.redd.it/h7een3n0tue51.jpg](https://i.redd.it/h7een3n0tue51.jpg)\n\nUPDATE: Thanks for joining, we're going to wrap up now. You can follow the rest of The Intercept's ongoing BlueLeaks coverage [here](https://theintercept.com/collections/blueleaks/), including one of our latest pieces: [Leaked Documents Show Police Knew Far-Right Extremists Were the Real Threat at Protests, Not “Antifa”](https://theintercept.com/2020/07/15/george-floyd-protests-police-far-right-antifa/)\n\n## ",
+        "author_fullname": "t2_2gyqnnpf",
+        "saved": false,
+        "mod_reason_title": null,
+        "gilded": 0,
+        "clicked": false,
+        "title": "We're an investigative reporter and the director of infosec at The Intercept. We recently examinedBlueLeaks documents, which exposed the personal data of 700,000 law enforcement officers and revealed Homeland Security concerns that masks are breaking facial recognition. AMA",
+        "link_flair_richtext": [
+            {
+                "e": "text",
+                "t": "Journalist"
+            }
+        ],
+        "subreddit_name_prefixed": "r/IAmA",
+        "hidden": false,
+        "pwls": 6,
+        "link_flair_css_class": "journalist",
+        "downs": 0,
+        "thumbnail_height": null,
+        "top_awarded_type": null,
+        "hide_score": false,
+        "name": "t3_i3nnup",
+        "quarantine": false,
+        "link_flair_text_color": "dark",
+        "upvote_ratio": 0.92,
+        "author_flair_background_color": null,
+        "subreddit_type": "public",
+        "ups": 6981,
+        "total_awards_received": 0,
+        "media_embed": {},
+        "thumbnail_width": null,
+        "author_flair_template_id": null,
+        "is_original_content": false,
+        "user_reports": [],
+        "secure_media": null,
+        "is_reddit_media_domain": false,
+        "is_meta": false,
+        "category": null,
+        "secure_media_embed": {},
+        "link_flair_text": "Journalist",
+        "can_mod_post": false,
+        "score": 6981,
+        "approved_by": null,
+        "author_premium": false,
+        "thumbnail": "self",
+        "edited": 1596568162.0,
+        "author_flair_css_class": null,
+        "author_flair_richtext": [],
+        "gildings": {},
+        "post_hint": "self",
+        "content_categories": null,
+        "is_self": true,
+        "mod_note": null,
+        "created": 1596591014.0,
+        "link_flair_type": "richtext",
+        "wls": 6,
+        "removed_by_category": null,
+        "banned_by": null,
+        "author_flair_type": "text",
+        "domain": "self.IAmA",
+        "allow_live_comments": true,
+        "selftext_html": "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi Reddit, I’m &lt;a href=\"https://twitter.com/marahvistendahl\"&gt;Mara Hvistendahl&lt;/a&gt;, an investigative reporter for The Intercept focusing on national security and technology — and I’m &lt;a href=\"https://twitter.com/micahflee\"&gt;Micah Lee&lt;/a&gt;, Director of Information Security at The Intercept. We’re answering questions about &lt;a href=\"https://theintercept.com/collections/blueleaks/\"&gt;BlueLeaks&lt;/a&gt;:&lt;/p&gt;\n\n&lt;p&gt;Last month, the transparency collective Distributed Denial of Secrets published 269 gigabytes of law enforcement data. In all, the archive contains more than 16 million rows of data: not just personal information of officers, but descriptions of alleged crimes, website logs, and more. It also contains hundreds of thousands of documents, thousands of videos, and millions of images.⁠&lt;/p&gt;\n\n&lt;p&gt;Among those documents is a Homeland Security intelligence note which expresses the anxiety that mask-wearing &lt;a href=\"https://theintercept.com/2020/07/16/face-masks-facial-recognition-dhs-blueleaks/\"&gt;is breaking facial recognition technology&lt;/a&gt;, as public health wisdom clashes with the prerogatives of local and federal police.&lt;/p&gt;\n\n&lt;p&gt;Proof:&lt;/p&gt;\n\n&lt;ul&gt;\n&lt;li&gt;&lt;a href=\"https://i.redd.it/nekhnndusue51.jpg\"&gt;https://i.redd.it/nekhnndusue51.jpg&lt;/a&gt;&lt;/li&gt;\n&lt;li&gt;&lt;a href=\"https://i.redd.it/h7een3n0tue51.jpg\"&gt;https://i.redd.it/h7een3n0tue51.jpg&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n\n&lt;p&gt;UPDATE: Thanks for joining, we&amp;#39;re going to wrap up now. You can follow the rest of The Intercept&amp;#39;s ongoing BlueLeaks coverage &lt;a href=\"https://theintercept.com/collections/blueleaks/\"&gt;here&lt;/a&gt;, including one of our latest pieces: &lt;a href=\"https://theintercept.com/2020/07/15/george-floyd-protests-police-far-right-antifa/\"&gt;Leaked Documents Show Police Knew Far-Right Extremists Were the Real Threat at Protests, Not “Antifa”&lt;/a&gt;&lt;/p&gt;\n&lt;/div&gt;&lt;!-- SC_ON --&gt;",
+        "likes": null,
+        "suggested_sort": null,
+        "banned_at_utc": null,
+        "view_count": null,
+        "archived": false,
+        "no_follow": false,
+        "is_crosspostable": false,
+        "pinned": false,
+        "over_18": false,
+        "preview": {
+            "images": [
+                {
+                    "source": {
+                        "url": "https://external-preview.redd.it/LySnAwjE0GWcQ9HgVR1PPKYl5xWPUVp22SNsmqX9gmc.jpg?auto=webp&amp;s=cb36c998278c60f4431148df900cbdc3886013ab",
+                        "width": 3024,
+                        "height": 4032
+                    },
+                    "resolutions": [
+                        {
+                            "url": "https://external-preview.redd.it/LySnAwjE0GWcQ9HgVR1PPKYl5xWPUVp22SNsmqX9gmc.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=4bf1265f7f9c22338054b7189872c19a8c480333",
+                            "width": 108,
+                            "height": 144
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/LySnAwjE0GWcQ9HgVR1PPKYl5xWPUVp22SNsmqX9gmc.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=40b709027bfb390c966bb945adab3f70addca366",
+                            "width": 216,
+                            "height": 288
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/LySnAwjE0GWcQ9HgVR1PPKYl5xWPUVp22SNsmqX9gmc.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e534ba0578cc86787dde23e574563ec8da372fae",
+                            "width": 320,
+                            "height": 426
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/LySnAwjE0GWcQ9HgVR1PPKYl5xWPUVp22SNsmqX9gmc.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=bb3846f93d29cab59eee311bd840ff02ce6fd6ec",
+                            "width": 640,
+                            "height": 853
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/LySnAwjE0GWcQ9HgVR1PPKYl5xWPUVp22SNsmqX9gmc.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=fff20572051f908630d55abf4da7b9f28c983f0a",
+                            "width": 960,
+                            "height": 1280
+                        },
+                        {
+                            "url": "https://external-preview.redd.it/LySnAwjE0GWcQ9HgVR1PPKYl5xWPUVp22SNsmqX9gmc.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=7611d1fa663cf64ea5ed9cc08839b3f90c4e8d9c",
+                            "width": 1080,
+                            "height": 1440
+                        }
+                    ],
+                    "variants": {},
+                    "id": "UyRDrpbqDp58rH4x7sdyu52cvsiA_0rS1g7QetVWyj4"
+                }
+            ],
+            "enabled": false
+        },
+        "all_awardings": [],
+        "awarders": [],
+        "media_only": false,
+        "link_flair_template_id": "3e3fa472-7b2d-11e4-a846-12313d149a6e",
+        "can_gild": false,
+        "spoiler": false,
+        "locked": false,
+        "author_flair_text": null,
+        "treatment_tags": [],
+        "visited": false,
+        "removed_by": null,
+        "num_reports": null,
+        "distinguished": null,
+        "subreddit_id": "t5_2qzb6",
+        "mod_reason_by": null,
+        "removal_reason": null,
+        "link_flair_background_color": "#ffffff",
+        "id": "i3nnup",
+        "is_robot_indexable": true,
+        "report_reasons": null,
+        "author": "theintercept",
+        "discussion_type": null,
+        "num_comments": 253,
+        "send_replies": true,
+        "whitelist_status": "all_ads",
+        "contest_mode": false,
+        "mod_reports": [],
+        "author_patreon_flair": false,
+        "author_flair_text_color": null,
+        "permalink": "/r/IAmA/comments/i3nnup/were_an_investigative_reporter_and_the_director/",
+        "parent_whitelist_status": "all_ads",
+        "stickied": false,
+        "url": "https://www.reddit.com/r/IAmA/comments/i3nnup/were_an_investigative_reporter_and_the_director/",
+        "subreddit_subscribers": 20603947,
+        "created_utc": 1596562214.0,
+        "num_crossposts": 4,
+        "media": null,
+        "is_video": false
+    }
+}
